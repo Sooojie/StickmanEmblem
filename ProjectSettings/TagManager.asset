@@ -2,13 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Map Grid
   - Water
   - UI
   - 
@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 4032130279
+    locked: 0
+  - name: Obstacle
+    uniqueID: 169082285
+    locked: 0
+  - name: Highlight
+    uniqueID: 2822061077
+    locked: 0
+  - name: Unit
+    uniqueID: 1805640647
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
