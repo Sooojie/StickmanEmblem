@@ -10,6 +10,7 @@ public class UnitSelectionManager : MonoBehaviour
     public Tilemap groundTilemap;
     public Tilemap highlightTilemap;
     public TileBase movementHighlight;
+    public GridPathfinder pathfinder;
 
     [Header("Obstacles")]
     public Tilemap obstacleTilemap;
@@ -33,6 +34,8 @@ public class UnitSelectionManager : MonoBehaviour
         HandleMouseClick();
     }
 
+    // Method: HandleMouseClick()
+    // Read mouse position, click, and unit selection
     private void HandleMouseClick()
     {
         Vector2 mousePosition = Mouse.current.position.ReadValue();
@@ -43,10 +46,12 @@ public class UnitSelectionManager : MonoBehaviour
 
         Collider2D hit = Physics2D.OverlapPoint(worldPoint);
 
+        // Detect if object was hit
         if (hit != null)
         {
             UnitController unit = hit.GetComponent<UnitController>();
 
+            // Detect if object had UnitController
             if (unit != null)
             {
                 SelectUnit(unit);
@@ -54,6 +59,7 @@ public class UnitSelectionManager : MonoBehaviour
             }
         }
 
+        // Get position of unit
         if (selectedUnit != null)
         {
             Vector3Int clickedCell = grid.WorldToCell(worldPosition);
@@ -62,6 +68,8 @@ public class UnitSelectionManager : MonoBehaviour
         }
     }
 
+    // Method: SelectUnit
+    // Set unit
     private void SelectUnit(UnitController unit)
     {
         selectedUnit = unit;
@@ -69,6 +77,8 @@ public class UnitSelectionManager : MonoBehaviour
         ShowMovementRange();
     }
 
+    // Method: ShowMovementRange
+    // Displays possible tiles to move unit
     private void ShowMovementRange()
     {
         highlightTilemap.ClearAllTiles();
@@ -101,6 +111,9 @@ public class UnitSelectionManager : MonoBehaviour
                 // Don't allow movement through obstacles.
                 if (obstacleTilemap != null && obstacleTilemap.HasTile(neighbor)) continue;
 
+                // Don't allow movement through other units.
+                if (UnitOccupancyManager.Instance.IsOccupied(neighbor, selectedUnit)) continue;
+
                 int newDistance = currentDistance + 1;
 
                 distances[neighbor] = newDistance;
@@ -111,12 +124,23 @@ public class UnitSelectionManager : MonoBehaviour
         }
     }
 
+    // Method: TryMoveSelectedUnit
+    // Moves unit, clear selected unit
     private void TryMoveSelectedUnit(Vector3Int targetCell)
     {
-        if (!highlightTilemap.HasTile(targetCell))
-            return;
+        if (!highlightTilemap.HasTile(targetCell)) return;
 
-        selectedUnit.MoveTo(targetCell);
+        // Calculate a path from the unit to the destination.
+        List<Vector3Int> path = pathfinder.FindPath(selectedUnit.CurrentCell, targetCell, selectedUnit);
+
+        if (path == null)
+        {
+            Debug.Log("No valid path found.");
+            return;
+        }
+
+        // Send the path to the unit.
+        selectedUnit.MoveTo(path);
 
         highlightTilemap.ClearAllTiles();
         selectedUnit = null;
