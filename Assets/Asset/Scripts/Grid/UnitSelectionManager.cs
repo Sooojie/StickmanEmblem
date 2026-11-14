@@ -69,7 +69,7 @@ public class UnitSelectionManager : MonoBehaviour
     }
 
     // Method: SelectUnit
-    // Set unit
+    // Sets unit if object at mouse position has a unitController
     private void SelectUnit(UnitController unit)
     {
         selectedUnit = unit;
@@ -125,7 +125,7 @@ public class UnitSelectionManager : MonoBehaviour
     }
 
     // Method: TryMoveSelectedUnit
-    // Moves unit, clear selected unit
+    // Moves unit to selected tile, clear selected unit
     private void TryMoveSelectedUnit(Vector3Int targetCell)
     {
         if (!highlightTilemap.HasTile(targetCell)) return;

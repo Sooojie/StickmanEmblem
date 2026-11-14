@@ -84,11 +84,15 @@ public class GridPathfinder : MonoBehaviour
         return null;
     }
 
+    // Method; GetDistance
+    // Returns the Manhattan distance between two grid cells.
     private int GetDistance(Vector3Int a, Vector3Int b)
     {
         return Mathf.Abs(a.x - b.x) + Mathf.Abs(a.y - b.y);
     }
 
+    // Method; ReconstructPath
+    // Builds the path from the predecessor map and orders it from start to destination.
     private List<Vector3Int> ReconstructPath( Dictionary<Vector3Int, Vector3Int> cameFrom, Vector3Int current)
     {
         List<Vector3Int> path = new List<Vector3Int>();

@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 public class UnitType 
 {
-    public int maxHealth { get; private set; }
+    public int maxHealth { get; set; }
     public int attack { get; set; }
     public int defense { get; set; }
     public int resistance { get; set; }
