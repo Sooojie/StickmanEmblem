@@ -83,44 +83,13 @@ public class UnitSelectionManager : MonoBehaviour
     {
         highlightTilemap.ClearAllTiles();
 
-        Queue<Vector3Int> queue = new Queue<Vector3Int>();
+        // Calculate every reachable tile using movement costs.
+        List<Vector3Int> reachableCells = pathfinder.GetReachableCells(selectedUnit.CurrentCell, selectedUnit.movementRange, selectedUnit);
 
-        Dictionary<Vector3Int, int> distances = new Dictionary<Vector3Int, int>();
-
-        Vector3Int startCell = selectedUnit.CurrentCell;
-
-        queue.Enqueue(startCell);
-        distances[startCell] = 0;
-
-        while (queue.Count > 0)
+        // Highlight reachable tiles.
+        foreach (Vector3Int cell in reachableCells)
         {
-            Vector3Int current = queue.Dequeue();
-
-            int currentDistance = distances[current];
-
-            if (currentDistance >= selectedUnit.movementRange) continue;
-
-            foreach (Vector3Int direction in directions)
-            {
-                Vector3Int neighbor = current + direction;
-
-                if (distances.ContainsKey(neighbor)) continue;
-
-                if (!groundTilemap.HasTile(neighbor)) continue;
-
-                // Don't allow movement through obstacles.
-                if (obstacleTilemap != null && obstacleTilemap.HasTile(neighbor)) continue;
-
-                // Don't allow movement through other units.
-                if (UnitOccupancyManager.Instance.IsOccupied(neighbor, selectedUnit)) continue;
-
-                int newDistance = currentDistance + 1;
-
-                distances[neighbor] = newDistance;
-                queue.Enqueue(neighbor);
-
-                highlightTilemap.SetTile(neighbor, movementHighlight);
-            }
+            highlightTilemap.SetTile(cell, movementHighlight);
         }
     }
 
