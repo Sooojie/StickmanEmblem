@@ -8,7 +8,7 @@ public class Unit
     public int exp {get; set;}
     private int health { get; set; }
     public Weapon weapon { get; set; }
-    private int maxHealth { get; set; }
+    public int maxHealth { get; private set; }
     public int attack { get; set; }
     public int defense { get; set; }
     public int resistance { get; set; }
