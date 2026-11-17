@@ -1,38 +1,30 @@
-using System.Collections.Generic;
+using UnityEngine;
 
-public class Unit
+public class Unit : UnitBehaviour
 {
-    public string name { get; private set; }
-    public int level { get; set; }
+    public Inventory inventory;
+    public UnitStats unitStats;
+    public int gold;
 
-    public int exp {get; set;}
-    public int health { get; set; }
-    public Weapon weapon { get; set; }
-    public int maxHealth { get; set; }
-    public int attack { get; set; }
-    public int defense { get; set; }
-    public int resistance { get; set; }
-    public int speed { get; set; }
-    public int range { get; set; }
-    public int skill { get; set; }
-    public int luck { get; set; }
-    public int constitution { get; set; }
-
-    public Unit (string name, Weapon weapon, UnitType unitType)
+    private void Awake()
     {
-        this.name = name;
-        level = 1;
-        exp = 0;
-        health = unitType.maxHealth;
-        this.weapon = weapon;
-        maxHealth = unitType.maxHealth;
-        attack = unitType.attack;
-        defense = unitType.defense;
-        resistance = unitType.resistance;
-        speed = unitType.speed;
-        range = unitType.range;
-        skill = unitType.skill;
-        luck = unitType.luck;
-        constitution = unitType.constitution;
+        inventory = GetComponent<Inventory>();
+        unitStats = GetComponent<UnitStats>();
+        gold = 0;
+    }
+
+    public void GetUnitStats(string name, UnitType unitType)
+    {
+        unitStats.Initialize(name, unitType);
+    }
+
+    public void GetItem(Item item)
+    {
+        inventory.AddItem(item);
+    }
+
+    public void addGold(int amount)
+    {
+        gold += amount;
     }
 }

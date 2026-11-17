@@ -1,18 +1,28 @@
 //base stats for tank
+using UnityEngine;
 
-public class Tank : UnitType
+
+public class Tank : UnitType, ScriptableObject
 {
     public Tank()
     {
-        maxHealth = 0;
-        attack = 0;
-        defense = 0;
-        resistance = 0;
-        speed = 0;
-        range = 0;
-        skill = 0;
+        maxHealth = 23;
+        attack = 7;
+        defense = 8;
+        resistance = 3;
+        speed = 7;
+        range = 8;
+        skill = 4;
         luck = 0;
-        constitution = 0;
+        constitution = 11;
+
+        healthGrowth = 60;
+        attackGrowth = 25;
+        skillGrowth  = 20;
+        speedGrowth = 25;
+        luckGrowth = 20;
+        defenseGrowth = 15;
+        resistanceGrowth = 20;
 
     }
 
