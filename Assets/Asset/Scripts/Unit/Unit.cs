@@ -1,21 +1,23 @@
 using UnityEngine;
 
-public class Unit : UnitBehaviour
+public class Unit : MonoBehaviour
 {
-    public Inventory inventory;
-    public UnitStats unitStats;
+    [Header("Unit Information")]
+    public string unitName;
     public int gold;
+
+    public UnitStats unitStats;
+
+    [Header("Inventory")]
+    public Inventory inventory;
 
     private void Awake()
     {
         inventory = GetComponent<Inventory>();
-        unitStats = GetComponent<UnitStats>();
-        gold = 0;
-    }
 
-    public void GetUnitStats(string name, UnitType unitType)
-    {
-        unitStats.Initialize(name, unitType);
+        unitStats = Instantiate(unitStats);
+        unitStats.Initialize();
+        gold = 0;
     }
 
     public void GetItem(Item item)
@@ -23,7 +25,7 @@ public class Unit : UnitBehaviour
         inventory.AddItem(item);
     }
 
-    public void addGold(int amount)
+    public void AddGold(int amount)
     {
         gold += amount;
     }

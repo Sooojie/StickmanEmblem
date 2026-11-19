@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6eb3169be2b408479c3356459055e23, type: 3}
+  m_Name: ArcherStats
+  m_EditorClassIdentifier: Assembly-CSharp::Archer
+  level: 1
+  experience: 0
+  health: 18
+  maxHealth: 18
+  attack: 4
+  defense: 3
+  resistance: 0
+  speed: 3
+  range: 5
+  skill: 3
+  luck: 0
+  constitution: 7
+  healthGrowth: 80
+  attackGrowth: 40
+  skillGrowth: 50
+  speedGrowth: 40
+  luckGrowth: 40
+  defenseGrowth: 20
+  resistanceGrowth: 10

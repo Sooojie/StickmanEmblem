@@ -1,10 +1,11 @@
 using UnityEngine;
 
-public class HealStaff : Weapon, ScriptableObject
+/**
+public class HealStaff : Weapon
 {
     public HealStaff()
     {
-        type = Staff;
+        type = weaponType.Staff;
         might = 10;
         hit = 0;
         crit = 0;  
@@ -13,4 +14,10 @@ public class HealStaff : Weapon, ScriptableObject
         uses = 30;
         cost = 600;
     }
+}
+**/
+
+[CreateAssetMenu(fileName = "HealStaff", menuName = "Inventory/Weapon/HealStaff")]
+public class HealStaff : Weapon
+{
 }

@@ -1,4 +1,4 @@
-using UnitEngine;
+using UnityEngine;
 
 public class LevelingUp : MonoBehaviour
 {
@@ -11,52 +11,61 @@ public class LevelingUp : MonoBehaviour
 
     private void GainExperience(int experience)
     {
-        unit.exp += experience;
+        unit.unitStats.experience += experience;
 
-        while (unit.exp >= 100)
+        while (unit.unitStats.experience >= 100)
         {
-            unit.exp -= 100;
+            unit.unitStats.experience -= 100;
             LevelUp();
         }
     }
 
     public void LevelUp()
     {
-        unit.level++;
+        unit.unitStats.level++;
 
-        if(Random.Range(0, 100) < unit.healthGrowth)
-        {
-            unit.maxHealth++;
-        }
+        IncreaseAttribute(unit.unitStats.healthGrowth, "health");
+        IncreaseAttribute(unit.unitStats.attackGrowth, "attack");
+        IncreaseAttribute(unit.unitStats.skillGrowth, "skill");
+        IncreaseAttribute(unit.unitStats.speedGrowth, "speed");
+        IncreaseAttribute(unit.unitStats.luckGrowth, "luck");
+        IncreaseAttribute(unit.unitStats.defenseGrowth, "defense");
+        IncreaseAttribute(unit.unitStats.resistanceGrowth, "resistance");
+    }
 
-        if(Random.Range(0, 100) < unit.attackGrowth)
-        {
-            unit.attack++;
-        }
+    public void IncreaseAttribute(int growthRate, string stat)
+    {
+        int roll = Random.Range(0, 100);
 
-        if(Random.Range(0, 100) < unit.skillGrowth)
+        if (roll < growthRate)
         {
-            unit.skill++;
-        }
-
-        if(Random.Range(0, 100) < unit.speedGrowth)
-        {
-            unit.speed++;
-        }
-
-        if(Random.Range(0, 100) < unit.luckGrowth)
-        {
-            unit.luck++;
-        }
-
-        if (Random.Range(0, 100) < unit.defenseGrowth)
-        {
-            unit.defense++;
-        }
-
-        if(Random.Range(0, 100) < unit.resistanceGrowth)
-        {
-            unit.resistance++;
+            switch (stat)
+            {
+                case "health":
+                    unit.unitStats.maxHealth++;
+                    unit.unitStats.health++;
+                    break;
+                case "attack":
+                    unit.unitStats.attack++;
+                    break;
+                case "skill":
+                    unit.unitStats.skill++;
+                    break;
+                case "speed":
+                    unit.unitStats.speed++;
+                    break;
+                case "luck":
+                    unit.unitStats.luck++;
+                    break;
+                case "defense":
+                    unit.unitStats.defense++;
+                    break;
+                case "resistance":
+                    unit.unitStats.resistance++;
+                    break;
+                default:
+                    break;
+            }
         }
     }
 }

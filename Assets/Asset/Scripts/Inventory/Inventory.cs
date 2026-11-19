@@ -14,17 +14,23 @@ public class Inventory : MonoBehaviour
             return false;
         }
 
-        items.Add(item);
+        Item itemCopy = Instantiate(item);
+
+        items.Add(itemCopy);
+
         return true;
     }
 
-    public bool RemoveItem(int index)
+    public void RemoveItem(int index)
     {
-        if (index >= 0 && index < items.Count)
-        {
-            items.RemoveAt(index);
-        }
+        if (index < 0 || index >= items.Count) return;
+
+        Item item = items[index];
+
+        items.RemoveAt(index);
+        Destroy(item);
     }
+
     //get number of potions
     public int GetPotions()
     {
@@ -39,5 +45,4 @@ public class Inventory : MonoBehaviour
 
         return count;
     }
-
 }

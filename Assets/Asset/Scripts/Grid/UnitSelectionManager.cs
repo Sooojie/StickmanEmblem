@@ -11,6 +11,7 @@ public class UnitSelectionManager : MonoBehaviour
     public Tilemap highlightTilemap;
     public TileBase movementHighlight;
     public GridPathfinder pathfinder;
+    public UnitStatsDisplay unitStatsDisplay;
 
     [Header("Obstacles")]
     public Tilemap obstacleTilemap;
@@ -49,12 +50,14 @@ public class UnitSelectionManager : MonoBehaviour
         // Detect if object was hit
         if (hit != null)
         {
-            UnitController unit = hit.GetComponent<UnitController>();
-
+            UnitController unitController = hit.GetComponent<UnitController>();
+            Unit unit = hit.GetComponent<Unit>();
+            
             // Detect if object had UnitController
-            if (unit != null)
+            if (unitController!= null)
             {
-                SelectUnit(unit);
+                SelectUnit(unitController);
+                unitStatsDisplay.ShowUnit(unit);
                 return;
             }
         }
@@ -73,7 +76,6 @@ public class UnitSelectionManager : MonoBehaviour
     private void SelectUnit(UnitController unit)
     {
         selectedUnit = unit;
-
         ShowMovementRange();
     }
 
@@ -113,5 +115,6 @@ public class UnitSelectionManager : MonoBehaviour
 
         highlightTilemap.ClearAllTiles();
         selectedUnit = null;
+        unitStatsDisplay.ClearDisplay();
     }
 }

@@ -1,11 +1,14 @@
-
 //base stats for mage
 using UnityEngine;
 
-public class Mage : UnitType, ScriptableObject
+/**
+public class Mage : UnitStats
 {
     public Mage()
     {
+        level = 1;
+        experience = 0;
+
         maxHealth = 16;
         attack = 1;
         defense = 3;
@@ -23,7 +26,11 @@ public class Mage : UnitType, ScriptableObject
         luckGrowth = 50;
         defenseGrowth = 10;
         resistanceGrowth = 35;
-
     }
+}
+**/
 
+[CreateAssetMenu(fileName = "MageStats", menuName = "Units/Stats/Mage")]
+public class Mage : UnitStats
+{
 }

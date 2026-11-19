@@ -1,10 +1,14 @@
 //base stats for knight
 using UnityEngine;
 
-public class Knight : UnitType, ScriptableObject
+/**
+public class Knight : UnitStats
 {
     public Knight()
     {
+        level = 1;
+        experience = 0;
+        
         maxHealth = 18;
         attack = 3;
         defense = 5;
@@ -22,7 +26,11 @@ public class Knight : UnitType, ScriptableObject
         luckGrowth = 60;
         defenseGrowth = 25;
         resistanceGrowth = 30;
-
     }
+}
+**/
 
+[CreateAssetMenu(fileName = "KnightStats", menuName = "Units/Stats/Knight")]
+public class Knight : UnitStats
+{
 }

@@ -1,11 +1,14 @@
-
 //base stats for giant
 using UnityEngine;
 
-public class Giant : UnitType, ScriptableObject
+/**
+public class Giant : UnitStats
 {
     public Giant()
     {
+        level = 1;
+        experience = 0;
+
         maxHealth = 20;
         attack = 5;
         defense = 2;
@@ -23,7 +26,11 @@ public class Giant : UnitType, ScriptableObject
         luckGrowth = 30;
         defenseGrowth = 40;
         resistanceGrowth = 15;
-
     }
+}
+**/
 
+[CreateAssetMenu(fileName = "GiantStats", menuName = "Units/Stats/Giant")]
+public class Giant : UnitStats
+{
 }

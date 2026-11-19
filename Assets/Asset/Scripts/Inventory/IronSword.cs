@@ -1,10 +1,11 @@
 using UnityEngine;
 
-public class IronSword : Weapon, ScriptableObject
+/**
+public class IronSword : Weapon
 {
     public IronSword()
     {
-        type = Sword;
+        type = weaponType.Sword;
         might = 5;
         hit = 85;
         crit = 0;  
@@ -13,4 +14,10 @@ public class IronSword : Weapon, ScriptableObject
         uses = 46;
         cost = 460;
     }
+}
+**/
+
+[CreateAssetMenu(fileName = "IronSword", menuName = "Inventory/Weapon/IronSword")]
+public class IronSword : Weapon
+{
 }

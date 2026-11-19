@@ -1,10 +1,12 @@
-
 //base stats for archer
 using UnityEngine;
-public class Archer : UnitType, ScriptableObject
+/**
+public class Archer : UnitStats
 {
     public Archer()
     {
+        level = 1;
+        experience = 0;
         maxHealth = 18;
         attack = 4;
         defense = 3;
@@ -22,7 +24,10 @@ public class Archer : UnitType, ScriptableObject
         luckGrowth = 40;
         defenseGrowth = 20;
         resistanceGrowth = 10;
-
     }
-
+}
+**/
+[CreateAssetMenu(fileName = "ArcherStats", menuName = "Units/Stats/Archer")]
+public class Archer : UnitStats
+{
 }

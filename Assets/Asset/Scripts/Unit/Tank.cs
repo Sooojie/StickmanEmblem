@@ -1,11 +1,14 @@
 //base stats for tank
 using UnityEngine;
 
-
-public class Tank : UnitType, ScriptableObject
+/**
+public class Tank : UnitStats
 {
     public Tank()
     {
+        level = 1;
+        experience = 0;
+
         maxHealth = 23;
         attack = 7;
         defense = 8;
@@ -23,7 +26,11 @@ public class Tank : UnitType, ScriptableObject
         luckGrowth = 20;
         defenseGrowth = 15;
         resistanceGrowth = 20;
-
     }
+}
+**/
 
+[CreateAssetMenu(fileName = "TankStats", menuName = "Units/Stats/Tank")]
+public class Tank : UnitStats
+{
 }

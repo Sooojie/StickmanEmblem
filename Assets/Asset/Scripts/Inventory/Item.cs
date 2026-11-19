@@ -1,3 +1,4 @@
+using UnityEngine;
 
 public enum ItemType
 {
@@ -5,10 +6,11 @@ public enum ItemType
     Potion
 }
 
-public class Item
+public class Item : ScriptableObject
 {
-    public int uses { get; set; }
-
-    public int price { get; set; }
-    public ItemType itemType { get; set; }
+    [Header("Item Information")]
+    public ItemType itemType;
+    public int uses;
+    public int price;
+    
 }
