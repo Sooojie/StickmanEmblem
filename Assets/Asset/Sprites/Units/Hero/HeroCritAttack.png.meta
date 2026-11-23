@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 9843b3ecb73e2e644b0f4f3643449a29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7407126329406512631
+    second: HeroCritAttack_0
+  - first:
+      213: -4056894184196020223
+    second: HeroCritAttack_1
+  - first:
+      213: 4249558638394202428
+    second: HeroCritAttack_2
+  - first:
+      213: -5583566585642634610
+    second: HeroCritAttack_3
+  - first:
+      213: -8936335879312058282
+    second: HeroCritAttack_4
+  - first:
+      213: 6271873879783527637
+    second: HeroCritAttack_5
+  - first:
+      213: -747257935015503640
+    second: HeroCritAttack_6
+  - first:
+      213: -46391058269319999
+    second: HeroCritAttack_7
+  - first:
+      213: 3702673217048693128
+    second: HeroCritAttack_8
+  - first:
+      213: -175258048390125995
+    second: HeroCritAttack_9
+  - first:
+      213: 256557041381700655
+    second: HeroCritAttack_10
+  - first:
+      213: 6376818136387995945
+    second: HeroCritAttack_11
+  - first:
+      213: 4999018000069843887
+    second: HeroCritAttack_12
+  - first:
+      213: 384274206632191790
+    second: HeroCritAttack_13
+  - first:
+      213: -4154136881361540106
+    second: HeroCritAttack_14
+  - first:
+      213: 8987869069239473713
+    second: HeroCritAttack_15
+  - first:
+      213: -3998059713270252334
+    second: HeroCritAttack_16
+  - first:
+      213: 462649310640968770
+    second: HeroCritAttack_17
+  - first:
+      213: -2933986872143420410
+    second: HeroCritAttack_18
+  - first:
+      213: -3999259191550280348
+    second: HeroCritAttack_19
+  - first:
+      213: -2809215786013626207
+    second: HeroCritAttack_20
+  - first:
+      213: -2225999120770201205
+    second: HeroCritAttack_21
+  - first:
+      213: -3850393242394587093
+    second: HeroCritAttack_22
+  - first:
+      213: -6333600909452066357
+    second: HeroCritAttack_23
+  - first:
+      213: 3011009631467275655
+    second: HeroCritAttack_24
+  - first:
+      213: 4867891262644228123
+    second: HeroCritAttack_25
+  - first:
+      213: -4659555331498396477
+    second: HeroCritAttack_26
+  - first:
+      213: -7301957082435170190
+    second: HeroCritAttack_27
+  - first:
+      213: 6467908677761145136
+    second: HeroCritAttack_28
+  - first:
+      213: -8275071503677075155
+    second: HeroCritAttack_29
+  - first:
+      213: 400702687425893285
+    second: HeroCritAttack_30
+  - first:
+      213: 1574699580696335047
+    second: HeroCritAttack_31
+  - first:
+      213: 7306448580256504772
+    second: HeroCritAttack_32
+  - first:
+      213: -4024665799100655266
+    second: HeroCritAttack_33
+  - first:
+      213: -3201245258563749609
+    second: HeroCritAttack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroCritAttack_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3611
+        width: 265
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902284919d9943990800000000000000
+      internalID: -7407126329406512631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3611
+        width: 263
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e5abdb3403b7c0800000000000000
+      internalID: -4056894184196020223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3611
+        width: 261
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39dda5011779fa30800000000000000
+      internalID: 4249558638394202428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 3611
+        width: 259
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82b70bf5cf2382b0800000000000000
+      internalID: -5583566585642634610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 3611
+        width: 255
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d6005dd1cbf380800000000000000
+      internalID: -8936335879312058282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3251
+        width: 254
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d45c88501c2a0750800000000000000
+      internalID: 6271873879783527637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3251
+        width: 255
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81fc30ed431a5f0800000000000000
+      internalID: -747257935015503640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3251
+        width: 263
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc4a1b049f2b5ff0800000000000000
+      internalID: -46391058269319999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 3251
+        width: 265
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8894a8d5ca9826330800000000000000
+      internalID: 3702673217048693128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 3251
+        width: 269
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556ada9cbbb519df0800000000000000
+      internalID: -175258048390125995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2892
+        width: 273
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f247e2415497f8300800000000000000
+      internalID: 256557041381700655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2892
+        width: 277
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929cca82f420f7850800000000000000
+      internalID: 6376818136387995945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2892
+        width: 281
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab52f79264106540800000000000000
+      internalID: 4999018000069843887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2892
+        width: 284
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2728aeda57355500800000000000000
+      internalID: 384274206632191790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 2892
+        width: 284
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fba816148a8956c0800000000000000
+      internalID: -4154136881361540106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2532
+        width: 284
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1365db77c435bbc70800000000000000
+      internalID: 8987869069239473713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2532
+        width: 284
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf9b79fd90488c0800000000000000
+      internalID: -3998059713270252334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1445
+        width: 319
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2449558c819ab6600800000000000000
+      internalID: 462649310640968770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1445
+        width: 319
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046b361c726847d0800000000000000
+      internalID: -2933986872143420410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_19
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1445
+        width: 319
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dfdea44f6cf78c0800000000000000
+      internalID: -3999259191550280348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1445
+        width: 317
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0fc316029a309d0800000000000000
+      internalID: -2809215786013626207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1445
+        width: 317
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b890920f799ab11e0800000000000000
+      internalID: -2225999120770201205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1086
+        width: 317
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20918d0fb7a09ac0800000000000000
+      internalID: -3850393242394587093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_23
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1086
+        width: 315
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c40b97878a18a0800000000000000
+      internalID: -6333600909452066357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_24
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1086
+        width: 315
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78503ea8e4149c920800000000000000
+      internalID: 3011009631467275655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_25
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1086
+        width: 313
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10132bef493e8340800000000000000
+      internalID: 4867891262644228123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_26
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1086
+        width: 313
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b2c60d1fe55fb0800000000000000
+      internalID: -4659555331498396477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 726
+        width: 309
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270dd4098bc3aaa90800000000000000
+      internalID: -7301957082435170190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_28
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 726
+        width: 308
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0399e998ca0a2c950800000000000000
+      internalID: 6467908677761145136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 726
+        width: 310
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21de548f4a092d80800000000000000
+      internalID: -8275071503677075155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_30
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 726
+        width: 308
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a39090a8f49f8500800000000000000
+      internalID: 400702687425893285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_31
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 726
+        width: 308
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29c5fece47ad510800000000000000
+      internalID: 1574699580696335047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 366
+        width: 308
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb98d3c548b56560800000000000000
+      internalID: 7306448580256504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_33
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 366
+        width: 308
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5911f087c38528c0800000000000000
+      internalID: -4024665799100655266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroCritAttack_34
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 11
+        width: 265
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7197764f564e293d0800000000000000
+      internalID: -3201245258563749609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0d359561bcdb9f94b8af1e011a53e395
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HeroCritAttack_0: -7407126329406512631
+      HeroCritAttack_1: -4056894184196020223
+      HeroCritAttack_10: 256557041381700655
+      HeroCritAttack_11: 6376818136387995945
+      HeroCritAttack_12: 4999018000069843887
+      HeroCritAttack_13: 384274206632191790
+      HeroCritAttack_14: -4154136881361540106
+      HeroCritAttack_15: 8987869069239473713
+      HeroCritAttack_16: -3998059713270252334
+      HeroCritAttack_17: 462649310640968770
+      HeroCritAttack_18: -2933986872143420410
+      HeroCritAttack_19: -3999259191550280348
+      HeroCritAttack_2: 4249558638394202428
+      HeroCritAttack_20: -2809215786013626207
+      HeroCritAttack_21: -2225999120770201205
+      HeroCritAttack_22: -3850393242394587093
+      HeroCritAttack_23: -6333600909452066357
+      HeroCritAttack_24: 3011009631467275655
+      HeroCritAttack_25: 4867891262644228123
+      HeroCritAttack_26: -4659555331498396477
+      HeroCritAttack_27: -7301957082435170190
+      HeroCritAttack_28: 6467908677761145136
+      HeroCritAttack_29: -8275071503677075155
+      HeroCritAttack_3: -5583566585642634610
+      HeroCritAttack_30: 400702687425893285
+      HeroCritAttack_31: 1574699580696335047
+      HeroCritAttack_32: 7306448580256504772
+      HeroCritAttack_33: -4024665799100655266
+      HeroCritAttack_34: -3201245258563749609
+      HeroCritAttack_4: -8936335879312058282
+      HeroCritAttack_5: 6271873879783527637
+      HeroCritAttack_6: -747257935015503640
+      HeroCritAttack_7: -46391058269319999
+      HeroCritAttack_8: 3702673217048693128
+      HeroCritAttack_9: -175258048390125995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

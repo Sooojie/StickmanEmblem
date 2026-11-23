@@ -1,0 +1,2363 @@
+fileFormatVersion: 2
+guid: 25a6ac382305e154eb6fb7617628b74e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3768486439729015861
+    second: StickAxemanCritAttack_0
+  - first:
+      213: -3346741543141652600
+    second: StickAxemanCritAttack_1
+  - first:
+      213: 5050530984509082874
+    second: StickAxemanCritAttack_2
+  - first:
+      213: -4800452737788958411
+    second: StickAxemanCritAttack_3
+  - first:
+      213: 2544120112670236751
+    second: StickAxemanCritAttack_4
+  - first:
+      213: -2419771537336179814
+    second: StickAxemanCritAttack_5
+  - first:
+      213: -2465333459439485596
+    second: StickAxemanCritAttack_6
+  - first:
+      213: 4356517539808324921
+    second: StickAxemanCritAttack_7
+  - first:
+      213: 4776819650742424842
+    second: StickAxemanCritAttack_8
+  - first:
+      213: 5462273134275634271
+    second: StickAxemanCritAttack_9
+  - first:
+      213: -7803875095342821578
+    second: StickAxemanCritAttack_10
+  - first:
+      213: 35975428489991292
+    second: StickAxemanCritAttack_11
+  - first:
+      213: 7244234634336070439
+    second: StickAxemanCritAttack_12
+  - first:
+      213: 5113056723299161830
+    second: StickAxemanCritAttack_13
+  - first:
+      213: 7346306059795339214
+    second: StickAxemanCritAttack_14
+  - first:
+      213: -3233651559316730457
+    second: StickAxemanCritAttack_15
+  - first:
+      213: -6526471585224617172
+    second: StickAxemanCritAttack_16
+  - first:
+      213: -8950430771913966744
+    second: StickAxemanCritAttack_17
+  - first:
+      213: -7188839742977743524
+    second: StickAxemanCritAttack_18
+  - first:
+      213: -6598205726715960276
+    second: StickAxemanCritAttack_19
+  - first:
+      213: 3679305191031067548
+    second: StickAxemanCritAttack_20
+  - first:
+      213: -4232047073850775533
+    second: StickAxemanCritAttack_21
+  - first:
+      213: 6109963992107093011
+    second: StickAxemanCritAttack_22
+  - first:
+      213: 8393476946534376078
+    second: StickAxemanCritAttack_23
+  - first:
+      213: -1225911261858339709
+    second: StickAxemanCritAttack_24
+  - first:
+      213: 2912614846340691850
+    second: StickAxemanCritAttack_25
+  - first:
+      213: -6646770533795400070
+    second: StickAxemanCritAttack_26
+  - first:
+      213: 1104071593354721481
+    second: StickAxemanCritAttack_27
+  - first:
+      213: 7973053132752653468
+    second: StickAxemanCritAttack_28
+  - first:
+      213: -6027489225350754354
+    second: StickAxemanCritAttack_29
+  - first:
+      213: -593526103326716623
+    second: StickAxemanCritAttack_30
+  - first:
+      213: 8062454777280226458
+    second: StickAxemanCritAttack_31
+  - first:
+      213: -7278321764604623659
+    second: StickAxemanCritAttack_32
+  - first:
+      213: 7458681925481563250
+    second: StickAxemanCritAttack_33
+  - first:
+      213: -1282284812024354433
+    second: StickAxemanCritAttack_34
+  - first:
+      213: -1815398546161541110
+    second: StickAxemanCritAttack_35
+  - first:
+      213: -8709493740406957226
+    second: StickAxemanCritAttack_36
+  - first:
+      213: 6453198026148904382
+    second: StickAxemanCritAttack_37
+  - first:
+      213: 2048702887244578045
+    second: StickAxemanCritAttack_38
+  - first:
+      213: 4237555152642345928
+    second: StickAxemanCritAttack_39
+  - first:
+      213: -1040689177582652338
+    second: StickAxemanCritAttack_40
+  - first:
+      213: -7848697349186037648
+    second: StickAxemanCritAttack_41
+  - first:
+      213: -1868162181665915401
+    second: StickAxemanCritAttack_42
+  - first:
+      213: 2639014779169641871
+    second: StickAxemanCritAttack_43
+  - first:
+      213: 5453049443007435824
+    second: StickAxemanCritAttack_44
+  - first:
+      213: 7237011384897227876
+    second: StickAxemanCritAttack_45
+  - first:
+      213: 4875649300974998907
+    second: StickAxemanCritAttack_46
+  - first:
+      213: -8999357872529656247
+    second: StickAxemanCritAttack_47
+  - first:
+      213: -7896615405419270961
+    second: StickAxemanCritAttack_48
+  - first:
+      213: -2465082159153222383
+    second: StickAxemanCritAttack_49
+  - first:
+      213: -3135044042726390352
+    second: StickAxemanCritAttack_50
+  - first:
+      213: 3760706407279668720
+    second: StickAxemanCritAttack_51
+  - first:
+      213: 4049064981262763970
+    second: StickAxemanCritAttack_52
+  - first:
+      213: -8869486598969460858
+    second: StickAxemanCritAttack_53
+  - first:
+      213: 5454129361787105525
+    second: StickAxemanCritAttack_54
+  - first:
+      213: -8534408006402035580
+    second: StickAxemanCritAttack_55
+  - first:
+      213: -7047004044846276349
+    second: StickAxemanCritAttack_56
+  - first:
+      213: -920891723819761223
+    second: StickAxemanCritAttack_57
+  - first:
+      213: 902989487996265530
+    second: StickAxemanCritAttack_58
+  - first:
+      213: 7327621193085762335
+    second: StickAxemanCritAttack_59
+  - first:
+      213: 5582973974942466108
+    second: StickAxemanCritAttack_60
+  - first:
+      213: 3621390273371747811
+    second: StickAxemanCritAttack_61
+  - first:
+      213: -6411332052757247851
+    second: StickAxemanCritAttack_62
+  - first:
+      213: 5060262911398965776
+    second: StickAxemanCritAttack_63
+  - first:
+      213: -1932749257228413586
+    second: StickAxemanCritAttack_64
+  - first:
+      213: -5749360143874357466
+    second: StickAxemanCritAttack_65
+  - first:
+      213: -7018961306515387653
+    second: StickAxemanCritAttack_66
+  - first:
+      213: 8058554010824375503
+    second: StickAxemanCritAttack_67
+  - first:
+      213: 297355980314679809
+    second: StickAxemanCritAttack_68
+  - first:
+      213: 3326580948019980723
+    second: StickAxemanCritAttack_69
+  - first:
+      213: 396891830637593971
+    second: StickAxemanCritAttack_70
+  - first:
+      213: -6991424644229477495
+    second: StickAxemanCritAttack_71
+  - first:
+      213: -9212223519269472895
+    second: StickAxemanCritAttack_72
+  - first:
+      213: 8754263199937049874
+    second: StickAxemanCritAttack_73
+  - first:
+      213: 8489307394643212816
+    second: StickAxemanCritAttack_74
+  - first:
+      213: 2265983528796750051
+    second: StickAxemanCritAttack_75
+  - first:
+      213: -8058713788449270735
+    second: StickAxemanCritAttack_76
+  - first:
+      213: -4426113036432631471
+    second: StickAxemanCritAttack_77
+  - first:
+      213: -6317087447388696019
+    second: StickAxemanCritAttack_78
+  - first:
+      213: 8064970783029293531
+    second: StickAxemanCritAttack_79
+  - first:
+      213: -2522198296034121480
+    second: StickAxemanCritAttack_80
+  - first:
+      213: -6375747004009496587
+    second: StickAxemanCritAttack_81
+  - first:
+      213: 6521952230995859113
+    second: StickAxemanCritAttack_82
+  - first:
+      213: -4986893096131057375
+    second: StickAxemanCritAttack_83
+  - first:
+      213: -4917433156160706000
+    second: StickAxemanCritAttack_84
+  - first:
+      213: -5395121779993859586
+    second: StickAxemanCritAttack_85
+  - first:
+      213: 4477127651301605615
+    second: StickAxemanCritAttack_86
+  - first:
+      213: -7571241111750088975
+    second: StickAxemanCritAttack_87
+  - first:
+      213: -6761625265063839318
+    second: StickAxemanCritAttack_88
+  - first:
+      213: 7058404445979744296
+    second: StickAxemanCritAttack_89
+  - first:
+      213: 1528829100265303177
+    second: StickAxemanCritAttack_90
+  - first:
+      213: -7529917125122718500
+    second: StickAxemanCritAttack_91
+  - first:
+      213: -8808753557913739286
+    second: StickAxemanCritAttack_92
+  - first:
+      213: 1607446936211026518
+    second: StickAxemanCritAttack_93
+  - first:
+      213: 838787777717050316
+    second: StickAxemanCritAttack_94
+  - first:
+      213: -5304003135316247861
+    second: StickAxemanCritAttack_95
+  - first:
+      213: -3324575276060515943
+    second: StickAxemanCritAttack_96
+  - first:
+      213: -3664316762772286647
+    second: StickAxemanCritAttack_97
+  - first:
+      213: 3064851550737927969
+    second: StickAxemanCritAttack_98
+  - first:
+      213: -2878491820188472921
+    second: StickAxemanCritAttack_99
+  - first:
+      213: -5717996227410511881
+    second: StickAxemanCritAttack_100
+  - first:
+      213: 3419305558005258299
+    second: StickAxemanCritAttack_101
+  - first:
+      213: 7650363826966119388
+    second: StickAxemanCritAttack_102
+  - first:
+      213: 7330673687786309816
+    second: StickAxemanCritAttack_103
+  - first:
+      213: -1452333344872647631
+    second: StickAxemanCritAttack_104
+  - first:
+      213: -1625618742364871384
+    second: StickAxemanCritAttack_105
+  - first:
+      213: 4721783002556820395
+    second: StickAxemanCritAttack_106
+  - first:
+      213: 4255561111933640923
+    second: StickAxemanCritAttack_107
+  - first:
+      213: 1127380128589101020
+    second: StickAxemanCritAttack_108
+  - first:
+      213: 8172451407403315472
+    second: StickAxemanCritAttack_109
+  - first:
+      213: 7098371010726580679
+    second: StickAxemanCritAttack_110
+  - first:
+      213: -5603937270406722306
+    second: StickAxemanCritAttack_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3962
+        width: 122
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cacec537a5c4430800000000000000
+      internalID: 3768486439729015861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_1
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3961
+        width: 147
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887cffd5c4cfd81d0800000000000000
+      internalID: -3346741543141652600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3961
+        width: 161
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc84caeb27171640800000000000000
+      internalID: 5050530984509082874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 3962
+        width: 175
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a90b3bad516db0800000000000000
+      internalID: -4800452737788958411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 3963
+        width: 186
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e2ad53c78e4320800000000000000
+      internalID: 2544120112670236751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 3965
+        width: 193
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e9777b9e3b6ed0800000000000000
+      internalID: -2419771537336179814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 3965
+        width: 200
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d7931d74069cdd0800000000000000
+      internalID: -2465333459439485596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3606
+        width: 203
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da802ee95757c30800000000000000
+      internalID: 4356517539808324921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_8
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 3608
+        width: 204
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059b96e92caa4240800000000000000
+      internalID: 4776819650742424842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 3608
+        width: 203
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a8aaa974edcb40800000000000000
+      internalID: 5462273134275634271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 3610
+        width: 203
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fc29e82f013b390800000000000000
+      internalID: -7803875095342821578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 3610
+        width: 201
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d9cb267fcf7000800000000000000
+      internalID: 35975428489991292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_12
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 3615
+        width: 197
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bee21b401b88460800000000000000
+      internalID: 7244234634336070439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_14
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 3613
+        width: 198
+        height: 303
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec79661607253f560800000000000000
+      internalID: 7346306059795339214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3252
+        width: 204
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82ac94ffce9b7470800000000000000
+      internalID: 8393476946534376078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_24
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3251
+        width: 229
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38468c6d330bcfee0800000000000000
+      internalID: -1225911261858339709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_25
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 3250
+        width: 251
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877aa365cfab6820800000000000000
+      internalID: 2912614846340691850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_26
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3252
+        width: 277
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7677956a6de1c3a0800000000000000
+      internalID: -6646770533795400070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_27
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 3247
+        width: 303
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8f188b343725f00800000000000000
+      internalID: 1104071593354721481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_28
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 3245
+        width: 329
+        height: 335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c8909c499f5ae60800000000000000
+      internalID: 7973053132752653468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_29
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 3248
+        width: 346
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf497b0c7e0a5ca0800000000000000
+      internalID: -6027489225350754354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2886
+        width: 359
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7bdd0a6d5e8950800000000000000
+      internalID: 6453198026148904382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2887
+        width: 372
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb784eb647e6c10800000000000000
+      internalID: 2048702887244578045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_39
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2886
+        width: 387
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8f55b5f1deca30800000000000000
+      internalID: 4237555152642345928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_40
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2886
+        width: 397
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44b790f4babe81f0800000000000000
+      internalID: -1040689177582652338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_41
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 2886
+        width: 397
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07857385853d31390800000000000000
+      internalID: -7848697349186037648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_42
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 2884
+        width: 358
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfbfac464f216e0800000000000000
+      internalID: -1868162181665915401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_43
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 2883
+        width: 286
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f859965a5f9af9420800000000000000
+      internalID: 2639014779169641871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_44
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2532
+        width: 213
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349911b39f1dab40800000000000000
+      internalID: 5453049443007435824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_46
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2543
+        width: 201
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751ff9f439c9a340800000000000000
+      internalID: 4875649300974998907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_47
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2550
+        width: 214
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946314112bbdb1380800000000000000
+      internalID: -8999357872529656247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_48
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2556
+        width: 239
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc6b187026996290800000000000000
+      internalID: -7896615405419270961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_50
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 2552
+        width: 274
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5c616ad061e74d0800000000000000
+      internalID: -3135044042726390352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_52
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 2545
+        width: 298
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c704a8c52b213830800000000000000
+      internalID: 4049064981262763970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_54
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 2539
+        width: 319
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f03950e1c5f0bb40800000000000000
+      internalID: 5454129361787105525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2175
+        width: 323
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30162386823043e90800000000000000
+      internalID: -7047004044846276349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_58
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2174
+        width: 318
+        height: 273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ede3b720188c00800000000000000
+      internalID: 902989487996265530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_59
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2173
+        width: 299
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b3086d6a0f0b560800000000000000
+      internalID: 7327621193085762335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_60
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 2173
+        width: 266
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3042b61045ba7d40800000000000000
+      internalID: 5582973974942466108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_61
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2175
+        width: 220
+        height: 335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b0654443c14230800000000000000
+      internalID: 3621390273371747811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_62
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2173
+        width: 168
+        height: 346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598045a777f5607a0800000000000000
+      internalID: -6411332052757247851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_63
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 2174
+        width: 123
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f408be4aa93640800000000000000
+      internalID: 5060262911398965776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1814
+        width: 98
+        height: 346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65100b6ace7d25e0800000000000000
+      internalID: -1932749257228413586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_65
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1815
+        width: 116
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627849a196b2630b0800000000000000
+      internalID: -5749360143874357466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_66
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1815
+        width: 125
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa40f831e3a79e90800000000000000
+      internalID: -7018961306515387653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_67
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1815
+        width: 125
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc7c724d2cb5df60800000000000000
+      internalID: 8058554010824375503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_68
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1815
+        width: 123
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a9e7a40bb602400800000000000000
+      internalID: 297355980314679809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_69
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 1815
+        width: 125
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9205b4fb36a2e20800000000000000
+      internalID: 3326580948019980723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_70
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 1815
+        width: 124
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3758863640b028500800000000000000
+      internalID: 396891830637593971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_71
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1456
+        width: 122
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4ac6045879fe90800000000000000
+      internalID: -6991424644229477495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_72
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1456
+        width: 109
+        height: 336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185b176848b972080800000000000000
+      internalID: -9212223519269472895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_73
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1458
+        width: 105
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215b58e8ff36d7970800000000000000
+      internalID: 8754263199937049874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_74
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1460
+        width: 136
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a3eced81410d570800000000000000
+      internalID: 8489307394643212816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_75
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 1462
+        width: 173
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e001d48304627f10800000000000000
+      internalID: 2265983528796750051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_76
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1462
+        width: 215
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13450fc9182b92090800000000000000
+      internalID: -8058713788449270735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_77
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1462
+        width: 297
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15915b7d4a94392c0800000000000000
+      internalID: -4426113036432631471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_78
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1104
+        width: 348
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22515b9f623558a0800000000000000
+      internalID: -6317087447388696019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_79
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1088
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd17d5672388cef60800000000000000
+      internalID: 8064970783029293531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_80
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1088
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f86acf430a5ffcd0800000000000000
+      internalID: -2522198296034121480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_81
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1088
+        width: 340
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffb04841ebc487a0800000000000000
+      internalID: -6375747004009496587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_82
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1088
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a61392dff0a28a50800000000000000
+      internalID: 6521952230995859113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_83
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1088
+        width: 340
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a248962ffacab0800000000000000
+      internalID: -4986893096131057375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_84
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 1088
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a20502994c1cbb0800000000000000
+      internalID: -4917433156160706000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 727
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92e7f535da025b0800000000000000
+      internalID: -5395121779993859586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_86
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 727
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe049e5c0e3f12e30800000000000000
+      internalID: 4477127651301605615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_87
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 727
+        width: 339
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f66d41b25c8de690800000000000000
+      internalID: -7571241111750088975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_88
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 743
+        width: 341
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9309365a1e922a0800000000000000
+      internalID: -6761625265063839318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_89
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 740
+        width: 337
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82819a3527d74f160800000000000000
+      internalID: 7058404445979744296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_90
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 739
+        width: 322
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ce79377fd773510800000000000000
+      internalID: 1528829100265303177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_91
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 743
+        width: 308
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd40ee8154c508790800000000000000
+      internalID: -7529917125122718500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 386
+        width: 286
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd7925f4501c580800000000000000
+      internalID: -8808753557913739286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_93
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 387
+        width: 254
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f52cc87cce4610800000000000000
+      internalID: 1607446936211026518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_94
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 397
+        width: 243
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb93cc2a09f3ab00800000000000000
+      internalID: 838787777717050316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_95
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 406
+        width: 251
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcabaef00456466b0800000000000000
+      internalID: -5304003135316247861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_96
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 406
+        width: 253
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991ed59966cbcd1d0800000000000000
+      internalID: -3324575276060515943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_97
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 404
+        width: 252
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943d272915bb52dc0800000000000000
+      internalID: -3664316762772286647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_98
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 401
+        width: 244
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0a034f3a888a20800000000000000
+      internalID: 3064851550737927969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_99
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 225
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a96cc0c0fa8d08d0800000000000000
+      internalID: -2878491820188472921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_100
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 28
+        width: 194
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f73c26f9b895a0b0800000000000000
+      internalID: -5717996227410511881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_101
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 17
+        width: 48
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b381c6be940d37f20800000000000000
+      internalID: 3419305558005258299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_102
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 38
+        width: 118
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd340d40e5d8b2a60800000000000000
+      internalID: 7650363826966119388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxemanCritAttack_103
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3
+        width: 123
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84ec421e8cbb560800000000000000
+      internalID: 7330673687786309816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa5d7d89b1547e84198b3d5a9eaf3cab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      StickAxemanCritAttack_0: 3768486439729015861
+      StickAxemanCritAttack_1: -3346741543141652600
+      StickAxemanCritAttack_10: -7803875095342821578
+      StickAxemanCritAttack_100: -5717996227410511881
+      StickAxemanCritAttack_101: 3419305558005258299
+      StickAxemanCritAttack_102: 7650363826966119388
+      StickAxemanCritAttack_103: 7330673687786309816
+      StickAxemanCritAttack_11: 35975428489991292
+      StickAxemanCritAttack_12: 7244234634336070439
+      StickAxemanCritAttack_13: 5113056723299161830
+      StickAxemanCritAttack_14: 7346306059795339214
+      StickAxemanCritAttack_15: -3233651559316730457
+      StickAxemanCritAttack_16: -6526471585224617172
+      StickAxemanCritAttack_17: -8950430771913966744
+      StickAxemanCritAttack_18: -7188839742977743524
+      StickAxemanCritAttack_19: -6598205726715960276
+      StickAxemanCritAttack_2: 5050530984509082874
+      StickAxemanCritAttack_20: 3679305191031067548
+      StickAxemanCritAttack_21: -4232047073850775533
+      StickAxemanCritAttack_22: 6109963992107093011
+      StickAxemanCritAttack_23: 8393476946534376078
+      StickAxemanCritAttack_24: -1225911261858339709
+      StickAxemanCritAttack_25: 2912614846340691850
+      StickAxemanCritAttack_26: -6646770533795400070
+      StickAxemanCritAttack_27: 1104071593354721481
+      StickAxemanCritAttack_28: 7973053132752653468
+      StickAxemanCritAttack_29: -6027489225350754354
+      StickAxemanCritAttack_3: -4800452737788958411
+      StickAxemanCritAttack_30: -593526103326716623
+      StickAxemanCritAttack_31: 8062454777280226458
+      StickAxemanCritAttack_32: -7278321764604623659
+      StickAxemanCritAttack_33: 7458681925481563250
+      StickAxemanCritAttack_34: -1282284812024354433
+      StickAxemanCritAttack_35: -1815398546161541110
+      StickAxemanCritAttack_36: -8709493740406957226
+      StickAxemanCritAttack_37: 6453198026148904382
+      StickAxemanCritAttack_38: 2048702887244578045
+      StickAxemanCritAttack_39: 4237555152642345928
+      StickAxemanCritAttack_4: 2544120112670236751
+      StickAxemanCritAttack_40: -1040689177582652338
+      StickAxemanCritAttack_41: -7848697349186037648
+      StickAxemanCritAttack_42: -1868162181665915401
+      StickAxemanCritAttack_43: 2639014779169641871
+      StickAxemanCritAttack_44: 5453049443007435824
+      StickAxemanCritAttack_45: 7237011384897227876
+      StickAxemanCritAttack_46: 4875649300974998907
+      StickAxemanCritAttack_47: -8999357872529656247
+      StickAxemanCritAttack_48: -7896615405419270961
+      StickAxemanCritAttack_49: -2465082159153222383
+      StickAxemanCritAttack_5: -2419771537336179814
+      StickAxemanCritAttack_50: -3135044042726390352
+      StickAxemanCritAttack_51: 3760706407279668720
+      StickAxemanCritAttack_52: 4049064981262763970
+      StickAxemanCritAttack_53: -8869486598969460858
+      StickAxemanCritAttack_54: 5454129361787105525
+      StickAxemanCritAttack_55: -8534408006402035580
+      StickAxemanCritAttack_56: -7047004044846276349
+      StickAxemanCritAttack_57: -920891723819761223
+      StickAxemanCritAttack_58: 902989487996265530
+      StickAxemanCritAttack_59: 7327621193085762335
+      StickAxemanCritAttack_6: -2465333459439485596
+      StickAxemanCritAttack_60: 5582973974942466108
+      StickAxemanCritAttack_61: 3621390273371747811
+      StickAxemanCritAttack_62: -6411332052757247851
+      StickAxemanCritAttack_63: 5060262911398965776
+      StickAxemanCritAttack_64: -1932749257228413586
+      StickAxemanCritAttack_65: -5749360143874357466
+      StickAxemanCritAttack_66: -7018961306515387653
+      StickAxemanCritAttack_67: 8058554010824375503
+      StickAxemanCritAttack_68: 297355980314679809
+      StickAxemanCritAttack_69: 3326580948019980723
+      StickAxemanCritAttack_7: 4356517539808324921
+      StickAxemanCritAttack_70: 396891830637593971
+      StickAxemanCritAttack_71: -6991424644229477495
+      StickAxemanCritAttack_72: -9212223519269472895
+      StickAxemanCritAttack_73: 8754263199937049874
+      StickAxemanCritAttack_74: 8489307394643212816
+      StickAxemanCritAttack_75: 2265983528796750051
+      StickAxemanCritAttack_76: -8058713788449270735
+      StickAxemanCritAttack_77: -4426113036432631471
+      StickAxemanCritAttack_78: -6317087447388696019
+      StickAxemanCritAttack_79: 8064970783029293531
+      StickAxemanCritAttack_8: 4776819650742424842
+      StickAxemanCritAttack_80: -2522198296034121480
+      StickAxemanCritAttack_81: -6375747004009496587
+      StickAxemanCritAttack_82: 6521952230995859113
+      StickAxemanCritAttack_83: -4986893096131057375
+      StickAxemanCritAttack_84: -4917433156160706000
+      StickAxemanCritAttack_85: -5395121779993859586
+      StickAxemanCritAttack_86: 4477127651301605615
+      StickAxemanCritAttack_87: -7571241111750088975
+      StickAxemanCritAttack_88: -6761625265063839318
+      StickAxemanCritAttack_89: 7058404445979744296
+      StickAxemanCritAttack_9: 5462273134275634271
+      StickAxemanCritAttack_90: 1528829100265303177
+      StickAxemanCritAttack_91: -7529917125122718500
+      StickAxemanCritAttack_92: -8808753557913739286
+      StickAxemanCritAttack_93: 1607446936211026518
+      StickAxemanCritAttack_94: 838787777717050316
+      StickAxemanCritAttack_95: -5304003135316247861
+      StickAxemanCritAttack_96: -3324575276060515943
+      StickAxemanCritAttack_97: -3664316762772286647
+      StickAxemanCritAttack_98: 3064851550737927969
+      StickAxemanCritAttack_99: -2878491820188472921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

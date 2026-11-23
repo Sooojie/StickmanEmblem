@@ -1,0 +1,2373 @@
+fileFormatVersion: 2
+guid: 298e1cd29b0917a4f9ca64d3dd099588
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 877982571129018789
+    second: SwordCrit_0
+  - first:
+      213: 4801571905762415221
+    second: SwordCrit_1
+  - first:
+      213: 7378242046456055602
+    second: SwordCrit_2
+  - first:
+      213: -8150556023236240764
+    second: SwordCrit_3
+  - first:
+      213: 6855160380141987104
+    second: SwordCrit_4
+  - first:
+      213: -8545139228882189807
+    second: SwordCrit_5
+  - first:
+      213: -1831516432990196451
+    second: SwordCrit_6
+  - first:
+      213: -5156817723302449500
+    second: SwordCrit_7
+  - first:
+      213: 8403195998552165249
+    second: SwordCrit_8
+  - first:
+      213: 6740201050847076687
+    second: SwordCrit_9
+  - first:
+      213: 8623511992152427374
+    second: SwordCrit_10
+  - first:
+      213: 9106173470562378266
+    second: SwordCrit_11
+  - first:
+      213: -3722736932490871982
+    second: SwordCrit_12
+  - first:
+      213: -5747268148801484058
+    second: SwordCrit_13
+  - first:
+      213: -6473796684724355585
+    second: SwordCrit_14
+  - first:
+      213: 7718571140797480938
+    second: SwordCrit_15
+  - first:
+      213: 383152605696254526
+    second: SwordCrit_16
+  - first:
+      213: -502621597444417472
+    second: SwordCrit_17
+  - first:
+      213: -7141089682269239328
+    second: SwordCrit_18
+  - first:
+      213: 2586081201655406497
+    second: SwordCrit_19
+  - first:
+      213: -3863517972900140138
+    second: SwordCrit_20
+  - first:
+      213: 5558777368772166810
+    second: SwordCrit_21
+  - first:
+      213: 7567087064371485741
+    second: SwordCrit_22
+  - first:
+      213: -6964876945093759511
+    second: SwordCrit_23
+  - first:
+      213: -6626860268938342661
+    second: SwordCrit_24
+  - first:
+      213: 2433085303012081537
+    second: SwordCrit_25
+  - first:
+      213: 4113960415951582928
+    second: SwordCrit_26
+  - first:
+      213: -1559925409214646347
+    second: SwordCrit_27
+  - first:
+      213: -3638304920476880837
+    second: SwordCrit_28
+  - first:
+      213: -5079182051390911267
+    second: SwordCrit_29
+  - first:
+      213: 2489078189596394667
+    second: SwordCrit_30
+  - first:
+      213: 4072892895065532067
+    second: SwordCrit_31
+  - first:
+      213: 3827950039545655314
+    second: SwordCrit_32
+  - first:
+      213: 8061795014394282843
+    second: SwordCrit_33
+  - first:
+      213: -2850418228225697337
+    second: SwordCrit_34
+  - first:
+      213: -3718912571735569237
+    second: SwordCrit_35
+  - first:
+      213: -3400037516050298209
+    second: SwordCrit_36
+  - first:
+      213: 5644737412000316528
+    second: SwordCrit_37
+  - first:
+      213: 7239320780648088707
+    second: SwordCrit_38
+  - first:
+      213: 712280086468611021
+    second: SwordCrit_39
+  - first:
+      213: -5660038170291612216
+    second: SwordCrit_40
+  - first:
+      213: -2629052946206343790
+    second: SwordCrit_41
+  - first:
+      213: 3403971574041638015
+    second: SwordCrit_42
+  - first:
+      213: -9210858218529116907
+    second: SwordCrit_43
+  - first:
+      213: -2370112312197076340
+    second: SwordCrit_44
+  - first:
+      213: -2199520735651799444
+    second: SwordCrit_45
+  - first:
+      213: -733296811422759055
+    second: SwordCrit_46
+  - first:
+      213: 1624137870687936168
+    second: SwordCrit_47
+  - first:
+      213: 1994599820285305523
+    second: SwordCrit_48
+  - first:
+      213: -7472676356011006767
+    second: SwordCrit_49
+  - first:
+      213: 1089723191498793049
+    second: SwordCrit_50
+  - first:
+      213: -3574158150655402514
+    second: SwordCrit_51
+  - first:
+      213: -373279262113700944
+    second: SwordCrit_52
+  - first:
+      213: -7485149930355109919
+    second: SwordCrit_53
+  - first:
+      213: 3297602150645133726
+    second: SwordCrit_54
+  - first:
+      213: 7326713803075345615
+    second: SwordCrit_55
+  - first:
+      213: -3489823171258220575
+    second: SwordCrit_56
+  - first:
+      213: -3649803294175635102
+    second: SwordCrit_57
+  - first:
+      213: 3874181771469563937
+    second: SwordCrit_58
+  - first:
+      213: -1385988965478722851
+    second: SwordCrit_59
+  - first:
+      213: -7218913676621759943
+    second: SwordCrit_60
+  - first:
+      213: -5565408703146449287
+    second: SwordCrit_61
+  - first:
+      213: 4853456851579481319
+    second: SwordCrit_62
+  - first:
+      213: -5047631126655378325
+    second: SwordCrit_63
+  - first:
+      213: -5070087471425155813
+    second: SwordCrit_64
+  - first:
+      213: -5724259251686954111
+    second: SwordCrit_65
+  - first:
+      213: 4067710314387753589
+    second: SwordCrit_66
+  - first:
+      213: 3840596700838305050
+    second: SwordCrit_67
+  - first:
+      213: 4114163314188798104
+    second: SwordCrit_68
+  - first:
+      213: 4532910514266994881
+    second: SwordCrit_69
+  - first:
+      213: -3590351131342661194
+    second: SwordCrit_70
+  - first:
+      213: -2732386500368004760
+    second: SwordCrit_71
+  - first:
+      213: 6950020893778191947
+    second: SwordCrit_72
+  - first:
+      213: -1282327631699473534
+    second: SwordCrit_73
+  - first:
+      213: 194820884682602190
+    second: SwordCrit_74
+  - first:
+      213: -2666065453305937620
+    second: SwordCrit_75
+  - first:
+      213: -2733747153044522602
+    second: SwordCrit_76
+  - first:
+      213: -3968452257027597538
+    second: SwordCrit_77
+  - first:
+      213: 3088173298485494766
+    second: SwordCrit_78
+  - first:
+      213: 3534976156507527975
+    second: SwordCrit_79
+  - first:
+      213: -730683613940962778
+    second: SwordCrit_80
+  - first:
+      213: 1175088720929616379
+    second: SwordCrit_81
+  - first:
+      213: 3538167532653815889
+    second: SwordCrit_82
+  - first:
+      213: -6823773761811656352
+    second: SwordCrit_83
+  - first:
+      213: -8521173216248260399
+    second: SwordCrit_84
+  - first:
+      213: -3093700340332228702
+    second: SwordCrit_85
+  - first:
+      213: -9102134411295040449
+    second: SwordCrit_86
+  - first:
+      213: -7096565464706985729
+    second: SwordCrit_87
+  - first:
+      213: 1507788143818517806
+    second: SwordCrit_88
+  - first:
+      213: -621550365543715067
+    second: SwordCrit_89
+  - first:
+      213: -2983105752175181538
+    second: SwordCrit_90
+  - first:
+      213: -8227396305875984659
+    second: SwordCrit_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordCrit_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4320
+        width: 192
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a911272f783f2c00800000000000000
+      internalID: 877982571129018789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 4320
+        width: 181
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d67e553c92a240800000000000000
+      internalID: 4801571905762415221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_2
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 4321
+        width: 171
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374dd5bc08c46660800000000000000
+      internalID: 7378242046456055602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 4322
+        width: 160
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5519fa7863ee80800000000000000
+      internalID: -8150556023236240764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_4
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 4322
+        width: 151
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e1b8ab0c622f50800000000000000
+      internalID: 6855160380141987104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_5
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 4322
+        width: 139
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112c83a3521996980800000000000000
+      internalID: -8545139228882189807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_6
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 4322
+        width: 126
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d245b02852596e0800000000000000
+      internalID: -1831516432990196451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3961
+        width: 115
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6e174a9d4f68b0800000000000000
+      internalID: -5156817723302449500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3964
+        width: 103
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8fa71d362e9470800000000000000
+      internalID: 8403195998552165249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_9
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3964
+        width: 96
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41647605210a8d50800000000000000
+      internalID: 6740201050847076687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_10
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3964
+        width: 89
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0190b77edca770800000000000000
+      internalID: 8623511992152427374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_11
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3964
+        width: 82
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e4ff5680af5e70800000000000000
+      internalID: 9106173470562378266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_12
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 3964
+        width: 77
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b77aadb7e265cc0800000000000000
+      internalID: -3722736932490871982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_13
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 3964
+        width: 71
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea45c9a11a9d30b0800000000000000
+      internalID: -5747268148801484058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3605
+        width: 68
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd37e207347826a0800000000000000
+      internalID: -6473796684724355585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3605
+        width: 66
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb0dcce8fdd1b60800000000000000
+      internalID: 7718571140797480938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_16
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3605
+        width: 64
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326a4dc34b315500800000000000000
+      internalID: 383152605696254526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_17
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3605
+        width: 64
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d2e3f1545609f0800000000000000
+      internalID: -502621597444417472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_18
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3605
+        width: 64
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e78223e4c0c5ec90800000000000000
+      internalID: -7141089682269239328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_19
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 3605
+        width: 64
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af5cf8b62b93e320800000000000000
+      internalID: 2586081201655406497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_20
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 3605
+        width: 64
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b23f99fd6026ac0800000000000000
+      internalID: -3863517972900140138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3244
+        width: 64
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944523b09eb42d40800000000000000
+      internalID: 5558777368772166810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3244
+        width: 64
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd058c791b30960800000000000000
+      internalID: 7567087064371485741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_23
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3244
+        width: 64
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede067e159c75f90800000000000000
+      internalID: -6964876945093759511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_24
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3244
+        width: 61
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfec7cd22b9a804a0800000000000000
+      internalID: -6626860268938342661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_25
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3244
+        width: 59
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f324a213e04c120800000000000000
+      internalID: 2433085303012081537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_26
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 3244
+        width: 59
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6ffcc9339b71930800000000000000
+      internalID: 4113960415951582928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_27
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 3244
+        width: 60
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7b7abea180a5ae0800000000000000
+      internalID: -1559925409214646347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2885
+        width: 64
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b307b6e83f4228dc0800000000000000
+      internalID: -3638304920476880837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_29
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2885
+        width: 64
+        height: 318
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc0e4db5de1389b0800000000000000
+      internalID: -5079182051390911267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_30
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2883
+        width: 62
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c01dfc6bfa8220800000000000000
+      internalID: 2489078189596394667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_31
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2883
+        width: 64
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6e79a4282d58830800000000000000
+      internalID: 4072892895065532067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_32
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2883
+        width: 69
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210bf05974c9f1530800000000000000
+      internalID: 3827950039545655314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_33
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 2883
+        width: 85
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b538cf43adf31ef60800000000000000
+      internalID: 8061795014394282843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_34
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 2883
+        width: 100
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c91f4d39b74178d0800000000000000
+      internalID: -2850418228225697337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2524
+        width: 110
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac87fa38b4c36cc0800000000000000
+      internalID: -3718912571735569237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_36
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2524
+        width: 114
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a02d0b4e3a0d0d0800000000000000
+      internalID: -3400037516050298209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_37
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2524
+        width: 114
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf2a4e4c2265e40800000000000000
+      internalID: 5644737412000316528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_38
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2524
+        width: 112
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38402a9f4eb377460800000000000000
+      internalID: 7239320780648088707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_39
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2524
+        width: 107
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbcb8ef6f682e900800000000000000
+      internalID: 712280086468611021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_40
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 2524
+        width: 103
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5dd94b5418371b0800000000000000
+      internalID: -5660038170291612216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_41
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 2524
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d3da5564ab38bd0800000000000000
+      internalID: -2629052946206343790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2163
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7477409c165d3f20800000000000000
+      internalID: 3403971574041638015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_43
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2163
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da51060457c2080800000000000000
+      internalID: -9210858218529116907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_44
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2163
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aa6b1d86bab1fd0800000000000000
+      internalID: -2370112312197076340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_45
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2163
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e5e536b8bb971e0800000000000000
+      internalID: -2199520735651799444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_46
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2163
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17748386f6ec2d5f0800000000000000
+      internalID: -733296811422759055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_47
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 2163
+        width: 100
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1d90d9c81a8610800000000000000
+      internalID: 1624137870687936168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_48
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 2168
+        width: 116
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2e92df7fd3eab10800000000000000
+      internalID: 1994599820285305523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1816
+        width: 144
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4e0863278bb4890800000000000000
+      internalID: -7472676356011006767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_50
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1822
+        width: 162
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506ac418797f1f00800000000000000
+      internalID: 1089723191498793049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_51
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1825
+        width: 165
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed1e13491a066ec0800000000000000
+      internalID: -3574158150655402514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_52
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1816
+        width: 189
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b361b32d78d1daf0800000000000000
+      internalID: -373279262113700944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_53
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 1811
+        width: 226
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc4aedbc76f1890800000000000000
+      internalID: -7485149930355109919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_54
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 1813
+        width: 214
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9174cf3faf63cd20800000000000000
+      internalID: 3297602150645133726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_55
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 1813
+        width: 205
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccd143a267bda560800000000000000
+      internalID: 7326713803075345615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1452
+        width: 187
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff93cc058a19fc0800000000000000
+      internalID: -3489823171258220575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_57
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1452
+        width: 171
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695c9ecd3b495dc0800000000000000
+      internalID: -3649803294175635102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_58
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1452
+        width: 155
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128acbb7bcbd3c530800000000000000
+      internalID: 3874181771469563937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_59
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1452
+        width: 148
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd29702116af3cce0800000000000000
+      internalID: -1385988965478722851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_60
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1455
+        width: 160
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a30c0324441db90800000000000000
+      internalID: -7218913676621759943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_61
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 1455
+        width: 181
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a6137542b3c2b0800000000000000
+      internalID: -5565408703146449287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_62
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 1455
+        width: 201
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca413ba41fa5340800000000000000
+      internalID: 4853456851579481319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1093
+        width: 213
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c508adb3633f9b0800000000000000
+      internalID: -5047631126655378325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_64
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1093
+        width: 219
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8b85ae4e63a9b0800000000000000
+      internalID: -5070087471425155813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_65
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1093
+        width: 219
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba4fcf9885f80b0800000000000000
+      internalID: -5724259251686954111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_66
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1093
+        width: 219
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a4642baf8637830800000000000000
+      internalID: 4067710314387753589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_67
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1093
+        width: 219
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d110fd95a8c4530800000000000000
+      internalID: 3840596700838305050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_68
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 1093
+        width: 219
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898ca2a8cb1781930800000000000000
+      internalID: 4114163314188798104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_69
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 1093
+        width: 219
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87489a81228ee30800000000000000
+      internalID: 4532910514266994881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_70
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 735
+        width: 219
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b916652ba28c2ec0800000000000000
+      internalID: -3590351131342661194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_71
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 735
+        width: 214
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8690e7864fc941ad0800000000000000
+      internalID: -2732386500368004760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_72
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 735
+        width: 192
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46213b1e2f637060800000000000000
+      internalID: 6950020893778191947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_73
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 735
+        width: 149
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b82e220d1443ee0800000000000000
+      internalID: -1282327631699473534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_74
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 735
+        width: 94
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6755aff8424b200800000000000000
+      internalID: 194820884682602190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_75
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 735
+        width: 94
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2142cb789b300bd0800000000000000
+      internalID: -2666065453305937620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_76
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 737
+        width: 87
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699bb05c277cf0ad0800000000000000
+      internalID: -2733747153044522602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_77
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 381
+        width: 92
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bd5cfa2b93de8c0800000000000000
+      internalID: -3968452257027597538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_78
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 385
+        width: 91
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3031dc0456bda20800000000000000
+      internalID: 3088173298485494766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_79
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 387
+        width: 96
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b5b12d512ce0130800000000000000
+      internalID: 3534976156507527975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_80
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 390
+        width: 94
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aa9dbdf171cd5f0800000000000000
+      internalID: -730683613940962778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_81
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 387
+        width: 96
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f39e37f0ce4010800000000000000
+      internalID: 1175088720929616379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_82
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 385
+        width: 107
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158a6abff981a1130800000000000000
+      internalID: 3538167532653815889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_83
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 374
+        width: 127
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d593eae51d41a0800000000000000
+      internalID: -6823773761811656352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 151
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d813ff5b16beb980800000000000000
+      internalID: -8521173216248260399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordCrit_85
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 192
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af0efc7ee7f015d0800000000000000
+      internalID: -3093700340332228702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d39fe1a2bfe8d4b4e9a71f9cf6ff9145
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SwordCrit_0: 877982571129018789
+      SwordCrit_1: 4801571905762415221
+      SwordCrit_10: 8623511992152427374
+      SwordCrit_11: 9106173470562378266
+      SwordCrit_12: -3722736932490871982
+      SwordCrit_13: -5747268148801484058
+      SwordCrit_14: -6473796684724355585
+      SwordCrit_15: 7718571140797480938
+      SwordCrit_16: 383152605696254526
+      SwordCrit_17: -502621597444417472
+      SwordCrit_18: -7141089682269239328
+      SwordCrit_19: 2586081201655406497
+      SwordCrit_2: 7378242046456055602
+      SwordCrit_20: -3863517972900140138
+      SwordCrit_21: 5558777368772166810
+      SwordCrit_22: 7567087064371485741
+      SwordCrit_23: -6964876945093759511
+      SwordCrit_24: -6626860268938342661
+      SwordCrit_25: 2433085303012081537
+      SwordCrit_26: 4113960415951582928
+      SwordCrit_27: -1559925409214646347
+      SwordCrit_28: -3638304920476880837
+      SwordCrit_29: -5079182051390911267
+      SwordCrit_3: -8150556023236240764
+      SwordCrit_30: 2489078189596394667
+      SwordCrit_31: 4072892895065532067
+      SwordCrit_32: 3827950039545655314
+      SwordCrit_33: 8061795014394282843
+      SwordCrit_34: -2850418228225697337
+      SwordCrit_35: -3718912571735569237
+      SwordCrit_36: -3400037516050298209
+      SwordCrit_37: 5644737412000316528
+      SwordCrit_38: 7239320780648088707
+      SwordCrit_39: 712280086468611021
+      SwordCrit_4: 6855160380141987104
+      SwordCrit_40: -5660038170291612216
+      SwordCrit_41: -2629052946206343790
+      SwordCrit_42: 3403971574041638015
+      SwordCrit_43: -9210858218529116907
+      SwordCrit_44: -2370112312197076340
+      SwordCrit_45: -2199520735651799444
+      SwordCrit_46: -733296811422759055
+      SwordCrit_47: 1624137870687936168
+      SwordCrit_48: 1994599820285305523
+      SwordCrit_49: -7472676356011006767
+      SwordCrit_5: -8545139228882189807
+      SwordCrit_50: 1089723191498793049
+      SwordCrit_51: -3574158150655402514
+      SwordCrit_52: -373279262113700944
+      SwordCrit_53: -7485149930355109919
+      SwordCrit_54: 3297602150645133726
+      SwordCrit_55: 7326713803075345615
+      SwordCrit_56: -3489823171258220575
+      SwordCrit_57: -3649803294175635102
+      SwordCrit_58: 3874181771469563937
+      SwordCrit_59: -1385988965478722851
+      SwordCrit_6: -1831516432990196451
+      SwordCrit_60: -7218913676621759943
+      SwordCrit_61: -5565408703146449287
+      SwordCrit_62: 4853456851579481319
+      SwordCrit_63: -5047631126655378325
+      SwordCrit_64: -5070087471425155813
+      SwordCrit_65: -5724259251686954111
+      SwordCrit_66: 4067710314387753589
+      SwordCrit_67: 3840596700838305050
+      SwordCrit_68: 4114163314188798104
+      SwordCrit_69: 4532910514266994881
+      SwordCrit_7: -5156817723302449500
+      SwordCrit_70: -3590351131342661194
+      SwordCrit_71: -2732386500368004760
+      SwordCrit_72: 6950020893778191947
+      SwordCrit_73: -1282327631699473534
+      SwordCrit_74: 194820884682602190
+      SwordCrit_75: -2666065453305937620
+      SwordCrit_76: -2733747153044522602
+      SwordCrit_77: -3968452257027597538
+      SwordCrit_78: 3088173298485494766
+      SwordCrit_79: 3534976156507527975
+      SwordCrit_8: 8403195998552165249
+      SwordCrit_80: -730683613940962778
+      SwordCrit_81: 1175088720929616379
+      SwordCrit_82: 3538167532653815889
+      SwordCrit_83: -6823773761811656352
+      SwordCrit_84: -8521173216248260399
+      SwordCrit_85: -3093700340332228702
+      SwordCrit_9: 6740201050847076687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

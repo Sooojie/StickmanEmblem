@@ -1,0 +1,3317 @@
+fileFormatVersion: 2
+guid: 3894f33943d71b2408317f9d7cf926c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6939788952932507308
+    second: StickAxeman_0
+  - first:
+      213: 5188325052872452870
+    second: StickAxeman_1
+  - first:
+      213: 8462510918101159496
+    second: StickAxeman_2
+  - first:
+      213: -3215084380830245006
+    second: StickAxeman_3
+  - first:
+      213: 5424651820934627336
+    second: StickAxeman_4
+  - first:
+      213: 7014603757611611344
+    second: StickAxeman_5
+  - first:
+      213: 2014590168055871768
+    second: StickAxeman_6
+  - first:
+      213: -2284007832529594690
+    second: StickAxeman_7
+  - first:
+      213: -5253445487110352948
+    second: StickAxeman_8
+  - first:
+      213: -7757088889101127497
+    second: StickAxeman_9
+  - first:
+      213: 5784013389772033673
+    second: StickAxeman_10
+  - first:
+      213: -4871376412436772116
+    second: StickAxeman_11
+  - first:
+      213: -1965178008543006103
+    second: StickAxeman_12
+  - first:
+      213: -7685696407048791736
+    second: StickAxeman_13
+  - first:
+      213: -5806543252369690142
+    second: StickAxeman_14
+  - first:
+      213: 202861909976814665
+    second: StickAxeman_15
+  - first:
+      213: 4921617213567450875
+    second: StickAxeman_16
+  - first:
+      213: 3808943532644253084
+    second: StickAxeman_17
+  - first:
+      213: -7295844006115738377
+    second: StickAxeman_18
+  - first:
+      213: 6074304588671931757
+    second: StickAxeman_19
+  - first:
+      213: 7611406376032901439
+    second: StickAxeman_20
+  - first:
+      213: 8547498408491513810
+    second: StickAxeman_21
+  - first:
+      213: -8807802725380697369
+    second: StickAxeman_22
+  - first:
+      213: 4522191201989008133
+    second: StickAxeman_23
+  - first:
+      213: -2043813462010775726
+    second: StickAxeman_24
+  - first:
+      213: 785131274924724719
+    second: StickAxeman_25
+  - first:
+      213: -2540613137434546794
+    second: StickAxeman_26
+  - first:
+      213: 4381663055632003656
+    second: StickAxeman_27
+  - first:
+      213: -7490860447584611859
+    second: StickAxeman_28
+  - first:
+      213: -6623523731382525480
+    second: StickAxeman_29
+  - first:
+      213: -7204482251520454539
+    second: StickAxeman_30
+  - first:
+      213: -1784882143287716787
+    second: StickAxeman_31
+  - first:
+      213: 6957509849070466708
+    second: StickAxeman_32
+  - first:
+      213: -1000052722498266241
+    second: StickAxeman_33
+  - first:
+      213: 6457704845797547152
+    second: StickAxeman_34
+  - first:
+      213: -4760986899735077463
+    second: StickAxeman_35
+  - first:
+      213: -4350028892976777780
+    second: StickAxeman_36
+  - first:
+      213: 4128828869537114369
+    second: StickAxeman_37
+  - first:
+      213: -3796954804861631981
+    second: StickAxeman_38
+  - first:
+      213: 1326079042096922673
+    second: StickAxeman_39
+  - first:
+      213: -6732887641986103277
+    second: StickAxeman_40
+  - first:
+      213: 2873523944552511514
+    second: StickAxeman_41
+  - first:
+      213: -5280934828909796526
+    second: StickAxeman_42
+  - first:
+      213: 7243239419766074414
+    second: StickAxeman_43
+  - first:
+      213: -3921750053471589258
+    second: StickAxeman_44
+  - first:
+      213: 6137227007340713790
+    second: StickAxeman_45
+  - first:
+      213: 2945201675982741108
+    second: StickAxeman_46
+  - first:
+      213: -2982632480579695825
+    second: StickAxeman_47
+  - first:
+      213: 5948677492060661884
+    second: StickAxeman_48
+  - first:
+      213: -6263535349820641219
+    second: StickAxeman_49
+  - first:
+      213: 3305172659576857055
+    second: StickAxeman_50
+  - first:
+      213: 3873135361373059182
+    second: StickAxeman_51
+  - first:
+      213: 4690602320246347591
+    second: StickAxeman_52
+  - first:
+      213: 324774338633830677
+    second: StickAxeman_53
+  - first:
+      213: -86469893749318059
+    second: StickAxeman_54
+  - first:
+      213: -2826356439149832944
+    second: StickAxeman_55
+  - first:
+      213: 6940886952934611389
+    second: StickAxeman_56
+  - first:
+      213: -1838719842059143135
+    second: StickAxeman_57
+  - first:
+      213: 4760219387137447632
+    second: StickAxeman_58
+  - first:
+      213: 3265022681765170084
+    second: StickAxeman_59
+  - first:
+      213: 7143907616087053431
+    second: StickAxeman_60
+  - first:
+      213: 7087847402282644205
+    second: StickAxeman_61
+  - first:
+      213: 6360491339731944595
+    second: StickAxeman_62
+  - first:
+      213: 8806174167286470898
+    second: StickAxeman_63
+  - first:
+      213: -1328121959521473598
+    second: StickAxeman_64
+  - first:
+      213: 2849479907259805417
+    second: StickAxeman_65
+  - first:
+      213: 8303762971577123113
+    second: StickAxeman_66
+  - first:
+      213: 5062274043850628053
+    second: StickAxeman_67
+  - first:
+      213: -3803923911488004784
+    second: StickAxeman_68
+  - first:
+      213: -80031594850166021
+    second: StickAxeman_69
+  - first:
+      213: -9019224120269961666
+    second: StickAxeman_70
+  - first:
+      213: -3573205715758517694
+    second: StickAxeman_71
+  - first:
+      213: -3125696532370825306
+    second: StickAxeman_72
+  - first:
+      213: 6062998518814495805
+    second: StickAxeman_73
+  - first:
+      213: -489996485915743334
+    second: StickAxeman_74
+  - first:
+      213: 5722398109056671823
+    second: StickAxeman_75
+  - first:
+      213: 8751456042882698431
+    second: StickAxeman_76
+  - first:
+      213: 6595053574440810970
+    second: StickAxeman_77
+  - first:
+      213: -2589601655524560359
+    second: StickAxeman_78
+  - first:
+      213: -2181684578094536236
+    second: StickAxeman_79
+  - first:
+      213: -4981810396636855524
+    second: StickAxeman_80
+  - first:
+      213: -5241091058022970615
+    second: StickAxeman_81
+  - first:
+      213: -4893667476756496353
+    second: StickAxeman_82
+  - first:
+      213: -499001144713203040
+    second: StickAxeman_83
+  - first:
+      213: 510279428570500561
+    second: StickAxeman_84
+  - first:
+      213: -1639360889214478466
+    second: StickAxeman_85
+  - first:
+      213: -3692760989326597852
+    second: StickAxeman_86
+  - first:
+      213: -2461215811580299391
+    second: StickAxeman_87
+  - first:
+      213: -6793145336774628657
+    second: StickAxeman_88
+  - first:
+      213: 3561239839408418903
+    second: StickAxeman_89
+  - first:
+      213: 5776536763345899128
+    second: StickAxeman_90
+  - first:
+      213: 4327359191682117503
+    second: StickAxeman_91
+  - first:
+      213: -6843030628632230573
+    second: StickAxeman_92
+  - first:
+      213: 4291400244389582997
+    second: StickAxeman_93
+  - first:
+      213: 1772791526998769101
+    second: StickAxeman_94
+  - first:
+      213: -806032434158924838
+    second: StickAxeman_95
+  - first:
+      213: 8872084528607196846
+    second: StickAxeman_96
+  - first:
+      213: -522693315262623037
+    second: StickAxeman_97
+  - first:
+      213: 5423990885232184942
+    second: StickAxeman_98
+  - first:
+      213: -3693972223621962512
+    second: StickAxeman_99
+  - first:
+      213: 17573547286279668
+    second: StickAxeman_100
+  - first:
+      213: -7693698408937897834
+    second: StickAxeman_101
+  - first:
+      213: 1651165775810255633
+    second: StickAxeman_102
+  - first:
+      213: 1852787652790171778
+    second: StickAxeman_103
+  - first:
+      213: -1833825035273213356
+    second: StickAxeman_104
+  - first:
+      213: 191361470591607866
+    second: StickAxeman_105
+  - first:
+      213: -2189173020020756532
+    second: StickAxeman_106
+  - first:
+      213: -1888731149068948964
+    second: StickAxeman_107
+  - first:
+      213: -6211793037204593721
+    second: StickAxeman_108
+  - first:
+      213: -7342832255652403537
+    second: StickAxeman_109
+  - first:
+      213: -4008234239189441251
+    second: StickAxeman_110
+  - first:
+      213: -8911256265251098405
+    second: StickAxeman_111
+  - first:
+      213: 4029198695453836141
+    second: StickAxeman_112
+  - first:
+      213: 8513278290542154201
+    second: StickAxeman_113
+  - first:
+      213: -6133257464176899770
+    second: StickAxeman_114
+  - first:
+      213: 8752679196839310450
+    second: StickAxeman_115
+  - first:
+      213: -1267983611914964301
+    second: StickAxeman_116
+  - first:
+      213: -6131109652772604687
+    second: StickAxeman_117
+  - first:
+      213: -4692064664523069209
+    second: StickAxeman_118
+  - first:
+      213: -7471795689914743783
+    second: StickAxeman_119
+  - first:
+      213: -1985246815504393079
+    second: StickAxeman_120
+  - first:
+      213: -661073568543401801
+    second: StickAxeman_121
+  - first:
+      213: 821766293450547616
+    second: StickAxeman_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StickAxeman_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5404
+        width: 119
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451274447bae0bf90800000000000000
+      internalID: -6939788952932507308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5404
+        width: 121
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be8bb8522a00840800000000000000
+      internalID: 5188325052872452870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 5404
+        width: 119
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec84df7d0e07570800000000000000
+      internalID: 8462510918101159496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_3
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 5404
+        width: 121
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd4b53ac9b163d0800000000000000
+      internalID: -3215084380830245006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_4
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 5404
+        width: 119
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8000cf0171c384b40800000000000000
+      internalID: 5424651820934627336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_5
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 5404
+        width: 121
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d47f8cd3f0e85160800000000000000
+      internalID: 7014603757611611344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_6
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 5404
+        width: 119
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f6f6851345fb10800000000000000
+      internalID: 2014590168055871768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_7
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 5404
+        width: 121
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb61ddd3af29d40e0800000000000000
+      internalID: -2284007832529594690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5044
+        width: 119
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf88e5d9230817b0800000000000000
+      internalID: -5253445487110352948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5044
+        width: 121
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07ff111c8495490800000000000000
+      internalID: -7757088889101127497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_10
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 5044
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e07717881f44050800000000000000
+      internalID: 5784013389772033673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_11
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 5044
+        width: 118
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea4d7966f4656cb0800000000000000
+      internalID: -4871376412436772116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_12
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 5044
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962726063094ab4e0800000000000000
+      internalID: -1965178008543006103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_13
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 5044
+        width: 118
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8495c5e96dbe65590800000000000000
+      internalID: -7685696407048791736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_14
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 5044
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e130952da30b6fa0800000000000000
+      internalID: -5806543252369690142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_15
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 5044
+        width: 118
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94410a215d5b0d200800000000000000
+      internalID: 202861909976814665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4684
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb227a7c81d4440800000000000000
+      internalID: 4921617213567450875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 4684
+        width: 115
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d38c856f51cd430800000000000000
+      internalID: 3808943532644253084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_18
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 4684
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcfece0884ffba90800000000000000
+      internalID: -7295844006115738377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_19
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 4684
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65d05127d34c4450800000000000000
+      internalID: 6074304588671931757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_20
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 4684
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399594a5c521a960800000000000000
+      internalID: 7611406376032901439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_21
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 4684
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77a541480de9670800000000000000
+      internalID: 8547498408491513810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_22
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 4684
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e257f5461664c580800000000000000
+      internalID: -8807802725380697369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_23
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 4684
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b93f840fc02ce30800000000000000
+      internalID: 4522191201989008133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4324
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257bfa12c7ae2a3e0800000000000000
+      internalID: -2043813462010775726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 4324
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe110f71cb855ea00800000000000000
+      internalID: 785131274924724719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_26
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 4324
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de58fefcdedbcd0800000000000000
+      internalID: -2540613137434546794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_27
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 4324
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842f564855bcecc30800000000000000
+      internalID: 4381663055632003656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_28
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 4324
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de112b77c1e1b0890800000000000000
+      internalID: -7490860447584611859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_29
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 4324
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1239d52448414a0800000000000000
+      internalID: -6623523731382525480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_30
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 4324
+        width: 116
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570548f2099840c90800000000000000
+      internalID: -7204482251520454539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_31
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 4324
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d56bb523da37e0800000000000000
+      internalID: -1784882143287716787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3964
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4967023685a0e8060800000000000000
+      internalID: 6957509849070466708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_33
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3964
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b14dee8591f12f0800000000000000
+      internalID: -1000052722498266241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_34
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3964
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd416c7506e9950800000000000000
+      internalID: 6457704845797547152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_35
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3964
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9005b3a39dedb0800000000000000
+      internalID: -4760986899735077463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_36
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3964
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5fe6fe4c791a3c0800000000000000
+      internalID: -4350028892976777780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_37
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3964
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109232b3bfb8c4930800000000000000
+      internalID: 4128828869537114369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_38
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 3964
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312820cd8b18e4bc0800000000000000
+      internalID: -3796954804861631981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_39
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 3964
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1300748ecdd276210800000000000000
+      internalID: 1326079042096922673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3604
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180dcaac5aff82a0800000000000000
+      internalID: -6732887641986103277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_41
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3604
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18b1a09dcec0e720800000000000000
+      internalID: 2873523944552511514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_42
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3604
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e7d0b0c956b6b0800000000000000
+      internalID: -5280934828909796526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_43
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3604
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c634e30e7258460800000000000000
+      internalID: 7243239419766074414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_44
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3604
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce4fcca152399c0800000000000000
+      internalID: -3921750053471589258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_45
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3604
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e371a7e527fcb2550800000000000000
+      internalID: 6137227007340713790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_46
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 3604
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e16d8e1557fd820800000000000000
+      internalID: 2945201675982741108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_47
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 3604
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4183cf8f8b96d0800000000000000
+      internalID: -2982632480579695825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3244
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7823ad59a2fd8250800000000000000
+      internalID: 5948677492060661884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_49
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3244
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30b6d3f8c37319a0800000000000000
+      internalID: -6263535349820641219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_50
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3244
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd16967b5055edd20800000000000000
+      internalID: 3305172659576857055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_51
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3244
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6835a5271420c530800000000000000
+      internalID: 3873135361373059182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_52
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3244
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74718e855fd581140800000000000000
+      internalID: 4690602320246347591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_53
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 3244
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5119e6e4a84d18400800000000000000
+      internalID: 324774338633830677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_54
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 3244
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e5e4bf61ccccef0800000000000000
+      internalID: -86469893749318059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_55
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 3244
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01516d31bc3c6c8d0800000000000000
+      internalID: -2826356439149832944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2884
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99fc7c8ebf25060800000000000000
+      internalID: 6940886952934611389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_57
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2884
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283a9cab0e8b76e0800000000000000
+      internalID: -1838719842059143135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_58
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2884
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d65147df42bf0240800000000000000
+      internalID: 4760219387137447632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_59
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2884
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abc43a84d0bf4d20800000000000000
+      internalID: 3265022681765170084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_60
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2884
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77493157022442360800000000000000
+      internalID: 7143907616087053431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_61
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2884
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27b3bc8a71d5260800000000000000
+      internalID: 7087847402282644205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_62
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 2884
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394cba59c21054850800000000000000
+      internalID: 6360491339731944595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_63
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 2884
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d45f7fb0d53a70800000000000000
+      internalID: 8806174167286470898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2524
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba3505d10919de0800000000000000
+      internalID: -1328121959521473598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_65
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2524
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee65d2e0e26b8720800000000000000
+      internalID: 2849479907259805417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_66
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2524
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92185eb6d64ec3370800000000000000
+      internalID: 8303762971577123113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_67
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2524
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db956bfb6fc04640800000000000000
+      internalID: 5062274043850628053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_68
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2524
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d94274b5fb53bc0800000000000000
+      internalID: -3803923911488004784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_69
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2524
+        width: 118
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad52240bba3eef0800000000000000
+      internalID: -80031594850166021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_70
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 2524
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e368ca1d27745d280800000000000000
+      internalID: -9019224120269961666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_71
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 2524
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24271da455c696ec0800000000000000
+      internalID: -3573205715758517694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2164
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afdd50809b4f94d0800000000000000
+      internalID: -3125696532370825306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_73
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2164
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3458ab9709142450800000000000000
+      internalID: 6062998518814495805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_74
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2164
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6dcbcace2339f0800000000000000
+      internalID: -489996485915743334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_75
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2164
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40a0b9f2ca0a6f40800000000000000
+      internalID: 5722398109056671823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_76
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2164
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc087f57ea637970800000000000000
+      internalID: 8751456042882698431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_77
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 2164
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9f63ba846568b50800000000000000
+      internalID: 6595053574440810970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_78
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 2164
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912f1bcb303ef0cd0800000000000000
+      internalID: -2589601655524560359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_79
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 2164
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d92abe6f6919b1e0800000000000000
+      internalID: -2181684578094536236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1804
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cc1ac6dd0ddab0800000000000000
+      internalID: -4981810396636855524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1804
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b80138377e347b0800000000000000
+      internalID: -5241091058022970615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_82
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1804
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100c0f8b53361cb0800000000000000
+      internalID: -4893667476756496353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_83
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1804
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23bda4a113319f0800000000000000
+      internalID: -499001144713203040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_84
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1804
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd422ccf60e41700800000000000000
+      internalID: 510279428570500561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_85
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1804
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77d3bbf4f1df39e0800000000000000
+      internalID: -1639360889214478466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_86
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 1804
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421a4cef17da0ccc0800000000000000
+      internalID: -3692760989326597852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_87
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 1804
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1877e2b624108ddd0800000000000000
+      internalID: -2461215811580299391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1444
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca62fdce46e9b1a0800000000000000
+      internalID: -6793145336774628657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_89
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1444
+        width: 115
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75078e304c01c6130800000000000000
+      internalID: 3561239839408418903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_90
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1444
+        width: 116
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e8733b4916a2050800000000000000
+      internalID: 5776536763345899128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_91
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1444
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7febbbe14edd0c30800000000000000
+      internalID: 4327359191682117503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_92
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1444
+        width: 116
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355024136eba801a0800000000000000
+      internalID: -6843030628632230573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_93
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1444
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5989dd319cd1e8b30800000000000000
+      internalID: 4291400244389582997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_94
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 1444
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd759b40883a9810800000000000000
+      internalID: 1772791526998769101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_95
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 1444
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb838c85c560d4f0800000000000000
+      internalID: -806032434158924838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1084
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6fed85fd9ff1b70800000000000000
+      internalID: 8872084528607196846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_97
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1084
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2dc49f2350fb8f0800000000000000
+      internalID: -522693315262623037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_98
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1084
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e883bf8f2e54b40800000000000000
+      internalID: 5423990885232184942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_99
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1084
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f46ad885df5cbcc0800000000000000
+      internalID: -3693972223621962512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_100
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1084
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f531735c0f6e3000800000000000000
+      internalID: 17573547286279668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_101
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1084
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c44e5f0e7a3590800000000000000
+      internalID: -7693698408937897834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_102
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 1084
+        width: 119
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd37c568e1ae610800000000000000
+      internalID: 1651165775810255633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_103
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 1084
+        width: 115
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288b9c0cd8c66b910800000000000000
+      internalID: 1852787652790171778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 724
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a6250b8d1fc86e0800000000000000
+      internalID: -1833825035273213356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_105
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 724
+        width: 115
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a342f4e5e3ad7a200800000000000000
+      internalID: 191361470591607866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_106
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 724
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf2bcdacbe7e91e0800000000000000
+      internalID: -2189173020020756532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_107
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 724
+        width: 118
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa78fd601e9c5e0800000000000000
+      internalID: -1888731149068948964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_108
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 724
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ec27e4274bc9a0800000000000000
+      internalID: -6211793037204593721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_109
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 724
+        width: 118
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ee8ca7f4091a90800000000000000
+      internalID: -7342832255652403537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_110
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 724
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d152e8c2234ef58c0800000000000000
+      internalID: -4008234239189441251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_111
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 724
+        width: 118
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0fb3ff3abd45480800000000000000
+      internalID: -8911256265251098405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 364
+        width: 119
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d634efbadd69ae730800000000000000
+      internalID: 4029198695453836141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_113
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 364
+        width: 121
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d15fcdff7d352670800000000000000
+      internalID: 8513278290542154201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_114
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 364
+        width: 119
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64909bbe4da42eaa0800000000000000
+      internalID: -6133257464176899770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_115
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 364
+        width: 121
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274fe881b53c77970800000000000000
+      internalID: 8752679196839310450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_116
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 364
+        width: 119
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2bace7f97376ee0800000000000000
+      internalID: -1267983611914964301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_117
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 364
+        width: 121
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4358b314ce9eaa0800000000000000
+      internalID: -6131109652772604687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_118
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 364
+        width: 119
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8a0f71c0072eeb0800000000000000
+      internalID: -4692064664523069209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_119
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 364
+        width: 121
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91446544869de4890800000000000000
+      internalID: -7471795689914743783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_120
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 119
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c92622a8cf274e0800000000000000
+      internalID: -1985246815504393079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_121
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 121
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b81298871563d6f0800000000000000
+      internalID: -661073568543401801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickAxeman_122
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 4
+        width: 119
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a162890710876b00800000000000000
+      internalID: 821766293450547616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3c0e261273354234881f510f28bacba8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      StickAxeman_0: -6939788952932507308
+      StickAxeman_1: 5188325052872452870
+      StickAxeman_10: 5784013389772033673
+      StickAxeman_100: 17573547286279668
+      StickAxeman_101: -7693698408937897834
+      StickAxeman_102: 1651165775810255633
+      StickAxeman_103: 1852787652790171778
+      StickAxeman_104: -1833825035273213356
+      StickAxeman_105: 191361470591607866
+      StickAxeman_106: -2189173020020756532
+      StickAxeman_107: -1888731149068948964
+      StickAxeman_108: -6211793037204593721
+      StickAxeman_109: -7342832255652403537
+      StickAxeman_11: -4871376412436772116
+      StickAxeman_110: -4008234239189441251
+      StickAxeman_111: -8911256265251098405
+      StickAxeman_112: 4029198695453836141
+      StickAxeman_113: 8513278290542154201
+      StickAxeman_114: -6133257464176899770
+      StickAxeman_115: 8752679196839310450
+      StickAxeman_116: -1267983611914964301
+      StickAxeman_117: -6131109652772604687
+      StickAxeman_118: -4692064664523069209
+      StickAxeman_119: -7471795689914743783
+      StickAxeman_12: -1965178008543006103
+      StickAxeman_120: -1985246815504393079
+      StickAxeman_121: -661073568543401801
+      StickAxeman_122: 821766293450547616
+      StickAxeman_13: -7685696407048791736
+      StickAxeman_14: -5806543252369690142
+      StickAxeman_15: 202861909976814665
+      StickAxeman_16: 4921617213567450875
+      StickAxeman_17: 3808943532644253084
+      StickAxeman_18: -7295844006115738377
+      StickAxeman_19: 6074304588671931757
+      StickAxeman_2: 8462510918101159496
+      StickAxeman_20: 7611406376032901439
+      StickAxeman_21: 8547498408491513810
+      StickAxeman_22: -8807802725380697369
+      StickAxeman_23: 4522191201989008133
+      StickAxeman_24: -2043813462010775726
+      StickAxeman_25: 785131274924724719
+      StickAxeman_26: -2540613137434546794
+      StickAxeman_27: 4381663055632003656
+      StickAxeman_28: -7490860447584611859
+      StickAxeman_29: -6623523731382525480
+      StickAxeman_3: -3215084380830245006
+      StickAxeman_30: -7204482251520454539
+      StickAxeman_31: -1784882143287716787
+      StickAxeman_32: 6957509849070466708
+      StickAxeman_33: -1000052722498266241
+      StickAxeman_34: 6457704845797547152
+      StickAxeman_35: -4760986899735077463
+      StickAxeman_36: -4350028892976777780
+      StickAxeman_37: 4128828869537114369
+      StickAxeman_38: -3796954804861631981
+      StickAxeman_39: 1326079042096922673
+      StickAxeman_4: 5424651820934627336
+      StickAxeman_40: -6732887641986103277
+      StickAxeman_41: 2873523944552511514
+      StickAxeman_42: -5280934828909796526
+      StickAxeman_43: 7243239419766074414
+      StickAxeman_44: -3921750053471589258
+      StickAxeman_45: 6137227007340713790
+      StickAxeman_46: 2945201675982741108
+      StickAxeman_47: -2982632480579695825
+      StickAxeman_48: 5948677492060661884
+      StickAxeman_49: -6263535349820641219
+      StickAxeman_5: 7014603757611611344
+      StickAxeman_50: 3305172659576857055
+      StickAxeman_51: 3873135361373059182
+      StickAxeman_52: 4690602320246347591
+      StickAxeman_53: 324774338633830677
+      StickAxeman_54: -86469893749318059
+      StickAxeman_55: -2826356439149832944
+      StickAxeman_56: 6940886952934611389
+      StickAxeman_57: -1838719842059143135
+      StickAxeman_58: 4760219387137447632
+      StickAxeman_59: 3265022681765170084
+      StickAxeman_6: 2014590168055871768
+      StickAxeman_60: 7143907616087053431
+      StickAxeman_61: 7087847402282644205
+      StickAxeman_62: 6360491339731944595
+      StickAxeman_63: 8806174167286470898
+      StickAxeman_64: -1328121959521473598
+      StickAxeman_65: 2849479907259805417
+      StickAxeman_66: 8303762971577123113
+      StickAxeman_67: 5062274043850628053
+      StickAxeman_68: -3803923911488004784
+      StickAxeman_69: -80031594850166021
+      StickAxeman_7: -2284007832529594690
+      StickAxeman_70: -9019224120269961666
+      StickAxeman_71: -3573205715758517694
+      StickAxeman_72: -3125696532370825306
+      StickAxeman_73: 6062998518814495805
+      StickAxeman_74: -489996485915743334
+      StickAxeman_75: 5722398109056671823
+      StickAxeman_76: 8751456042882698431
+      StickAxeman_77: 6595053574440810970
+      StickAxeman_78: -2589601655524560359
+      StickAxeman_79: -2181684578094536236
+      StickAxeman_8: -5253445487110352948
+      StickAxeman_80: -4981810396636855524
+      StickAxeman_81: -5241091058022970615
+      StickAxeman_82: -4893667476756496353
+      StickAxeman_83: -499001144713203040
+      StickAxeman_84: 510279428570500561
+      StickAxeman_85: -1639360889214478466
+      StickAxeman_86: -3692760989326597852
+      StickAxeman_87: -2461215811580299391
+      StickAxeman_88: -6793145336774628657
+      StickAxeman_89: 3561239839408418903
+      StickAxeman_9: -7757088889101127497
+      StickAxeman_90: 5776536763345899128
+      StickAxeman_91: 4327359191682117503
+      StickAxeman_92: -6843030628632230573
+      StickAxeman_93: 4291400244389582997
+      StickAxeman_94: 1772791526998769101
+      StickAxeman_95: -806032434158924838
+      StickAxeman_96: 8872084528607196846
+      StickAxeman_97: -522693315262623037
+      StickAxeman_98: 5423990885232184942
+      StickAxeman_99: -3693972223621962512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

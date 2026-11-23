@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 976e431268568a045be3744e86a07399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2636587101377980434
+    second: VillainWalk_0
+  - first:
+      213: -3471361746910523449
+    second: VillainWalk_1
+  - first:
+      213: 8472867260204250881
+    second: VillainWalk_2
+  - first:
+      213: 9111853367334163545
+    second: VillainWalk_3
+  - first:
+      213: 6330072688904198388
+    second: VillainWalk_4
+  - first:
+      213: 2558309962687027675
+    second: VillainWalk_5
+  - first:
+      213: -1260399195216701273
+    second: VillainWalk_6
+  - first:
+      213: -3503992563108682529
+    second: VillainWalk_7
+  - first:
+      213: -6356687421284441842
+    second: VillainWalk_8
+  - first:
+      213: 607426820967498516
+    second: VillainWalk_9
+  - first:
+      213: -4945633653071288043
+    second: VillainWalk_10
+  - first:
+      213: 5716007268143987566
+    second: VillainWalk_11
+  - first:
+      213: 1835826500734726714
+    second: VillainWalk_12
+  - first:
+      213: 7786627623036270208
+    second: VillainWalk_13
+  - first:
+      213: 2486293186700330044
+    second: VillainWalk_14
+  - first:
+      213: -2851205564092863886
+    second: VillainWalk_15
+  - first:
+      213: 2613474217456732620
+    second: VillainWalk_16
+  - first:
+      213: -381548279835307394
+    second: VillainWalk_17
+  - first:
+      213: 7232707747733363591
+    second: VillainWalk_18
+  - first:
+      213: 441923207311083058
+    second: VillainWalk_19
+  - first:
+      213: -186812898155847440
+    second: VillainWalk_20
+  - first:
+      213: -2232934265800363032
+    second: VillainWalk_21
+  - first:
+      213: 8389470443531301247
+    second: VillainWalk_22
+  - first:
+      213: 5493302501328310182
+    second: VillainWalk_23
+  - first:
+      213: 3036447640273637276
+    second: VillainWalk_24
+  - first:
+      213: 3092641971915772840
+    second: VillainWalk_25
+  - first:
+      213: 8474778196341323694
+    second: VillainWalk_26
+  - first:
+      213: -3519591057351781836
+    second: VillainWalk_27
+  - first:
+      213: 2237022236523190578
+    second: VillainWalk_28
+  - first:
+      213: 2653341719414459525
+    second: VillainWalk_29
+  - first:
+      213: -7569150048476616088
+    second: VillainWalk_30
+  - first:
+      213: -4274816828125457468
+    second: VillainWalk_31
+  - first:
+      213: 8807450231351907876
+    second: VillainWalk_32
+  - first:
+      213: 503820767746586454
+    second: VillainWalk_33
+  - first:
+      213: 1947351079970211735
+    second: VillainWalk_34
+  - first:
+      213: 4389029743870203125
+    second: VillainWalk_35
+  - first:
+      213: -7905399172905259272
+    second: VillainWalk_36
+  - first:
+      213: 8715681032918369921
+    second: VillainWalk_37
+  - first:
+      213: 2983241032997844621
+    second: VillainWalk_38
+  - first:
+      213: -4126829827951190108
+    second: VillainWalk_39
+  - first:
+      213: 2179975870440116003
+    second: VillainWalk_40
+  - first:
+      213: -7109800291642077829
+    second: VillainWalk_41
+  - first:
+      213: 9008640003617729462
+    second: VillainWalk_42
+  - first:
+      213: -8912607409948697101
+    second: VillainWalk_43
+  - first:
+      213: 2512346619085359935
+    second: VillainWalk_44
+  - first:
+      213: -4243212021316887880
+    second: VillainWalk_45
+  - first:
+      213: -8261338714019249370
+    second: VillainWalk_46
+  - first:
+      213: -6714200894122354630
+    second: VillainWalk_47
+  - first:
+      213: -1475657002670068783
+    second: VillainWalk_48
+  - first:
+      213: 3386769179844608346
+    second: VillainWalk_49
+  - first:
+      213: -2855529845759635085
+    second: VillainWalk_50
+  - first:
+      213: -8051588022810516484
+    second: VillainWalk_51
+  - first:
+      213: -3017376238889672163
+    second: VillainWalk_52
+  - first:
+      213: 8635638245937976881
+    second: VillainWalk_53
+  - first:
+      213: -6677379341112027004
+    second: VillainWalk_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillainWalk_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3250
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218e20ddff9079420800000000000000
+      internalID: 2636587101377980434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3250
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc48c12ee33dfc0800000000000000
+      internalID: -3471361746910523449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_2
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3250
+        width: 228
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107f289c1eba59570800000000000000
+      internalID: 8472867260204250881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 3250
+        width: 228
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95456656c5ec37e70800000000000000
+      internalID: 9111853367334163545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 3251
+        width: 230
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f85988829fe8d750800000000000000
+      internalID: 6330072688904198388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_5
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 3252
+        width: 229
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd99d474b51f08320800000000000000
+      internalID: 2558309962687027675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2893
+        width: 228
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a89bed1c99228ee0800000000000000
+      internalID: -1260399195216701273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2894
+        width: 229
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4eb4c24515f5fc0800000000000000
+      internalID: -3503992563108682529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2894
+        width: 227
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a522387288c7a0800000000000000
+      internalID: -6356687421284441842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2894
+        width: 226
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41300d2b9730e6800800000000000000
+      internalID: 607426820967498516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_10
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2894
+        width: 228
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e77745649d5bb0800000000000000
+      internalID: -4945633653071288043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_11
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2894
+        width: 227
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf54f5356535f40800000000000000
+      internalID: 5716007268143987566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2534
+        width: 227
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ba8dc97a2a7910800000000000000
+      internalID: 1835826500734726714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2534
+        width: 227
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086325d5198af0c60800000000000000
+      internalID: 7786627623036270208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_14
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2534
+        width: 226
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c344fb8fa76118220800000000000000
+      internalID: 2486293186700330044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_15
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2532
+        width: 227
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa0a255ab7e68d0800000000000000
+      internalID: -2851205564092863886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_16
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2530
+        width: 229
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9862934fce44420800000000000000
+      internalID: 2613474217456732620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_17
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 2529
+        width: 230
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7251cb6cd774baf0800000000000000
+      internalID: -381548279835307394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2169
+        width: 230
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bdcd3406dbf5460800000000000000
+      internalID: 7232707747733363591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2169
+        width: 230
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23647cdc0d6022600800000000000000
+      internalID: 441923207311083058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_20
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 2170
+        width: 230
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a5fda8ae486df0800000000000000
+      internalID: -186812898155847440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_21
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2170
+        width: 230
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3fb28ad160301e0800000000000000
+      internalID: -2232934265800363032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_22
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2171
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7172584be26d6470800000000000000
+      internalID: 8389470443531301247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_23
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2171
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af407b25812c3c40800000000000000
+      internalID: 5493302501328310182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1812
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f45918a01a32a20800000000000000
+      internalID: 3036447640273637276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_25
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1812
+        width: 227
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d089ec754bea20800000000000000
+      internalID: 3092641971915772840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_26
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1812
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea776274ed57c9570800000000000000
+      internalID: 8474778196341323694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_27
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1812
+        width: 226
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432d7e7b496e72fc0800000000000000
+      internalID: -3519591057351781836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_28
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1811
+        width: 226
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2395d923fdf7b0f10800000000000000
+      internalID: 2237022236523190578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_29
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1811
+        width: 228
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4c6d5c3092d420800000000000000
+      internalID: 2653341719414459525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1450
+        width: 229
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aabec422af4f690800000000000000
+      internalID: -7569150048476616088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_31
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1449
+        width: 229
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c358b76ebccca4c0800000000000000
+      internalID: -4274816828125457468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_32
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1449
+        width: 229
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42699a052595a3a70800000000000000
+      internalID: 8807450231351907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_33
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1449
+        width: 230
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657fff3a15eedf600800000000000000
+      internalID: 503820767746586454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_34
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1450
+        width: 229
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797099e5d71660b10800000000000000
+      internalID: 1947351079970211735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_35
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 1450
+        width: 230
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4d1084c47f8ec30800000000000000
+      internalID: 4389029743870203125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1090
+        width: 230
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea05b36516a4290800000000000000
+      internalID: -7905399172905259272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_37
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1092
+        width: 230
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18685b6c8b154f870800000000000000
+      internalID: 8715681032918369921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_38
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1093
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b433e9e9966920800000000000000
+      internalID: 2983241032997844621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_39
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1094
+        width: 228
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af9b78e22e8ab6c0800000000000000
+      internalID: -4126829827951190108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_40
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1095
+        width: 227
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f81801184d04e10800000000000000
+      internalID: 2179975870440116003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_41
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1095
+        width: 226
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d84b8dd4ae45d90800000000000000
+      internalID: -7109800291642077829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 735
+        width: 227
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb220d7a5e150d70800000000000000
+      internalID: 9008640003617729462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 735
+        width: 226
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5e7b18ce005480800000000000000
+      internalID: -8912607409948697101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_44
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 734
+        width: 227
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b8c3760f5add220800000000000000
+      internalID: 2512346619085359935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_45
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 734
+        width: 227
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba5dbae5251d15c0800000000000000
+      internalID: -4243212021316887880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_46
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 733
+        width: 228
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62343b5c534d95d80800000000000000
+      internalID: -8261338714019249370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_47
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 733
+        width: 227
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381a333cdd52d2a0800000000000000
+      internalID: -6714200894122354630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 372
+        width: 228
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db688146c9658be0800000000000000
+      internalID: -1475657002670068783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_49
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 371
+        width: 229
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5101ec00a8300f20800000000000000
+      internalID: 3386769179844608346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_50
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 371
+        width: 228
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37198f90cbe1f58d0800000000000000
+      internalID: -2855529845759635085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_51
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 370
+        width: 228
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3e6963a53034090800000000000000
+      internalID: -8051588022810516484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_52
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 370
+        width: 227
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e6472c402026d0800000000000000
+      internalID: -3017376238889672163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_53
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 369
+        width: 227
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13619e92b33f7d770800000000000000
+      internalID: 8635638245937976881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainWalk_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 10
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4885c761ede2553a0800000000000000
+      internalID: -6677379341112027004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VillainWalk_0: 2636587101377980434
+      VillainWalk_1: -3471361746910523449
+      VillainWalk_10: -4945633653071288043
+      VillainWalk_11: 5716007268143987566
+      VillainWalk_12: 1835826500734726714
+      VillainWalk_13: 7786627623036270208
+      VillainWalk_14: 2486293186700330044
+      VillainWalk_15: -2851205564092863886
+      VillainWalk_16: 2613474217456732620
+      VillainWalk_17: -381548279835307394
+      VillainWalk_18: 7232707747733363591
+      VillainWalk_19: 441923207311083058
+      VillainWalk_2: 8472867260204250881
+      VillainWalk_20: -186812898155847440
+      VillainWalk_21: -2232934265800363032
+      VillainWalk_22: 8389470443531301247
+      VillainWalk_23: 5493302501328310182
+      VillainWalk_24: 3036447640273637276
+      VillainWalk_25: 3092641971915772840
+      VillainWalk_26: 8474778196341323694
+      VillainWalk_27: -3519591057351781836
+      VillainWalk_28: 2237022236523190578
+      VillainWalk_29: 2653341719414459525
+      VillainWalk_3: 9111853367334163545
+      VillainWalk_30: -7569150048476616088
+      VillainWalk_31: -4274816828125457468
+      VillainWalk_32: 8807450231351907876
+      VillainWalk_33: 503820767746586454
+      VillainWalk_34: 1947351079970211735
+      VillainWalk_35: 4389029743870203125
+      VillainWalk_36: -7905399172905259272
+      VillainWalk_37: 8715681032918369921
+      VillainWalk_38: 2983241032997844621
+      VillainWalk_39: -4126829827951190108
+      VillainWalk_4: 6330072688904198388
+      VillainWalk_40: 2179975870440116003
+      VillainWalk_41: -7109800291642077829
+      VillainWalk_42: 9008640003617729462
+      VillainWalk_43: -8912607409948697101
+      VillainWalk_44: 2512346619085359935
+      VillainWalk_45: -4243212021316887880
+      VillainWalk_46: -8261338714019249370
+      VillainWalk_47: -6714200894122354630
+      VillainWalk_48: -1475657002670068783
+      VillainWalk_49: 3386769179844608346
+      VillainWalk_5: 2558309962687027675
+      VillainWalk_50: -2855529845759635085
+      VillainWalk_51: -8051588022810516484
+      VillainWalk_52: -3017376238889672163
+      VillainWalk_53: 8635638245937976881
+      VillainWalk_54: -6677379341112027004
+      VillainWalk_6: -1260399195216701273
+      VillainWalk_7: -3503992563108682529
+      VillainWalk_8: -6356687421284441842
+      VillainWalk_9: 607426820967498516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

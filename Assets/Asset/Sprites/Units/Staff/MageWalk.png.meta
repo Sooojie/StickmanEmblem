@@ -1,0 +1,3265 @@
+fileFormatVersion: 2
+guid: cd95c3ef61d011d448ed99c420fab8ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1013227824048472182
+    second: MageWalk_0
+  - first:
+      213: 3419653158444051035
+    second: MageWalk_1
+  - first:
+      213: -7762769416432436079
+    second: MageWalk_2
+  - first:
+      213: -3998065028426580658
+    second: MageWalk_3
+  - first:
+      213: 5861414451545823084
+    second: MageWalk_4
+  - first:
+      213: 7792873882743916317
+    second: MageWalk_5
+  - first:
+      213: -6968885172332027753
+    second: MageWalk_6
+  - first:
+      213: 4219906855878799428
+    second: MageWalk_7
+  - first:
+      213: 377882896955410223
+    second: MageWalk_8
+  - first:
+      213: 7910611604119033016
+    second: MageWalk_9
+  - first:
+      213: -299931405150582777
+    second: MageWalk_10
+  - first:
+      213: -41443538879303167
+    second: MageWalk_11
+  - first:
+      213: -6811449863995415700
+    second: MageWalk_12
+  - first:
+      213: 2419249962869831643
+    second: MageWalk_13
+  - first:
+      213: 5436675391116407653
+    second: MageWalk_14
+  - first:
+      213: 8952921526365997677
+    second: MageWalk_15
+  - first:
+      213: 8007377548681947643
+    second: MageWalk_16
+  - first:
+      213: 1794167733631034274
+    second: MageWalk_17
+  - first:
+      213: 1083913753094960666
+    second: MageWalk_18
+  - first:
+      213: 2173931539407996162
+    second: MageWalk_19
+  - first:
+      213: 8581182235540385852
+    second: MageWalk_20
+  - first:
+      213: -1001376607302287853
+    second: MageWalk_21
+  - first:
+      213: 8931101223081708466
+    second: MageWalk_22
+  - first:
+      213: -4168651071342275706
+    second: MageWalk_23
+  - first:
+      213: -4985019858002468738
+    second: MageWalk_24
+  - first:
+      213: 3609071874331045591
+    second: MageWalk_25
+  - first:
+      213: 8537080201838708139
+    second: MageWalk_26
+  - first:
+      213: -3184222145922294557
+    second: MageWalk_27
+  - first:
+      213: -2580869726335100413
+    second: MageWalk_28
+  - first:
+      213: -6378692092693587124
+    second: MageWalk_29
+  - first:
+      213: -6331595217778947651
+    second: MageWalk_30
+  - first:
+      213: -8988503994776002436
+    second: MageWalk_31
+  - first:
+      213: -4914112324125960941
+    second: MageWalk_32
+  - first:
+      213: 4057533883777964620
+    second: MageWalk_33
+  - first:
+      213: -5509489465367115593
+    second: MageWalk_34
+  - first:
+      213: -1908383049573805898
+    second: MageWalk_35
+  - first:
+      213: -9140389349674066570
+    second: MageWalk_36
+  - first:
+      213: -8624643240204629718
+    second: MageWalk_37
+  - first:
+      213: -8073622854734807363
+    second: MageWalk_38
+  - first:
+      213: 4730241053073234214
+    second: MageWalk_39
+  - first:
+      213: 2100280929533826719
+    second: MageWalk_40
+  - first:
+      213: -2965777056755528074
+    second: MageWalk_41
+  - first:
+      213: 5920547884595188244
+    second: MageWalk_42
+  - first:
+      213: 1314942974711992464
+    second: MageWalk_43
+  - first:
+      213: -1551004605481817575
+    second: MageWalk_44
+  - first:
+      213: 854537598835531713
+    second: MageWalk_45
+  - first:
+      213: 6712511665431772749
+    second: MageWalk_46
+  - first:
+      213: 1322765954583472055
+    second: MageWalk_47
+  - first:
+      213: 7616658018665760137
+    second: MageWalk_48
+  - first:
+      213: 2699743015282622199
+    second: MageWalk_49
+  - first:
+      213: 5388980606694416230
+    second: MageWalk_50
+  - first:
+      213: -3019220337979738372
+    second: MageWalk_51
+  - first:
+      213: -766934618427323770
+    second: MageWalk_52
+  - first:
+      213: 2503102274025040057
+    second: MageWalk_53
+  - first:
+      213: -2743299653369420519
+    second: MageWalk_54
+  - first:
+      213: -4650135017956877209
+    second: MageWalk_55
+  - first:
+      213: 5207886673883873263
+    second: MageWalk_56
+  - first:
+      213: 8805175461166635702
+    second: MageWalk_57
+  - first:
+      213: 3668360476497633993
+    second: MageWalk_58
+  - first:
+      213: 8194595026183967008
+    second: MageWalk_59
+  - first:
+      213: -6435033141338729558
+    second: MageWalk_60
+  - first:
+      213: 3376249056998646448
+    second: MageWalk_61
+  - first:
+      213: -5271394240463060077
+    second: MageWalk_62
+  - first:
+      213: -7088180594621773779
+    second: MageWalk_63
+  - first:
+      213: -4812666838944742420
+    second: MageWalk_64
+  - first:
+      213: 7448832748330344868
+    second: MageWalk_65
+  - first:
+      213: 8008095765748636098
+    second: MageWalk_66
+  - first:
+      213: 5742452715293460405
+    second: MageWalk_67
+  - first:
+      213: 2945872541055722193
+    second: MageWalk_68
+  - first:
+      213: -3341797543975808535
+    second: MageWalk_69
+  - first:
+      213: -2864336286955694499
+    second: MageWalk_70
+  - first:
+      213: 5216367817636820576
+    second: MageWalk_71
+  - first:
+      213: -322475566248587534
+    second: MageWalk_72
+  - first:
+      213: -8539094926068868904
+    second: MageWalk_73
+  - first:
+      213: 8385814375039256562
+    second: MageWalk_74
+  - first:
+      213: 1092000895577503033
+    second: MageWalk_75
+  - first:
+      213: -2051121041669818146
+    second: MageWalk_76
+  - first:
+      213: -4564972369905672307
+    second: MageWalk_77
+  - first:
+      213: 8807843469132622794
+    second: MageWalk_78
+  - first:
+      213: 8860789260036579961
+    second: MageWalk_79
+  - first:
+      213: 8365455528161848426
+    second: MageWalk_80
+  - first:
+      213: 9115374643118276131
+    second: MageWalk_81
+  - first:
+      213: -2544850487991695960
+    second: MageWalk_82
+  - first:
+      213: 4250341057851646062
+    second: MageWalk_83
+  - first:
+      213: 5420672740273827967
+    second: MageWalk_84
+  - first:
+      213: 620258608529171937
+    second: MageWalk_85
+  - first:
+      213: -1089768471982482723
+    second: MageWalk_86
+  - first:
+      213: 3003335299899739050
+    second: MageWalk_87
+  - first:
+      213: -1873620535838479165
+    second: MageWalk_88
+  - first:
+      213: 6501109343210399080
+    second: MageWalk_89
+  - first:
+      213: -3426749819232902059
+    second: MageWalk_90
+  - first:
+      213: -8619720224512966139
+    second: MageWalk_91
+  - first:
+      213: 92766549160995764
+    second: MageWalk_92
+  - first:
+      213: -8582084563529772871
+    second: MageWalk_93
+  - first:
+      213: 3698563118031868511
+    second: MageWalk_94
+  - first:
+      213: 579519760687327999
+    second: MageWalk_95
+  - first:
+      213: 4728547700472068204
+    second: MageWalk_96
+  - first:
+      213: -5467053237154063714
+    second: MageWalk_97
+  - first:
+      213: -396669577536812351
+    second: MageWalk_98
+  - first:
+      213: -8697923581727069184
+    second: MageWalk_99
+  - first:
+      213: -773583978407695264
+    second: MageWalk_100
+  - first:
+      213: -6411874649526538950
+    second: MageWalk_101
+  - first:
+      213: -7089468574288168876
+    second: MageWalk_102
+  - first:
+      213: -8389488563757019553
+    second: MageWalk_103
+  - first:
+      213: -2895323102675730479
+    second: MageWalk_104
+  - first:
+      213: 403883658317382661
+    second: MageWalk_105
+  - first:
+      213: -7664284593777023184
+    second: MageWalk_106
+  - first:
+      213: -4566168751977168739
+    second: MageWalk_107
+  - first:
+      213: -4713811400700964940
+    second: MageWalk_108
+  - first:
+      213: -1067986531015231866
+    second: MageWalk_109
+  - first:
+      213: -4666202939072454738
+    second: MageWalk_110
+  - first:
+      213: 3869387932183158406
+    second: MageWalk_111
+  - first:
+      213: 128685291745998477
+    second: MageWalk_112
+  - first:
+      213: -1023623548231121165
+    second: MageWalk_113
+  - first:
+      213: -9092503162019989474
+    second: MageWalk_114
+  - first:
+      213: 6216715216419679176
+    second: MageWalk_115
+  - first:
+      213: -1030460534640918627
+    second: MageWalk_116
+  - first:
+      213: 7205796449899651419
+    second: MageWalk_117
+  - first:
+      213: -1044460074022567372
+    second: MageWalk_118
+  - first:
+      213: 4309291587714863633
+    second: MageWalk_119
+  - first:
+      213: -5215387721459364615
+    second: MageWalk_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MageWalk_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5401
+        width: 84
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7c0f89aa40f1f0800000000000000
+      internalID: -1013227824048472182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5401
+        width: 85
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa914fd6c057f20800000000000000
+      internalID: 3419653158444051035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_2
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 5401
+        width: 84
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c374c385a154490800000000000000
+      internalID: -7762769416432436079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_3
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 5401
+        width: 84
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4db8bf0a050488c0800000000000000
+      internalID: -3998065028426580658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 5401
+        width: 84
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67dab9736de75150800000000000000
+      internalID: 5861414451545823084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_5
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 5401
+        width: 84
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ce580289d52c60800000000000000
+      internalID: 7792873882743916317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_6
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 5401
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790a9a6cbdb894f90800000000000000
+      internalID: -6968885172332027753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_7
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 5401
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44034e96dee109a30800000000000000
+      internalID: 4219906855878799428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5041
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2709bf1e728e3500800000000000000
+      internalID: 377882896955410223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5041
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4199b775328cd60800000000000000
+      internalID: 7910611604119033016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_10
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 5041
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080403e9fd66dbf0800000000000000
+      internalID: -299931405150582777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_11
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 5041
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1023dda2253cc6ff0800000000000000
+      internalID: -41443538879303167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_12
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 5041
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ab23ff6ed871a0800000000000000
+      internalID: -6811449863995415700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_13
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 5041
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7bbb30607e29120800000000000000
+      internalID: 2419249962869831643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_14
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 5044
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f996a673f27b40800000000000000
+      internalID: 5436675391116407653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_15
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 5044
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a4ef091ba2f3c70800000000000000
+      internalID: 8952921526365997677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4684
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf920a3a47bef1f60800000000000000
+      internalID: 8007377548681947643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4684
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ab8e3c0a26e810800000000000000
+      internalID: 1794167733631034274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 4684
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b26cc0d5da0f00800000000000000
+      internalID: 1083913753094960666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_19
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4684
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058e64973b5b2e10800000000000000
+      internalID: 2173931539407996162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_20
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 4684
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f64637cb761770800000000000000
+      internalID: 8581182235540385852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_21
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 4684
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7c5bf7456a12f0800000000000000
+      internalID: -1001376607302287853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_22
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 4684
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb87de4e35a1fb70800000000000000
+      internalID: 8931101223081708466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_23
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 4684
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6839714efe9f526c0800000000000000
+      internalID: -4168651071342275706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4324
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ae75d9d6a1dab0800000000000000
+      internalID: -4985019858002468738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4324
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deea5e7fbff51230800000000000000
+      internalID: 3609071874331045591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_26
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 4324
+        width: 90
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5cd91563dc97670800000000000000
+      internalID: 8537080201838708139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_27
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 4324
+        width: 90
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec9e5a34de5fc3d0800000000000000
+      internalID: -3184222145922294557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_28
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4324
+        width: 90
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9c3e68a8ee2cd0800000000000000
+      internalID: -2580869726335100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_29
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 4327
+        width: 95
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd76366555a77a0800000000000000
+      internalID: -6378692092693587124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_30
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 4327
+        width: 96
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db949b612b7a128a0800000000000000
+      internalID: -6331595217778947651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_31
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 4327
+        width: 98
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7062396d3b624380800000000000000
+      internalID: -8988503994776002436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3967
+        width: 96
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155a1690e09dcbb0800000000000000
+      internalID: -4914112324125960941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_33
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3967
+        width: 98
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a52bec1914f4830800000000000000
+      internalID: 4057533883777964620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_34
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3967
+        width: 99
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84903958c5a83b0800000000000000
+      internalID: -5509489465367115593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_35
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3967
+        width: 95
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0d6ca3abf0485e0800000000000000
+      internalID: -1908383049573805898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_36
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 3967
+        width: 93
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd9e77050d62180800000000000000
+      internalID: -9140389349674066570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_37
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 3964
+        width: 92
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2901291bac1f4880800000000000000
+      internalID: -8624643240204629718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_38
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 3964
+        width: 90
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe7e0d1acab4ff80800000000000000
+      internalID: -8073622854734807363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_39
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 3964
+        width: 88
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62956660d2135a140800000000000000
+      internalID: 4730241053073234214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3607
+        width: 87
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96146da062b52d10800000000000000
+      internalID: 2100280929533826719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3607
+        width: 85
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e4511fa7177d6d0800000000000000
+      internalID: -2965777056755528074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_42
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3607
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4129cf0cee20a2250800000000000000
+      internalID: 5920547884595188244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_43
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3607
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0909a9b2bad9f3210800000000000000
+      internalID: 1314942974711992464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_44
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3607
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae2456789b97ae0800000000000000
+      internalID: -1551004605481817575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_45
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 3607
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf9ec92b6debdb00800000000000000
+      internalID: 854537598835531713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_46
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 3607
+        width: 82
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef9b89bc1a72d50800000000000000
+      internalID: 6712511665431772749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_47
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 3607
+        width: 82
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7adeb90a86b5210800000000000000
+      internalID: 1322765954583472055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3247
+        width: 82
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985043afc1ec3b960800000000000000
+      internalID: 7616658018665760137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_49
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3247
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe33c2f7f9677520800000000000000
+      internalID: 2699743015282622199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_50
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3247
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f5d7b4f4189ca40800000000000000
+      internalID: 5388980606694416230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_51
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3247
+        width: 87
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6351069139916d0800000000000000
+      internalID: -3019220337979738372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_52
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 3247
+        width: 87
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a80b6270d4b55f0800000000000000
+      internalID: -766934618427323770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_53
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 3247
+        width: 87
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b82cb7914eccb220800000000000000
+      internalID: 2503102274025040057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_54
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 3247
+        width: 87
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915a678ff77dde9d0800000000000000
+      internalID: -2743299653369420519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_55
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 3247
+        width: 89
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c5311b6d6677fb0800000000000000
+      internalID: -4650135017956877209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2887
+        width: 87
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefb65b5651264840800000000000000
+      internalID: 5207886673883873263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_57
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2887
+        width: 87
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad2db1e64423a70800000000000000
+      internalID: 8805175461166635702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_58
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2887
+        width: 86
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c269b5ea62a8e230800000000000000
+      internalID: 3668360476497633993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_59
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2887
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021d0ed62cc09b170800000000000000
+      internalID: 8194595026183967008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_60
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2887
+        width: 82
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa393a4c37b22b6a0800000000000000
+      internalID: -6435033141338729558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_61
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2887
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e6a311a8dade20800000000000000
+      internalID: 3376249056998646448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_62
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 2887
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c82a0ede38d6b0800000000000000
+      internalID: -5271394240463060077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_63
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 2887
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2880c1dd49b1ad90800000000000000
+      internalID: -7088180594621773779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2527
+        width: 82
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce385623209f53db0800000000000000
+      internalID: -4812666838944742420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_65
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2527
+        width: 84
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1e6834be19f5760800000000000000
+      internalID: 7448832748330344868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_66
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2527
+        width: 82
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d1c49ba8722f60800000000000000
+      internalID: 8008095765748636098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_67
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2527
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b74b8ad15a41bf40800000000000000
+      internalID: 5742452715293460405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_68
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2527
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2243bd777d1e820800000000000000
+      internalID: 2945872541055722193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_69
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2527
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19c00e6dc8f91d0800000000000000
+      internalID: -3341797543975808535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_70
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 2527
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d569ebaa255df38d0800000000000000
+      internalID: -2864336286955694499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_71
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 2527
+        width: 89
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066b50484e2446840800000000000000
+      internalID: 5216367817636820576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2167
+        width: 90
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe82095e26568bf0800000000000000
+      internalID: -322475566248587534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_73
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2167
+        width: 92
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81354286a0f7980800000000000000
+      internalID: -8539094926068868904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_74
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2167
+        width: 99
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f744908eb5606470800000000000000
+      internalID: 8385814375039256562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_75
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2167
+        width: 98
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9353e436701972f00800000000000000
+      internalID: 1092000895577503033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_76
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2167
+        width: 96
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f0f7a744f883e0800000000000000
+      internalID: -2051121041669818146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_77
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2167
+        width: 98
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f9c4ad0d5f5a0c0800000000000000
+      internalID: -4564972369905672307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_78
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 2167
+        width: 96
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbe4ee18febb3a70800000000000000
+      internalID: 8807843469132622794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_79
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 2167
+        width: 95
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a312b2e8d7fa70800000000000000
+      internalID: 8860789260036579961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_80
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1807
+        width: 93
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2a641b71181470800000000000000
+      internalID: 8365455528161848426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_81
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1807
+        width: 95
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32efaad41f0508e70800000000000000
+      internalID: 9115374643118276131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_82
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1807
+        width: 90
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a586c0e6ffdeacd0800000000000000
+      internalID: -2544850487991695960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_83
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1807
+        width: 88
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60618f3cae3cfa30800000000000000
+      internalID: 4250341057851646062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_84
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1807
+        width: 87
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f703aa723291a3b40800000000000000
+      internalID: 5420672740273827967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_85
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1807
+        width: 85
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5624e0be99b9800800000000000000
+      internalID: 620258608529171937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_86
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1807
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda501c395d50e0f0800000000000000
+      internalID: -1089768471982482723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_87
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 1807
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab4aebfa8dfda920800000000000000
+      internalID: 3003335299899739050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1447
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc687dac009ff5e0800000000000000
+      internalID: -1873620535838479165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_89
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1447
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8656708d084983a50800000000000000
+      internalID: 6501109343210399080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_90
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1447
+        width: 82
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542d72f13db170d0800000000000000
+      internalID: -3426749819232902059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_91
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1447
+        width: 82
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50287a2002a906880800000000000000
+      internalID: -8619720224512966139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_92
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1447
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba7c95fa2994100800000000000000
+      internalID: 92766549160995764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_93
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1447
+        width: 87
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d17e2f8f46e880800000000000000
+      internalID: -8582084563529772871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_94
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1447
+        width: 90
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5296ad5f8fe35330800000000000000
+      internalID: 3698563118031868511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_95
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 1447
+        width: 92
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa6614e62eda0800800000000000000
+      internalID: 579519760687327999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_96
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1087
+        width: 93
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68b026a41d2f9140800000000000000
+      internalID: 4728547700472068204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_97
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1087
+        width: 95
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a5847eb002124b0800000000000000
+      internalID: -5467053237154063714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_98
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1087
+        width: 99
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cac6b1fe1fbe7af0800000000000000
+      internalID: -396669577536812351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_99
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1087
+        width: 95
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2aa30694ca4780800000000000000
+      internalID: -8697923581727069184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_100
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1087
+        width: 93
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6313687da345f0800000000000000
+      internalID: -773583978407695264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_101
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 1084
+        width: 90
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d63a25af17407a0800000000000000
+      internalID: -6411874649526538950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_102
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1084
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458324fa4e52d9d90800000000000000
+      internalID: -7089468574288168876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_103
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 1084
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e8f06c99c829b80800000000000000
+      internalID: -8389488563757019553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 724
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff70b6afeb1d7d0800000000000000
+      internalID: -2895323102675730479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_105
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 724
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c7902c02ea9500800000000000000
+      internalID: 403883658317382661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_106
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 724
+        width: 85
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037eb62e4cdf2a590800000000000000
+      internalID: -7664284593777023184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_107
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 724
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9089e176b5b1a0c0800000000000000
+      internalID: -4566168751977168739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_108
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 724
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4803818d259eb0800000000000000
+      internalID: -4713811400700964940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_109
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 724
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867fe198efbd21f0800000000000000
+      internalID: -1067986531015231866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_110
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 724
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd3b646215e3fb0800000000000000
+      internalID: -4666202939072454738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_111
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 724
+        width: 84
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ed5fbc2d3d2b530800000000000000
+      internalID: 3869387932183158406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 364
+        width: 82
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86765e479e29c100800000000000000
+      internalID: 128685291745998477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_113
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 364
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f685f76ecb5bc1f0800000000000000
+      internalID: -1023623548231121165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_114
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 364
+        width: 86
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18beac5c80f0d180800000000000000
+      internalID: -9092503162019989474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_115
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 364
+        width: 84
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe5704d85364650800000000000000
+      internalID: 6216715216419679176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_116
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 364
+        width: 84
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3ba57a9113b1f0800000000000000
+      internalID: -1030460534640918627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_117
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 364
+        width: 84
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512a0871b1200460800000000000000
+      internalID: 7205796449899651419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_118
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 364
+        width: 84
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4328ec1b8155181f0800000000000000
+      internalID: -1044460074022567372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_119
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 361
+        width: 84
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112d25f0eddadcb30800000000000000
+      internalID: 4309291587714863633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MageWalk_120
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 84
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc0b78ef783f97b0800000000000000
+      internalID: -5215387721459364615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7f9dcb33de86eee4fb2a5d3b05816a96
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MageWalk_0: -1013227824048472182
+      MageWalk_1: 3419653158444051035
+      MageWalk_10: -299931405150582777
+      MageWalk_100: -773583978407695264
+      MageWalk_101: -6411874649526538950
+      MageWalk_102: -7089468574288168876
+      MageWalk_103: -8389488563757019553
+      MageWalk_104: -2895323102675730479
+      MageWalk_105: 403883658317382661
+      MageWalk_106: -7664284593777023184
+      MageWalk_107: -4566168751977168739
+      MageWalk_108: -4713811400700964940
+      MageWalk_109: -1067986531015231866
+      MageWalk_11: -41443538879303167
+      MageWalk_110: -4666202939072454738
+      MageWalk_111: 3869387932183158406
+      MageWalk_112: 128685291745998477
+      MageWalk_113: -1023623548231121165
+      MageWalk_114: -9092503162019989474
+      MageWalk_115: 6216715216419679176
+      MageWalk_116: -1030460534640918627
+      MageWalk_117: 7205796449899651419
+      MageWalk_118: -1044460074022567372
+      MageWalk_119: 4309291587714863633
+      MageWalk_12: -6811449863995415700
+      MageWalk_120: -5215387721459364615
+      MageWalk_13: 2419249962869831643
+      MageWalk_14: 5436675391116407653
+      MageWalk_15: 8952921526365997677
+      MageWalk_16: 8007377548681947643
+      MageWalk_17: 1794167733631034274
+      MageWalk_18: 1083913753094960666
+      MageWalk_19: 2173931539407996162
+      MageWalk_2: -7762769416432436079
+      MageWalk_20: 8581182235540385852
+      MageWalk_21: -1001376607302287853
+      MageWalk_22: 8931101223081708466
+      MageWalk_23: -4168651071342275706
+      MageWalk_24: -4985019858002468738
+      MageWalk_25: 3609071874331045591
+      MageWalk_26: 8537080201838708139
+      MageWalk_27: -3184222145922294557
+      MageWalk_28: -2580869726335100413
+      MageWalk_29: -6378692092693587124
+      MageWalk_3: -3998065028426580658
+      MageWalk_30: -6331595217778947651
+      MageWalk_31: -8988503994776002436
+      MageWalk_32: -4914112324125960941
+      MageWalk_33: 4057533883777964620
+      MageWalk_34: -5509489465367115593
+      MageWalk_35: -1908383049573805898
+      MageWalk_36: -9140389349674066570
+      MageWalk_37: -8624643240204629718
+      MageWalk_38: -8073622854734807363
+      MageWalk_39: 4730241053073234214
+      MageWalk_4: 5861414451545823084
+      MageWalk_40: 2100280929533826719
+      MageWalk_41: -2965777056755528074
+      MageWalk_42: 5920547884595188244
+      MageWalk_43: 1314942974711992464
+      MageWalk_44: -1551004605481817575
+      MageWalk_45: 854537598835531713
+      MageWalk_46: 6712511665431772749
+      MageWalk_47: 1322765954583472055
+      MageWalk_48: 7616658018665760137
+      MageWalk_49: 2699743015282622199
+      MageWalk_5: 7792873882743916317
+      MageWalk_50: 5388980606694416230
+      MageWalk_51: -3019220337979738372
+      MageWalk_52: -766934618427323770
+      MageWalk_53: 2503102274025040057
+      MageWalk_54: -2743299653369420519
+      MageWalk_55: -4650135017956877209
+      MageWalk_56: 5207886673883873263
+      MageWalk_57: 8805175461166635702
+      MageWalk_58: 3668360476497633993
+      MageWalk_59: 8194595026183967008
+      MageWalk_6: -6968885172332027753
+      MageWalk_60: -6435033141338729558
+      MageWalk_61: 3376249056998646448
+      MageWalk_62: -5271394240463060077
+      MageWalk_63: -7088180594621773779
+      MageWalk_64: -4812666838944742420
+      MageWalk_65: 7448832748330344868
+      MageWalk_66: 8008095765748636098
+      MageWalk_67: 5742452715293460405
+      MageWalk_68: 2945872541055722193
+      MageWalk_69: -3341797543975808535
+      MageWalk_7: 4219906855878799428
+      MageWalk_70: -2864336286955694499
+      MageWalk_71: 5216367817636820576
+      MageWalk_72: -322475566248587534
+      MageWalk_73: -8539094926068868904
+      MageWalk_74: 8385814375039256562
+      MageWalk_75: 1092000895577503033
+      MageWalk_76: -2051121041669818146
+      MageWalk_77: -4564972369905672307
+      MageWalk_78: 8807843469132622794
+      MageWalk_79: 8860789260036579961
+      MageWalk_8: 377882896955410223
+      MageWalk_80: 8365455528161848426
+      MageWalk_81: 9115374643118276131
+      MageWalk_82: -2544850487991695960
+      MageWalk_83: 4250341057851646062
+      MageWalk_84: 5420672740273827967
+      MageWalk_85: 620258608529171937
+      MageWalk_86: -1089768471982482723
+      MageWalk_87: 3003335299899739050
+      MageWalk_88: -1873620535838479165
+      MageWalk_89: 6501109343210399080
+      MageWalk_9: 7910611604119033016
+      MageWalk_90: -3426749819232902059
+      MageWalk_91: -8619720224512966139
+      MageWalk_92: 92766549160995764
+      MageWalk_93: -8582084563529772871
+      MageWalk_94: 3698563118031868511
+      MageWalk_95: 579519760687327999
+      MageWalk_96: 4728547700472068204
+      MageWalk_97: -5467053237154063714
+      MageWalk_98: -396669577536812351
+      MageWalk_99: -8697923581727069184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: 63420ab3e7b55b14d83c5ab326ae4b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4187318175322381614
+    second: BowWalk_0
+  - first:
+      213: 3750043329768448793
+    second: BowWalk_1
+  - first:
+      213: -4977728840812737822
+    second: BowWalk_2
+  - first:
+      213: -619386671182657596
+    second: BowWalk_3
+  - first:
+      213: 1187934798800316930
+    second: BowWalk_4
+  - first:
+      213: -364843454344394045
+    second: BowWalk_5
+  - first:
+      213: 5292632812679578324
+    second: BowWalk_6
+  - first:
+      213: 8521007451233786825
+    second: BowWalk_7
+  - first:
+      213: 6766136332317199377
+    second: BowWalk_8
+  - first:
+      213: 3262584454828889361
+    second: BowWalk_9
+  - first:
+      213: -6645158573331739664
+    second: BowWalk_10
+  - first:
+      213: -3059079519322396834
+    second: BowWalk_11
+  - first:
+      213: 3434055476463014628
+    second: BowWalk_12
+  - first:
+      213: -6086489754553614303
+    second: BowWalk_13
+  - first:
+      213: 4580860310179674917
+    second: BowWalk_14
+  - first:
+      213: -4950637848780902957
+    second: BowWalk_15
+  - first:
+      213: -5856951362982892786
+    second: BowWalk_16
+  - first:
+      213: 7292051281098007356
+    second: BowWalk_17
+  - first:
+      213: -3602486188540811253
+    second: BowWalk_18
+  - first:
+      213: 5611064674158672560
+    second: BowWalk_19
+  - first:
+      213: -7297345185771922754
+    second: BowWalk_20
+  - first:
+      213: 8704818195337901016
+    second: BowWalk_21
+  - first:
+      213: 1633387026828922500
+    second: BowWalk_22
+  - first:
+      213: -232570506836886758
+    second: BowWalk_23
+  - first:
+      213: 2169561710544939622
+    second: BowWalk_24
+  - first:
+      213: 1827854136328282586
+    second: BowWalk_25
+  - first:
+      213: -3977196007182970588
+    second: BowWalk_26
+  - first:
+      213: -2822839732912310809
+    second: BowWalk_27
+  - first:
+      213: -9189765613246170017
+    second: BowWalk_28
+  - first:
+      213: 2343563066971273252
+    second: BowWalk_29
+  - first:
+      213: 7337209178356457975
+    second: BowWalk_30
+  - first:
+      213: 8757358664847361728
+    second: BowWalk_31
+  - first:
+      213: -2621296549111771769
+    second: BowWalk_32
+  - first:
+      213: -3711025759719480125
+    second: BowWalk_33
+  - first:
+      213: 5537392525534044931
+    second: BowWalk_34
+  - first:
+      213: 8067929964272832481
+    second: BowWalk_35
+  - first:
+      213: -2127713364321599848
+    second: BowWalk_36
+  - first:
+      213: 3835571514448439875
+    second: BowWalk_37
+  - first:
+      213: 4620070863818362185
+    second: BowWalk_38
+  - first:
+      213: -4523327444556599578
+    second: BowWalk_39
+  - first:
+      213: -3667858753172896936
+    second: BowWalk_40
+  - first:
+      213: -2927707012051089795
+    second: BowWalk_41
+  - first:
+      213: 1812220326243004836
+    second: BowWalk_42
+  - first:
+      213: -4500039639749313323
+    second: BowWalk_43
+  - first:
+      213: -764108734888126659
+    second: BowWalk_44
+  - first:
+      213: -7065135296636787198
+    second: BowWalk_45
+  - first:
+      213: -9081786634251531709
+    second: BowWalk_46
+  - first:
+      213: 757854197358571701
+    second: BowWalk_47
+  - first:
+      213: 6306763712870465705
+    second: BowWalk_48
+  - first:
+      213: 2881055344672192926
+    second: BowWalk_49
+  - first:
+      213: 1895418721681173919
+    second: BowWalk_50
+  - first:
+      213: 3105480070255234741
+    second: BowWalk_51
+  - first:
+      213: -2446842871184229698
+    second: BowWalk_52
+  - first:
+      213: -5170573710391915635
+    second: BowWalk_53
+  - first:
+      213: 247088194127600212
+    second: BowWalk_54
+  - first:
+      213: -7828351529976495004
+    second: BowWalk_55
+  - first:
+      213: 766752973851069970
+    second: BowWalk_56
+  - first:
+      213: 7550136805365112691
+    second: BowWalk_57
+  - first:
+      213: -2104808075093328285
+    second: BowWalk_58
+  - first:
+      213: 5069096515554634127
+    second: BowWalk_59
+  - first:
+      213: -4082755989586437310
+    second: BowWalk_60
+  - first:
+      213: -8786131685197536936
+    second: BowWalk_61
+  - first:
+      213: -7912085823219170066
+    second: BowWalk_62
+  - first:
+      213: -7076459703754230638
+    second: BowWalk_63
+  - first:
+      213: 3245362237528865142
+    second: BowWalk_64
+  - first:
+      213: 4789243799069528430
+    second: BowWalk_65
+  - first:
+      213: 8267850153974404377
+    second: BowWalk_66
+  - first:
+      213: -1717228259571384004
+    second: BowWalk_67
+  - first:
+      213: 2122597527587355965
+    second: BowWalk_68
+  - first:
+      213: 2915241776072428528
+    second: BowWalk_69
+  - first:
+      213: 3673146230014338411
+    second: BowWalk_70
+  - first:
+      213: 4347343524102902058
+    second: BowWalk_71
+  - first:
+      213: -7640478425103778180
+    second: BowWalk_72
+  - first:
+      213: -6641764256049291544
+    second: BowWalk_73
+  - first:
+      213: -1375018848686645781
+    second: BowWalk_74
+  - first:
+      213: 6022122489824637163
+    second: BowWalk_75
+  - first:
+      213: 5672963372550636417
+    second: BowWalk_76
+  - first:
+      213: -5716253436542897105
+    second: BowWalk_77
+  - first:
+      213: 940219751191836384
+    second: BowWalk_78
+  - first:
+      213: 2694988763449737711
+    second: BowWalk_79
+  - first:
+      213: 1341096745674850828
+    second: BowWalk_80
+  - first:
+      213: 1965479158529267219
+    second: BowWalk_81
+  - first:
+      213: 5242469652170142490
+    second: BowWalk_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowWalk_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3958
+        width: 113
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d26f5e0e48a3e5c0800000000000000
+      internalID: -4187318175322381614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3958
+        width: 113
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913eb233a84da0430800000000000000
+      internalID: 3750043329768448793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_2
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3958
+        width: 116
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eac32f0efd8beab0800000000000000
+      internalID: -4977728840812737822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3958
+        width: 116
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7cb8daa1f7767f0800000000000000
+      internalID: -619386671182657596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 3958
+        width: 118
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a61d2d7646c7010800000000000000
+      internalID: 1187934798800316930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_5
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3958
+        width: 118
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0d21bfc0dfeaf0800000000000000
+      internalID: -364843454344394045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_6
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 3958
+        width: 120
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c7566085337940800000000000000
+      internalID: 5292632812679578324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3598
+        width: 122
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1f337123b04670800000000000000
+      internalID: 8521007451233786825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 3598
+        width: 124
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c81ad452526ed50800000000000000
+      internalID: 6766136332317199377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3598
+        width: 125
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11599c79647074d20800000000000000
+      internalID: 3262584454828889361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_10
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3597
+        width: 125
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8b603c77a7c3a0800000000000000
+      internalID: -6645158573331739664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_11
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 3597
+        width: 125
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57ad178267fb85d0800000000000000
+      internalID: -3059079519322396834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_12
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3597
+        width: 127
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2109de24738af20800000000000000
+      internalID: 3434055476463014628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_13
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 3597
+        width: 127
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12007cad0d1788ba0800000000000000
+      internalID: -6086489754553614303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3237
+        width: 129
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bf1f18e2c729f30800000000000000
+      internalID: 4580860310179674917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_15
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3237
+        width: 130
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6fcb2b1dcb4bb0800000000000000
+      internalID: -4950637848780902957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3237
+        width: 130
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2aae44cde7bea0800000000000000
+      internalID: -5856951362982892786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3237
+        width: 132
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3367c55102923560800000000000000
+      internalID: 7292051281098007356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_18
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 3237
+        width: 132
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0826c7f5e5610ec0800000000000000
+      internalID: -3602486188540811253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_19
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 3237
+        width: 133
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba78faa7918edd40800000000000000
+      internalID: 5611064674158672560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_20
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 3237
+        width: 134
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba58ae673f9aba90800000000000000
+      internalID: -7297345185771922754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2877
+        width: 134
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3f87f470abdc870800000000000000
+      internalID: 8704818195337901016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2880
+        width: 134
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8edac8d4faa610800000000000000
+      internalID: 1633387026828922500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_23
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2880
+        width: 135
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b31c23b5eb5ccf0800000000000000
+      internalID: -232570506836886758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_24
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2880
+        width: 138
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ae15381e4db1e10800000000000000
+      internalID: 2169561710544939622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_25
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 2880
+        width: 142
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1631117a7dd5910800000000000000
+      internalID: 1827854136328282586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_26
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 2880
+        width: 143
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d1c5bd492ec8c0800000000000000
+      internalID: -3977196007182970588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_27
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 2880
+        width: 142
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e537ed083243d8d0800000000000000
+      internalID: -2822839732912310809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2521
+        width: 142
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cbc5d3dd4677080800000000000000
+      internalID: -9189765613246170017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2523
+        width: 140
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4283c835132068020800000000000000
+      internalID: 2343563066971273252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_30
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2523
+        width: 140
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f12cae9fd003d560800000000000000
+      internalID: 7337209178356457975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_31
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2524
+        width: 140
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c68ae4ae43688970800000000000000
+      internalID: 8757358664847361728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_32
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2523
+        width: 140
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4c334da84f9bd0800000000000000
+      internalID: -2621296549111771769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_33
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 2523
+        width: 142
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a89fbbb9cf7cc0800000000000000
+      internalID: -3711025759719480125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_34
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2521
+        width: 144
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3032c52e925c8dc40800000000000000
+      internalID: 5537392525534044931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2160
+        width: 144
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef46398e8b07ff60800000000000000
+      internalID: 8067929964272832481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_36
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2160
+        width: 147
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e72cfd7f7d872e0800000000000000
+      internalID: -2127713364321599848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_37
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 2160
+        width: 148
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a6e4d78ffaa3530800000000000000
+      internalID: 3835571514448439875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_38
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2162
+        width: 147
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d8603f8f9cd1040800000000000000
+      internalID: 4620070863818362185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_39
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2162
+        width: 142
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eead60a7a9e931c0800000000000000
+      internalID: -4523327444556599578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_40
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2162
+        width: 141
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85382daa5e5291dc0800000000000000
+      internalID: -3667858753172896936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_41
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2162
+        width: 135
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d764644fbf1be57d0800000000000000
+      internalID: -2927707012051089795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1803
+        width: 133
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f47009cc462910800000000000000
+      internalID: 1812220326243004836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1804
+        width: 130
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcb0953ac5ac81c0800000000000000
+      internalID: -4500039639749313323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_44
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1804
+        width: 129
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37583f67275565f0800000000000000
+      internalID: -764108734888126659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_45
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1803
+        width: 127
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e3e161e893fd90800000000000000
+      internalID: -7065135296636787198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_46
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1801
+        width: 129
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0c8b6c2307f180800000000000000
+      internalID: -9081786634251531709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_47
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1799
+        width: 129
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0b8119060748a00800000000000000
+      internalID: 757854197358571701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_48
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 1797
+        width: 131
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c7f3ae20268750800000000000000
+      internalID: 6306763712870465705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1438
+        width: 133
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e993d6d42909bf720800000000000000
+      internalID: 2881055344672192926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_50
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1438
+        width: 134
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6e66f841ed4a10800000000000000
+      internalID: 1895418721681173919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_51
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1440
+        width: 135
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be4e9c9ba1e81b20800000000000000
+      internalID: 3105480070255234741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_52
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1440
+        width: 136
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebafdd16f511b0ed0800000000000000
+      internalID: -2446842871184229698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_53
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 1440
+        width: 140
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bcd13fa9e6e38b0800000000000000
+      internalID: -5170573710391915635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_54
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1440
+        width: 143
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a1b274765dd6300800000000000000
+      internalID: 247088194127600212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_55
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 1440
+        width: 142
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4648dd682cb1c5390800000000000000
+      internalID: -7828351529976495004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1082
+        width: 142
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0edc64cd04aa00800000000000000
+      internalID: 766752973851069970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_57
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1082
+        width: 140
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fd3611c6977c860800000000000000
+      internalID: 7550136805365112691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_58
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1084
+        width: 140
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e30bb15383ac2e0800000000000000
+      internalID: -2104808075093328285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_59
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1084
+        width: 140
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89edc57c6c095640800000000000000
+      internalID: 5069096515554634127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_60
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1084
+        width: 140
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b1a101f032757c0800000000000000
+      internalID: -4082755989586437310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_61
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1082
+        width: 142
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8512ff188c3611680800000000000000
+      internalID: -8786131685197536936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_62
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 1080
+        width: 142
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee40e922ddf923290800000000000000
+      internalID: -7912085823219170066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 721
+        width: 144
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294fc52646d5bcd90800000000000000
+      internalID: -7076459703754230638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_64
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 721
+        width: 147
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ff57a2c7d90d20800000000000000
+      internalID: 3245362237528865142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_65
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 721
+        width: 148
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61184a5cdfc67240800000000000000
+      internalID: 4789243799069528430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_66
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 721
+        width: 146
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159dcbf8ed4db270800000000000000
+      internalID: 8267850153974404377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_67
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 719
+        width: 139
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314cf50ffd2b28e0800000000000000
+      internalID: -1717228259571384004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_68
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 719
+        width: 131
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d77f0943bf47d10800000000000000
+      internalID: 2122597527587355965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_69
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 716
+        width: 127
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0d2123f4057820800000000000000
+      internalID: 2915241776072428528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 358
+        width: 127
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65e118f803a9f230800000000000000
+      internalID: 3673146230014338411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_71
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 358
+        width: 124
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a219fb6e6edd45c30800000000000000
+      internalID: 4347343524102902058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_72
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 358
+        width: 123
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e37a57a5197f590800000000000000
+      internalID: -7640478425103778180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_73
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 358
+        width: 121
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9b444996b3d3a0800000000000000
+      internalID: -6641764256049291544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_74
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 358
+        width: 118
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd09c64a3faece0800000000000000
+      internalID: -1375018848686645781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_75
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 358
+        width: 118
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be073e77f70e29350800000000000000
+      internalID: 6022122489824637163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_76
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 358
+        width: 116
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183cea4712a6abe40800000000000000
+      internalID: 5672963372550636417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 116
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2431c419c9cba0b0800000000000000
+      internalID: -5716253436542897105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_78
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 113
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67898d1e45c0d00800000000000000
+      internalID: 940219751191836384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_79
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 0
+        width: 116
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1471f6006866520800000000000000
+      internalID: 2694988763449737711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_80
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 114
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c16f72688c9210800000000000000
+      internalID: 1341096745674850828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_81
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 112
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316129191e8c64b10800000000000000
+      internalID: 1965479158529267219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowWalk_82
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 0
+        width: 114
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13fd537f5ef0c840800000000000000
+      internalID: 5242469652170142490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 532ae80c9750e7043a2f0bcabbee5946
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BowWalk_0: -4187318175322381614
+      BowWalk_1: 3750043329768448793
+      BowWalk_10: -6645158573331739664
+      BowWalk_11: -3059079519322396834
+      BowWalk_12: 3434055476463014628
+      BowWalk_13: -6086489754553614303
+      BowWalk_14: 4580860310179674917
+      BowWalk_15: -4950637848780902957
+      BowWalk_16: -5856951362982892786
+      BowWalk_17: 7292051281098007356
+      BowWalk_18: -3602486188540811253
+      BowWalk_19: 5611064674158672560
+      BowWalk_2: -4977728840812737822
+      BowWalk_20: -7297345185771922754
+      BowWalk_21: 8704818195337901016
+      BowWalk_22: 1633387026828922500
+      BowWalk_23: -232570506836886758
+      BowWalk_24: 2169561710544939622
+      BowWalk_25: 1827854136328282586
+      BowWalk_26: -3977196007182970588
+      BowWalk_27: -2822839732912310809
+      BowWalk_28: -9189765613246170017
+      BowWalk_29: 2343563066971273252
+      BowWalk_3: -619386671182657596
+      BowWalk_30: 7337209178356457975
+      BowWalk_31: 8757358664847361728
+      BowWalk_32: -2621296549111771769
+      BowWalk_33: -3711025759719480125
+      BowWalk_34: 5537392525534044931
+      BowWalk_35: 8067929964272832481
+      BowWalk_36: -2127713364321599848
+      BowWalk_37: 3835571514448439875
+      BowWalk_38: 4620070863818362185
+      BowWalk_39: -4523327444556599578
+      BowWalk_4: 1187934798800316930
+      BowWalk_40: -3667858753172896936
+      BowWalk_41: -2927707012051089795
+      BowWalk_42: 1812220326243004836
+      BowWalk_43: -4500039639749313323
+      BowWalk_44: -764108734888126659
+      BowWalk_45: -7065135296636787198
+      BowWalk_46: -9081786634251531709
+      BowWalk_47: 757854197358571701
+      BowWalk_48: 6306763712870465705
+      BowWalk_49: 2881055344672192926
+      BowWalk_5: -364843454344394045
+      BowWalk_50: 1895418721681173919
+      BowWalk_51: 3105480070255234741
+      BowWalk_52: -2446842871184229698
+      BowWalk_53: -5170573710391915635
+      BowWalk_54: 247088194127600212
+      BowWalk_55: -7828351529976495004
+      BowWalk_56: 766752973851069970
+      BowWalk_57: 7550136805365112691
+      BowWalk_58: -2104808075093328285
+      BowWalk_59: 5069096515554634127
+      BowWalk_6: 5292632812679578324
+      BowWalk_60: -4082755989586437310
+      BowWalk_61: -8786131685197536936
+      BowWalk_62: -7912085823219170066
+      BowWalk_63: -7076459703754230638
+      BowWalk_64: 3245362237528865142
+      BowWalk_65: 4789243799069528430
+      BowWalk_66: 8267850153974404377
+      BowWalk_67: -1717228259571384004
+      BowWalk_68: 2122597527587355965
+      BowWalk_69: 2915241776072428528
+      BowWalk_7: 8521007451233786825
+      BowWalk_70: 3673146230014338411
+      BowWalk_71: 4347343524102902058
+      BowWalk_72: -7640478425103778180
+      BowWalk_73: -6641764256049291544
+      BowWalk_74: -1375018848686645781
+      BowWalk_75: 6022122489824637163
+      BowWalk_76: 5672963372550636417
+      BowWalk_77: -5716253436542897105
+      BowWalk_78: 940219751191836384
+      BowWalk_79: 2694988763449737711
+      BowWalk_8: 6766136332317199377
+      BowWalk_80: 1341096745674850828
+      BowWalk_81: 1965479158529267219
+      BowWalk_82: 5242469652170142490
+      BowWalk_9: 3262584454828889361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

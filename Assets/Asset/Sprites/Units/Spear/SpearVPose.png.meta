@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 1ef97b1c91027e5408b010115d22cb3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5591844143236616396
+    second: SpearVPose_0
+  - first:
+      213: -5320394600436073862
+    second: SpearVPose_1
+  - first:
+      213: 3106505704767370397
+    second: SpearVPose_2
+  - first:
+      213: 565679143243086121
+    second: SpearVPose_3
+  - first:
+      213: 507736706417323099
+    second: SpearVPose_4
+  - first:
+      213: 2041567241443928105
+    second: SpearVPose_5
+  - first:
+      213: -7618368266141310423
+    second: SpearVPose_6
+  - first:
+      213: -6952485095286069850
+    second: SpearVPose_7
+  - first:
+      213: 5134960407357040318
+    second: SpearVPose_8
+  - first:
+      213: -4387433558786891617
+    second: SpearVPose_9
+  - first:
+      213: -238609163338412928
+    second: SpearVPose_10
+  - first:
+      213: 7512674810413430683
+    second: SpearVPose_11
+  - first:
+      213: -1097304897924682970
+    second: SpearVPose_12
+  - first:
+      213: 6491635301549532707
+    second: SpearVPose_13
+  - first:
+      213: 2482865648723503796
+    second: SpearVPose_14
+  - first:
+      213: 5462867084996543618
+    second: SpearVPose_15
+  - first:
+      213: 32584014605630243
+    second: SpearVPose_16
+  - first:
+      213: 3819921604744245051
+    second: SpearVPose_17
+  - first:
+      213: 3755600480983522116
+    second: SpearVPose_18
+  - first:
+      213: 6750392708085400924
+    second: SpearVPose_19
+  - first:
+      213: 8615092408050737311
+    second: SpearVPose_20
+  - first:
+      213: -4306362663172134454
+    second: SpearVPose_21
+  - first:
+      213: 5419344483065750242
+    second: SpearVPose_22
+  - first:
+      213: 6841318935794623236
+    second: SpearVPose_23
+  - first:
+      213: -4913651418180126162
+    second: SpearVPose_24
+  - first:
+      213: -8335381032141642322
+    second: SpearVPose_25
+  - first:
+      213: 2070215438096167392
+    second: SpearVPose_26
+  - first:
+      213: 2437112110438491470
+    second: SpearVPose_27
+  - first:
+      213: 1001602511008351454
+    second: SpearVPose_28
+  - first:
+      213: 714304757164360910
+    second: SpearVPose_29
+  - first:
+      213: 3853657669492480808
+    second: SpearVPose_30
+  - first:
+      213: 3391420191442897844
+    second: SpearVPose_31
+  - first:
+      213: 8292675892676213181
+    second: SpearVPose_32
+  - first:
+      213: -2911259051584623298
+    second: SpearVPose_33
+  - first:
+      213: -1933317625421494220
+    second: SpearVPose_34
+  - first:
+      213: -6017130741630092832
+    second: SpearVPose_35
+  - first:
+      213: -7310095778515661780
+    second: SpearVPose_36
+  - first:
+      213: -425605311022216018
+    second: SpearVPose_37
+  - first:
+      213: 312080295958357345
+    second: SpearVPose_38
+  - first:
+      213: -5491891995166456754
+    second: SpearVPose_39
+  - first:
+      213: -4367817944131167354
+    second: SpearVPose_40
+  - first:
+      213: -898039224209920803
+    second: SpearVPose_41
+  - first:
+      213: -2627931100831306119
+    second: SpearVPose_42
+  - first:
+      213: -3154726287981439367
+    second: SpearVPose_43
+  - first:
+      213: -2515880685051592108
+    second: SpearVPose_44
+  - first:
+      213: 8512445182529476198
+    second: SpearVPose_45
+  - first:
+      213: -6029322612474347331
+    second: SpearVPose_46
+  - first:
+      213: 1836269808433936183
+    second: SpearVPose_47
+  - first:
+      213: 362121095776452020
+    second: SpearVPose_48
+  - first:
+      213: -7075866496989630444
+    second: SpearVPose_49
+  - first:
+      213: -7942434430772896740
+    second: SpearVPose_50
+  - first:
+      213: 1992006382114736424
+    second: SpearVPose_51
+  - first:
+      213: 8181091127942193835
+    second: SpearVPose_52
+  - first:
+      213: 3708701842819127778
+    second: SpearVPose_53
+  - first:
+      213: 5666305444097282302
+    second: SpearVPose_54
+  - first:
+      213: 830123345715775526
+    second: SpearVPose_55
+  - first:
+      213: -342162422079809095
+    second: SpearVPose_56
+  - first:
+      213: -4498031783918011053
+    second: SpearVPose_57
+  - first:
+      213: -1628349495518072465
+    second: SpearVPose_58
+  - first:
+      213: -4202376215677785994
+    second: SpearVPose_59
+  - first:
+      213: -1159471056438554134
+    second: SpearVPose_60
+  - first:
+      213: -3291437024216276354
+    second: SpearVPose_61
+  - first:
+      213: -240609619819412060
+    second: SpearVPose_62
+  - first:
+      213: -8225275002839523848
+    second: SpearVPose_63
+  - first:
+      213: -6156575168612860894
+    second: SpearVPose_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpearVPose_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2883
+        width: 105
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc097f41f983a9d40800000000000000
+      internalID: 5591844143236616396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2883
+        width: 108
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af910bc492a26b0800000000000000
+      internalID: -5320394600436073862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_2
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2883
+        width: 107
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d943261ca768c1b20800000000000000
+      internalID: 3106505704767370397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_3
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2884
+        width: 109
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929f9d50f22b9d700800000000000000
+      internalID: 565679143243086121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_4
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2884
+        width: 110
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c6e6928d7db0700800000000000000
+      internalID: 507736706417323099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2524
+        width: 112
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e653e69a155c10800000000000000
+      internalID: 2041567241443928105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2524
+        width: 118
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e9800d6e164690800000000000000
+      internalID: -7618368266141310423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_8
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2525
+        width: 116
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb62638c84b034740800000000000000
+      internalID: 5134960407357040318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_10
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2524
+        width: 117
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c8f0bea3a40bcf0800000000000000
+      internalID: -238609163338412928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_12
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2526
+        width: 121
+        height: 303
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b27e4520795c0f0800000000000000
+      internalID: -1097304897924682970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2167
+        width: 130
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba2f291729e47220800000000000000
+      internalID: 2482865648723503796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2165
+        width: 135
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bbce71df2c37000800000000000000
+      internalID: 32584014605630243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_18
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2165
+        width: 143
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b1f4b4db29e1430800000000000000
+      internalID: 3755600480983522116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_19
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2165
+        width: 157
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5541d327663ead50800000000000000
+      internalID: 6750392708085400924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_20
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2165
+        width: 178
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90670186e4fe8770800000000000000
+      internalID: 8615092408050737311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1805
+        width: 201
+        height: 344
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17044f8f1eabc10800000000000000
+      internalID: 2070215438096167392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1805
+        width: 218
+        height: 344
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452d745d8c52d120800000000000000
+      internalID: 2437112110438491470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_28
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1805
+        width: 239
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4cac25d2866ed00800000000000000
+      internalID: 1001602511008351454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_29
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1805
+        width: 258
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec447206468b9e900800000000000000
+      internalID: 714304757164360910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_30
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1805
+        width: 271
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b1f0c9b31fa7530800000000000000
+      internalID: 3853657669492480808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1445
+        width: 274
+        height: 266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ccd77be925d8a90800000000000000
+      internalID: -7310095778515661780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_37
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1445
+        width: 286
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac400e7932f71af0800000000000000
+      internalID: -425605311022216018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_38
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1445
+        width: 277
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652ffd206bb45400800000000000000
+      internalID: 312080295958357345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_39
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1445
+        width: 263
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44ca43e351e8c3b0800000000000000
+      internalID: -5491891995166456754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_40
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1445
+        width: 240
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b1c74b8b46263c0800000000000000
+      internalID: -4367817944131167354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1085
+        width: 214
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddca99665168983f0800000000000000
+      internalID: -898039224209920803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_43
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1085
+        width: 179
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769741d7292834d0800000000000000
+      internalID: -3154726287981439367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_45
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1085
+        width: 144
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66697aaeac7422670800000000000000
+      internalID: 8512445182529476198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_46
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1085
+        width: 121
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08c37570b835ca0800000000000000
+      internalID: -6029322612474347331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_47
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1085
+        width: 112
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ba7b69adbb7910800000000000000
+      internalID: 1836269808433936183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 725
+        width: 110
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3e6fc733860500800000000000000
+      internalID: 362121095776452020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_49
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 725
+        width: 110
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41078d819e87dcd90800000000000000
+      internalID: -7075866496989630444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_50
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 725
+        width: 109
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c13fd47fdc6c190800000000000000
+      internalID: -7942434430772896740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_51
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 725
+        width: 108
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829824c104705ab10800000000000000
+      internalID: 1992006382114736424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_52
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 722
+        width: 106
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2281c1903198170800000000000000
+      internalID: 8181091127942193835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 361
+        width: 104
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9121f2da4f77330800000000000000
+      internalID: 3708701842819127778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_54
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 360
+        width: 104
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d740b7c2c2ae40800000000000000
+      internalID: 5666305444097282302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_55
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 360
+        width: 104
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628c525e8c0358b00800000000000000
+      internalID: 830123345715775526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_56
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 360
+        width: 104
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b912780715604bf0800000000000000
+      internalID: -342162422079809095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_57
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 360
+        width: 104
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d76239ce7c391c0800000000000000
+      internalID: -4498031783918011053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 102
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61757dd2c0f669e0800000000000000
+      internalID: -1628349495518072465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_59
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1
+        width: 104
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a9f3d8192ea5c0800000000000000
+      internalID: -4202376215677785994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_60
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1
+        width: 104
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae112a1a73bb8efe0800000000000000
+      internalID: -1159471056438554134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearVPose_61
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1
+        width: 105
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72250b17777252d0800000000000000
+      internalID: -3291437024216276354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 936e90d092cc88648b0c713aaba7ea50
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SpearVPose_0: 5591844143236616396
+      SpearVPose_1: -5320394600436073862
+      SpearVPose_10: -238609163338412928
+      SpearVPose_11: 7512674810413430683
+      SpearVPose_12: -1097304897924682970
+      SpearVPose_13: 6491635301549532707
+      SpearVPose_14: 2482865648723503796
+      SpearVPose_15: 5462867084996543618
+      SpearVPose_16: 32584014605630243
+      SpearVPose_17: 3819921604744245051
+      SpearVPose_18: 3755600480983522116
+      SpearVPose_19: 6750392708085400924
+      SpearVPose_2: 3106505704767370397
+      SpearVPose_20: 8615092408050737311
+      SpearVPose_21: -4306362663172134454
+      SpearVPose_22: 5419344483065750242
+      SpearVPose_23: 6841318935794623236
+      SpearVPose_24: -4913651418180126162
+      SpearVPose_25: -8335381032141642322
+      SpearVPose_26: 2070215438096167392
+      SpearVPose_27: 2437112110438491470
+      SpearVPose_28: 1001602511008351454
+      SpearVPose_29: 714304757164360910
+      SpearVPose_3: 565679143243086121
+      SpearVPose_30: 3853657669492480808
+      SpearVPose_31: 3391420191442897844
+      SpearVPose_32: 8292675892676213181
+      SpearVPose_33: -2911259051584623298
+      SpearVPose_34: -1933317625421494220
+      SpearVPose_35: -6017130741630092832
+      SpearVPose_36: -7310095778515661780
+      SpearVPose_37: -425605311022216018
+      SpearVPose_38: 312080295958357345
+      SpearVPose_39: -5491891995166456754
+      SpearVPose_4: 507736706417323099
+      SpearVPose_40: -4367817944131167354
+      SpearVPose_41: -898039224209920803
+      SpearVPose_42: -2627931100831306119
+      SpearVPose_43: -3154726287981439367
+      SpearVPose_44: -2515880685051592108
+      SpearVPose_45: 8512445182529476198
+      SpearVPose_46: -6029322612474347331
+      SpearVPose_47: 1836269808433936183
+      SpearVPose_48: 362121095776452020
+      SpearVPose_49: -7075866496989630444
+      SpearVPose_5: 2041567241443928105
+      SpearVPose_50: -7942434430772896740
+      SpearVPose_51: 1992006382114736424
+      SpearVPose_52: 8181091127942193835
+      SpearVPose_53: 3708701842819127778
+      SpearVPose_54: 5666305444097282302
+      SpearVPose_55: 830123345715775526
+      SpearVPose_56: -342162422079809095
+      SpearVPose_57: -4498031783918011053
+      SpearVPose_58: -1628349495518072465
+      SpearVPose_59: -4202376215677785994
+      SpearVPose_6: -7618368266141310423
+      SpearVPose_60: -1159471056438554134
+      SpearVPose_61: -3291437024216276354
+      SpearVPose_7: -6952485095286069850
+      SpearVPose_8: 5134960407357040318
+      SpearVPose_9: -4387433558786891617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

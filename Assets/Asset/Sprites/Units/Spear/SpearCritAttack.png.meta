@@ -1,0 +1,3303 @@
+fileFormatVersion: 2
+guid: 9a70078d223c8f34589a6986e7fe43aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5006291004907585092
+    second: SpearCritAttack_0
+  - first:
+      213: 4018255702499031320
+    second: SpearCritAttack_1
+  - first:
+      213: -805431048363545693
+    second: SpearCritAttack_2
+  - first:
+      213: 2219915396957007917
+    second: SpearCritAttack_3
+  - first:
+      213: -44390192647531744
+    second: SpearCritAttack_4
+  - first:
+      213: -6919461889209261693
+    second: SpearCritAttack_5
+  - first:
+      213: -9204115790712943163
+    second: SpearCritAttack_6
+  - first:
+      213: 4792341647661482037
+    second: SpearCritAttack_7
+  - first:
+      213: -6218860832498944351
+    second: SpearCritAttack_8
+  - first:
+      213: -2121075910829872926
+    second: SpearCritAttack_9
+  - first:
+      213: -4137086421203091803
+    second: SpearCritAttack_10
+  - first:
+      213: 4699006400282826993
+    second: SpearCritAttack_11
+  - first:
+      213: 2232036902824518517
+    second: SpearCritAttack_12
+  - first:
+      213: -2445744172900360439
+    second: SpearCritAttack_13
+  - first:
+      213: -4993371834909289255
+    second: SpearCritAttack_14
+  - first:
+      213: -36711686709260793
+    second: SpearCritAttack_15
+  - first:
+      213: -3382271655525484276
+    second: SpearCritAttack_16
+  - first:
+      213: 9008817722076802473
+    second: SpearCritAttack_17
+  - first:
+      213: -3604215490438918234
+    second: SpearCritAttack_18
+  - first:
+      213: 8894937546306975549
+    second: SpearCritAttack_19
+  - first:
+      213: 4271660590543309426
+    second: SpearCritAttack_20
+  - first:
+      213: 8229969699875159141
+    second: SpearCritAttack_21
+  - first:
+      213: 2508449143849193506
+    second: SpearCritAttack_22
+  - first:
+      213: -7976920828733496988
+    second: SpearCritAttack_23
+  - first:
+      213: -3367275044727758500
+    second: SpearCritAttack_24
+  - first:
+      213: -6634266979879403885
+    second: SpearCritAttack_25
+  - first:
+      213: -6404814134044081242
+    second: SpearCritAttack_26
+  - first:
+      213: 1523628817988435871
+    second: SpearCritAttack_27
+  - first:
+      213: 7545168858676039738
+    second: SpearCritAttack_28
+  - first:
+      213: 841672256137650093
+    second: SpearCritAttack_29
+  - first:
+      213: 3781410100099863783
+    second: SpearCritAttack_30
+  - first:
+      213: 1249031394212374472
+    second: SpearCritAttack_31
+  - first:
+      213: -7677507226892878085
+    second: SpearCritAttack_32
+  - first:
+      213: 6876590722472103695
+    second: SpearCritAttack_33
+  - first:
+      213: 6237360835337897687
+    second: SpearCritAttack_34
+  - first:
+      213: -1664616324674320559
+    second: SpearCritAttack_35
+  - first:
+      213: 583960572172833656
+    second: SpearCritAttack_36
+  - first:
+      213: 5844545073668556496
+    second: SpearCritAttack_37
+  - first:
+      213: 2761833795048513695
+    second: SpearCritAttack_38
+  - first:
+      213: -189504846369441669
+    second: SpearCritAttack_39
+  - first:
+      213: 1740888684291262794
+    second: SpearCritAttack_40
+  - first:
+      213: 1904391288401473906
+    second: SpearCritAttack_41
+  - first:
+      213: -8044049628476561359
+    second: SpearCritAttack_42
+  - first:
+      213: -3324082287232660518
+    second: SpearCritAttack_43
+  - first:
+      213: 1126624326956266943
+    second: SpearCritAttack_44
+  - first:
+      213: -1049270702442756842
+    second: SpearCritAttack_45
+  - first:
+      213: 2343415382918505635
+    second: SpearCritAttack_46
+  - first:
+      213: 6734486038121857865
+    second: SpearCritAttack_47
+  - first:
+      213: 1451406302228456784
+    second: SpearCritAttack_48
+  - first:
+      213: 6836886201944129278
+    second: SpearCritAttack_49
+  - first:
+      213: -4673677769081504258
+    second: SpearCritAttack_50
+  - first:
+      213: 2989953693921407166
+    second: SpearCritAttack_51
+  - first:
+      213: -2050883876603006552
+    second: SpearCritAttack_52
+  - first:
+      213: -495593667837437612
+    second: SpearCritAttack_53
+  - first:
+      213: -9053518622642999380
+    second: SpearCritAttack_54
+  - first:
+      213: 8175831409643249669
+    second: SpearCritAttack_55
+  - first:
+      213: -1836068477933470410
+    second: SpearCritAttack_56
+  - first:
+      213: -4719112935106469530
+    second: SpearCritAttack_57
+  - first:
+      213: 4977533909029283074
+    second: SpearCritAttack_58
+  - first:
+      213: 885724269758670613
+    second: SpearCritAttack_59
+  - first:
+      213: -943693845306870471
+    second: SpearCritAttack_60
+  - first:
+      213: -6964003723860426445
+    second: SpearCritAttack_61
+  - first:
+      213: 3539241453784503192
+    second: SpearCritAttack_62
+  - first:
+      213: 619676588685376772
+    second: SpearCritAttack_63
+  - first:
+      213: -1436400893520345471
+    second: SpearCritAttack_64
+  - first:
+      213: 8031656793818048043
+    second: SpearCritAttack_65
+  - first:
+      213: -3671178672737579517
+    second: SpearCritAttack_66
+  - first:
+      213: -6681441359661292742
+    second: SpearCritAttack_67
+  - first:
+      213: 3349998039785131967
+    second: SpearCritAttack_68
+  - first:
+      213: 7165210819112124337
+    second: SpearCritAttack_69
+  - first:
+      213: -8672486752926615607
+    second: SpearCritAttack_70
+  - first:
+      213: -8069962977173537480
+    second: SpearCritAttack_71
+  - first:
+      213: 8174362819707774815
+    second: SpearCritAttack_72
+  - first:
+      213: -6959073407984146379
+    second: SpearCritAttack_73
+  - first:
+      213: -7657685766927725172
+    second: SpearCritAttack_74
+  - first:
+      213: 4109833877458144522
+    second: SpearCritAttack_75
+  - first:
+      213: -5907988263761051597
+    second: SpearCritAttack_76
+  - first:
+      213: 5724877198793545471
+    second: SpearCritAttack_77
+  - first:
+      213: 8212703528171434168
+    second: SpearCritAttack_78
+  - first:
+      213: -9185957288538478236
+    second: SpearCritAttack_79
+  - first:
+      213: -9070858795656145342
+    second: SpearCritAttack_80
+  - first:
+      213: -1990810676469630057
+    second: SpearCritAttack_81
+  - first:
+      213: -6937774993398852714
+    second: SpearCritAttack_82
+  - first:
+      213: -2059609089261107776
+    second: SpearCritAttack_83
+  - first:
+      213: 8873910088025768478
+    second: SpearCritAttack_84
+  - first:
+      213: -2523502621909153367
+    second: SpearCritAttack_85
+  - first:
+      213: -5337332252573172733
+    second: SpearCritAttack_86
+  - first:
+      213: 5481579661827680864
+    second: SpearCritAttack_87
+  - first:
+      213: 2296369255825872109
+    second: SpearCritAttack_88
+  - first:
+      213: 3455471551207547049
+    second: SpearCritAttack_89
+  - first:
+      213: -2935816654447504802
+    second: SpearCritAttack_90
+  - first:
+      213: -4533524709519846477
+    second: SpearCritAttack_91
+  - first:
+      213: 5518086343397591315
+    second: SpearCritAttack_92
+  - first:
+      213: 1823350739052810287
+    second: SpearCritAttack_93
+  - first:
+      213: -1809786587754510300
+    second: SpearCritAttack_94
+  - first:
+      213: 4288516315304571676
+    second: SpearCritAttack_95
+  - first:
+      213: -4927776516225760112
+    second: SpearCritAttack_96
+  - first:
+      213: -94904367010183806
+    second: SpearCritAttack_97
+  - first:
+      213: 4589437720679172093
+    second: SpearCritAttack_98
+  - first:
+      213: 2949589200342477158
+    second: SpearCritAttack_99
+  - first:
+      213: -4744721495412834045
+    second: SpearCritAttack_100
+  - first:
+      213: -212110908975690535
+    second: SpearCritAttack_101
+  - first:
+      213: -8184262006208304533
+    second: SpearCritAttack_102
+  - first:
+      213: -4523725224917979038
+    second: SpearCritAttack_103
+  - first:
+      213: 8431625559196495848
+    second: SpearCritAttack_104
+  - first:
+      213: 8077508148397795624
+    second: SpearCritAttack_105
+  - first:
+      213: -26538420112186329
+    second: SpearCritAttack_106
+  - first:
+      213: -3672316914496400509
+    second: SpearCritAttack_107
+  - first:
+      213: 8768164604014588235
+    second: SpearCritAttack_108
+  - first:
+      213: 906364003854393018
+    second: SpearCritAttack_109
+  - first:
+      213: 3824083739964820656
+    second: SpearCritAttack_110
+  - first:
+      213: 8015200521887230243
+    second: SpearCritAttack_111
+  - first:
+      213: 1272284738126212395
+    second: SpearCritAttack_112
+  - first:
+      213: 2490316135815040275
+    second: SpearCritAttack_113
+  - first:
+      213: -299603176051867477
+    second: SpearCritAttack_114
+  - first:
+      213: 3254616121494055006
+    second: SpearCritAttack_115
+  - first:
+      213: 4595334428797895542
+    second: SpearCritAttack_116
+  - first:
+      213: -2398728938110490102
+    second: SpearCritAttack_117
+  - first:
+      213: 3584156261372435636
+    second: SpearCritAttack_118
+  - first:
+      213: -2596909546588388267
+    second: SpearCritAttack_119
+  - first:
+      213: 7201864558919758090
+    second: SpearCritAttack_120
+  - first:
+      213: -7552957150654431183
+    second: SpearCritAttack_121
+  - first:
+      213: -3906345507221597696
+    second: SpearCritAttack_122
+  - first:
+      213: -4925159289582583981
+    second: SpearCritAttack_123
+  - first:
+      213: 3434799074730632224
+    second: SpearCritAttack_124
+  - first:
+      213: -1513380263640805997
+    second: SpearCritAttack_125
+  - first:
+      213: 4666334447359026249
+    second: SpearCritAttack_126
+  - first:
+      213: 8844803093642138706
+    second: SpearCritAttack_127
+  - first:
+      213: -3012109010429583513
+    second: SpearCritAttack_128
+  - first:
+      213: -1196544444206077418
+    second: SpearCritAttack_129
+  - first:
+      213: 3047007402680854762
+    second: SpearCritAttack_130
+  - first:
+      213: 942864577538140863
+    second: SpearCritAttack_131
+  - first:
+      213: 3696613910094466419
+    second: SpearCritAttack_132
+  - first:
+      213: 7557774043054232409
+    second: SpearCritAttack_133
+  - first:
+      213: -1463080343456901678
+    second: SpearCritAttack_134
+  - first:
+      213: 8426191364525860201
+    second: SpearCritAttack_135
+  - first:
+      213: 1155577238644644458
+    second: SpearCritAttack_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpearCritAttack_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5043
+        width: 110
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44effbdf42be97540800000000000000
+      internalID: 5006291004907585092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5043
+        width: 105
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81974249546b3c730800000000000000
+      internalID: 4018255702499031320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 5043
+        width: 105
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab68379ab882d4f0800000000000000
+      internalID: -805431048363545693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 5043
+        width: 102
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20fa0bba49bece10800000000000000
+      internalID: 2219915396957007917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 5043
+        width: 104
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0239bbfda5b426ff0800000000000000
+      internalID: -44390192647531744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 5043
+        width: 105
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38124d8921229ff90800000000000000
+      internalID: -6919461889209261693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 5043
+        width: 105
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdcdfe2479644080800000000000000
+      internalID: -9204115790712943163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_7
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 5043
+        width: 106
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5304c2f6651d18240800000000000000
+      internalID: 4792341647661482037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4682
+        width: 108
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67f43950b22b9a0800000000000000
+      internalID: -6218860832498944351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 4684
+        width: 114
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8e85172bc6092e0800000000000000
+      internalID: -2121075910829872926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 4684
+        width: 114
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aef813b1dd1696c0800000000000000
+      internalID: -4137086421203091803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 4684
+        width: 121
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81526bc69363140800000000000000
+      internalID: 4699006400282826993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 4684
+        width: 126
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732b6ebcb9c9fe10800000000000000
+      internalID: 2232036902824518517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 4684
+        width: 138
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fdac202a8fe0ed0800000000000000
+      internalID: -2445744172900360439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_14
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 4684
+        width: 153
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49acca5caf3bab0800000000000000
+      internalID: -4993371834909289255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_15
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 4682
+        width: 163
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec69a5ae29d7ff0800000000000000
+      internalID: -36711686709260793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4323
+        width: 176
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f78e69d1cf01d0800000000000000
+      internalID: -3382271655525484276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 4323
+        width: 188
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ada1aaccffb50d70800000000000000
+      internalID: 9008817722076802473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 4323
+        width: 198
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af8d6e7b114bfdc0800000000000000
+      internalID: -3604215490438918234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_19
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 4323
+        width: 203
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3779ea229a217b70800000000000000
+      internalID: 8894937546306975549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 4323
+        width: 208
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a8e54ccacf74b30800000000000000
+      internalID: 4271660590543309426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_21
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 4323
+        width: 213
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c794976d9b63270800000000000000
+      internalID: 8229969699875159141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_22
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 4323
+        width: 216
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220934cb43dcfc220800000000000000
+      internalID: 2508449143849193506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 4323
+        width: 221
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461ece115c84c4190800000000000000
+      internalID: -7976920828733496988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3962
+        width: 221
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e6f9ff290541d0800000000000000
+      internalID: -3367275044727758500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3962
+        width: 224
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3f27e4595ee3a0800000000000000
+      internalID: -6634266979879403885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 3962
+        width: 224
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3c6efaa778d17a0800000000000000
+      internalID: -6404814134044081242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_27
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 3962
+        width: 222
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fbfb16654052510800000000000000
+      internalID: 1523628817988435871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_28
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3962
+        width: 211
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3099b7d913d5b860800000000000000
+      internalID: 7545168858676039738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_29
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 3962
+        width: 197
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd26425783eab00800000000000000
+      internalID: 841672256137650093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_30
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 3962
+        width: 182
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d68683744a7430800000000000000
+      internalID: 3781410100099863783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_31
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 3962
+        width: 161
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7e6557f63755110800000000000000
+      internalID: 1249031394212374472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3603
+        width: 136
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe3e84bad3047590800000000000000
+      internalID: -7677507226892878085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3603
+        width: 116
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f42be04de8e6f50800000000000000
+      internalID: 6876590722472103695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_34
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 3603
+        width: 97
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6cf3ef1ae8f8650800000000000000
+      internalID: 6237360835337897687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_35
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 3603
+        width: 97
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1578870b54816e8e0800000000000000
+      internalID: -1664616324674320559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_36
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 3603
+        width: 111
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8731233eb05aa1800800000000000000
+      internalID: 583960572172833656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3603
+        width: 137
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d606cd57cefb1150800000000000000
+      internalID: 5844545073668556496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_38
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 3603
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90298a2431045620800000000000000
+      internalID: 2761833795048513695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_39
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 3603
+        width: 184
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b783fe4a85ebe5df0800000000000000
+      internalID: -189504846369441669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3242
+        width: 203
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498da4e801e82810800000000000000
+      internalID: 1740888684291262794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_41
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3244
+        width: 219
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271b48279c1cd6a10800000000000000
+      internalID: 1904391288401473906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_42
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3245
+        width: 224
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138aa0b6b7bcd5090800000000000000
+      internalID: -8044049628476561359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_43
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3245
+        width: 213
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb445185cc7ed1d0800000000000000
+      internalID: -3324082287232660518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_44
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 3247
+        width: 210
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ba833bd292af00800000000000000
+      internalID: 1126624326956266943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_45
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 3247
+        width: 208
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615ccabfadd3071f0800000000000000
+      internalID: -1049270702442756842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_46
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 3247
+        width: 205
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a42b04ffdb758020800000000000000
+      internalID: 2343415382918505635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_47
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 3247
+        width: 203
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c41fee53b57d50800000000000000
+      internalID: 6734486038121857865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2886
+        width: 197
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055271d875e642410800000000000000
+      internalID: 1451406302228456784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_49
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2886
+        width: 190
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe36acf6cf71ee50800000000000000
+      internalID: 6836886201944129278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_50
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2886
+        width: 179
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb14bc4d2c32fb0800000000000000
+      internalID: -4673677769081504258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_51
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2886
+        width: 171
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07d0d0b037e7920800000000000000
+      internalID: 2989953693921407166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_52
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 2886
+        width: 160
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a17083fafbc983e0800000000000000
+      internalID: -2050883876603006552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_53
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 2886
+        width: 150
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459dd935f2c4f19f0800000000000000
+      internalID: -495593667837437612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_54
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 2886
+        width: 143
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafeaf1c7c07b5280800000000000000
+      internalID: -9053518622642999380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_55
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 2886
+        width: 166
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50064438953667170800000000000000
+      internalID: 8175831409643249669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2525
+        width: 205
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dbb7d7279f486e0800000000000000
+      internalID: -1836068477933470410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_57
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2525
+        width: 216
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612708d9c7528eb0800000000000000
+      internalID: -4719112935106469530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_58
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2525
+        width: 216
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e629d7b0c31540800000000000000
+      internalID: 4977533909029283074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_59
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2525
+        width: 219
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51768e3d789ba4c00800000000000000
+      internalID: 885724269758670613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_60
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2525
+        width: 218
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f2c5927357e2f0800000000000000
+      internalID: -943693845306870471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_61
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 2525
+        width: 216
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3314dc09283ea5f90800000000000000
+      internalID: -6964003723860426445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_62
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 2525
+        width: 213
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893992bb959ed1130800000000000000
+      internalID: 3539241453784503192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_63
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 2525
+        width: 216
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db7300398899800800000000000000
+      internalID: 619676588685376772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2164
+        width: 213
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1868aaa6ff0e01ce0800000000000000
+      internalID: -1436400893520345471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_65
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2164
+        width: 213
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a069ec4d267f60800000000000000
+      internalID: 8031656793818048043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_66
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 2164
+        width: 216
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e8c78a27a5d0dc0800000000000000
+      internalID: -3671178672737579517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2166
+        width: 221
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3329c1bb70c643a0800000000000000
+      internalID: -6681441359661292742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_68
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 2166
+        width: 224
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfc5a7d7759d7e20800000000000000
+      internalID: 3349998039785131967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_69
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2169
+        width: 224
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfb6fde641ff6360800000000000000
+      internalID: 7165210819112124337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_70
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2169
+        width: 224
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7378c3f3325a780800000000000000
+      internalID: -8672486752926615607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_71
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 2169
+        width: 224
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7403cd6bb10090800000000000000
+      internalID: -8069962977173537480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_72
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1810
+        width: 224
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a7d5ccab217170800000000000000
+      internalID: 8174362819707774815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_73
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1810
+        width: 225
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ec3f2b976c6f90800000000000000
+      internalID: -6959073407984146379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_74
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1810
+        width: 224
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d45bcfd5f6ab590800000000000000
+      internalID: -7657685766927725172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_75
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1810
+        width: 224
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d42cff220190930800000000000000
+      internalID: 4109833877458144522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_76
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1808
+        width: 284
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3308859d9fb920ea0800000000000000
+      internalID: -5907988263761051597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_77
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1808
+        width: 121
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff692d80b79d27f40800000000000000
+      internalID: 5724877198793545471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_79
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 1808
+        width: 150
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469e0cee38ce48080800000000000000
+      internalID: -9185957288538478236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_81
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 1808
+        width: 164
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf8fdcc383f54e0800000000000000
+      internalID: -1990810676469630057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_83
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1447
+        width: 169
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c50d62127cca63e0800000000000000
+      internalID: -2059609089261107776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_85
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1449
+        width: 168
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a986574cb7bafcd0800000000000000
+      internalID: -2523502621909153367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_87
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1449
+        width: 173
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aae37e8ab721c40800000000000000
+      internalID: 5481579661827680864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_89
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1449
+        width: 173
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a135611d44ff20800000000000000
+      internalID: 3455471551207547049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_91
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1449
+        width: 171
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31d9cdb4fa511c0800000000000000
+      internalID: -4533524709519846477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_93
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1449
+        width: 174
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20503e26d7dd4910800000000000000
+      internalID: 1823350739052810287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_95
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 1449
+        width: 176
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1332330eded38b30800000000000000
+      internalID: 4288516315304571676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_97
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 1444
+        width: 180
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28589b42bf4deaef0800000000000000
+      internalID: -94904367010183806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1096
+        width: 196
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669edb700cb0fe820800000000000000
+      internalID: 2949589200342477158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_101
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1112
+        width: 193
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc489804e6e0df0800000000000000
+      internalID: -212110908975690535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_103
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1127
+        width: 390
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2603a4b20ef7831c0800000000000000
+      internalID: -4523725224917979038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_104
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1122
+        width: 379
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe20ff5c6230570800000000000000
+      internalID: 8431625559196495848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_105
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1109
+        width: 361
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e29f4dd2191070800000000000000
+      internalID: 8077508148397795624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_106
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1096
+        width: 335
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72420509277b1aff0800000000000000
+      internalID: -26538420112186329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_107
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 1088
+        width: 322
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38398c8193f490dc0800000000000000
+      internalID: -3672316914496400509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_108
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1082
+        width: 318
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41717a6047cea970800000000000000
+      internalID: 8768164604014588235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_109
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 724
+        width: 313
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe11f6624d049c00800000000000000
+      internalID: 906364003854393018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_110
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 732
+        width: 311
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc43ff86efd11530800000000000000
+      internalID: 3824083739964820656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_111
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 754
+        width: 306
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3292d968866bb3f60800000000000000
+      internalID: 8015200521887230243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_112
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 782
+        width: 298
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de92d7a3018a110800000000000000
+      internalID: 1272284738126212395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_113
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 777
+        width: 292
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dcdadc4516f8220800000000000000
+      internalID: 2490316135815040275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_114
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 777
+        width: 295
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba089ddaf7897dbf0800000000000000
+      internalID: -299603176051867477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_115
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 777
+        width: 296
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a9e96e18ba2d20800000000000000
+      internalID: 3254616121494055006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_116
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 777
+        width: 294
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730f9cd058e5cf30800000000000000
+      internalID: 4595334428797895542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_117
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 410
+        width: 269
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a69736db006bed0800000000000000
+      internalID: -2398728938110490102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_118
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 415
+        width: 245
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc989a412b7db130800000000000000
+      internalID: 3584156261372435636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_119
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 429
+        width: 229
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55447c1c68ce5fbd0800000000000000
+      internalID: -2596909546588388267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_120
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 436
+        width: 232
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0133e2c8a922f360800000000000000
+      internalID: 7201864558919758090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_121
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 402
+        width: 234
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1300f7f1d718e2790800000000000000
+      internalID: -7552957150654431183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_122
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 376
+        width: 219
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021d18357fd9c9c0800000000000000
+      internalID: -3906345507221597696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_123
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 368
+        width: 198
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff63288b156abb0800000000000000
+      internalID: -4925159289582583981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_124
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 363
+        width: 179
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024e8246f8bdaaf20800000000000000
+      internalID: 3434799074730632224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_125
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 155
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d4a9f1ba46ffae0800000000000000
+      internalID: -1513380263640805997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_126
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1
+        width: 133
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e002e47622c040800000000000000
+      internalID: 4666334447359026249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_127
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1
+        width: 111
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254d0d84d8d0fba70800000000000000
+      internalID: 8844803093642138706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_128
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1
+        width: 100
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f579850d6d236d0800000000000000
+      internalID: -3012109010429583513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_129
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1
+        width: 92
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2125ea25056fe0800000000000000
+      internalID: -1196544444206077418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_130
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 2
+        width: 87
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae827c8c615294a20800000000000000
+      internalID: 3047007402680854762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_131
+      rect:
+        serializedVersion: 2
+        x: 3961
+        y: 4
+        width: 95
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaa577765ab51d00800000000000000
+      internalID: 942864577538140863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearCritAttack_132
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 1
+        width: 108
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc2f604c20d4330800000000000000
+      internalID: 3696613910094466419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5c214a6f97df31e4ab3b3f4561cd465f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SpearCritAttack_0: 5006291004907585092
+      SpearCritAttack_1: 4018255702499031320
+      SpearCritAttack_10: -4137086421203091803
+      SpearCritAttack_100: -4744721495412834045
+      SpearCritAttack_101: -212110908975690535
+      SpearCritAttack_102: -8184262006208304533
+      SpearCritAttack_103: -4523725224917979038
+      SpearCritAttack_104: 8431625559196495848
+      SpearCritAttack_105: 8077508148397795624
+      SpearCritAttack_106: -26538420112186329
+      SpearCritAttack_107: -3672316914496400509
+      SpearCritAttack_108: 8768164604014588235
+      SpearCritAttack_109: 906364003854393018
+      SpearCritAttack_11: 4699006400282826993
+      SpearCritAttack_110: 3824083739964820656
+      SpearCritAttack_111: 8015200521887230243
+      SpearCritAttack_112: 1272284738126212395
+      SpearCritAttack_113: 2490316135815040275
+      SpearCritAttack_114: -299603176051867477
+      SpearCritAttack_115: 3254616121494055006
+      SpearCritAttack_116: 4595334428797895542
+      SpearCritAttack_117: -2398728938110490102
+      SpearCritAttack_118: 3584156261372435636
+      SpearCritAttack_119: -2596909546588388267
+      SpearCritAttack_12: 2232036902824518517
+      SpearCritAttack_120: 7201864558919758090
+      SpearCritAttack_121: -7552957150654431183
+      SpearCritAttack_122: -3906345507221597696
+      SpearCritAttack_123: -4925159289582583981
+      SpearCritAttack_124: 3434799074730632224
+      SpearCritAttack_125: -1513380263640805997
+      SpearCritAttack_126: 4666334447359026249
+      SpearCritAttack_127: 8844803093642138706
+      SpearCritAttack_128: -3012109010429583513
+      SpearCritAttack_129: -1196544444206077418
+      SpearCritAttack_13: -2445744172900360439
+      SpearCritAttack_130: 3047007402680854762
+      SpearCritAttack_131: 942864577538140863
+      SpearCritAttack_132: 3696613910094466419
+      SpearCritAttack_14: -4993371834909289255
+      SpearCritAttack_15: -36711686709260793
+      SpearCritAttack_16: -3382271655525484276
+      SpearCritAttack_17: 9008817722076802473
+      SpearCritAttack_18: -3604215490438918234
+      SpearCritAttack_19: 8894937546306975549
+      SpearCritAttack_2: -805431048363545693
+      SpearCritAttack_20: 4271660590543309426
+      SpearCritAttack_21: 8229969699875159141
+      SpearCritAttack_22: 2508449143849193506
+      SpearCritAttack_23: -7976920828733496988
+      SpearCritAttack_24: -3367275044727758500
+      SpearCritAttack_25: -6634266979879403885
+      SpearCritAttack_26: -6404814134044081242
+      SpearCritAttack_27: 1523628817988435871
+      SpearCritAttack_28: 7545168858676039738
+      SpearCritAttack_29: 841672256137650093
+      SpearCritAttack_3: 2219915396957007917
+      SpearCritAttack_30: 3781410100099863783
+      SpearCritAttack_31: 1249031394212374472
+      SpearCritAttack_32: -7677507226892878085
+      SpearCritAttack_33: 6876590722472103695
+      SpearCritAttack_34: 6237360835337897687
+      SpearCritAttack_35: -1664616324674320559
+      SpearCritAttack_36: 583960572172833656
+      SpearCritAttack_37: 5844545073668556496
+      SpearCritAttack_38: 2761833795048513695
+      SpearCritAttack_39: -189504846369441669
+      SpearCritAttack_4: -44390192647531744
+      SpearCritAttack_40: 1740888684291262794
+      SpearCritAttack_41: 1904391288401473906
+      SpearCritAttack_42: -8044049628476561359
+      SpearCritAttack_43: -3324082287232660518
+      SpearCritAttack_44: 1126624326956266943
+      SpearCritAttack_45: -1049270702442756842
+      SpearCritAttack_46: 2343415382918505635
+      SpearCritAttack_47: 6734486038121857865
+      SpearCritAttack_48: 1451406302228456784
+      SpearCritAttack_49: 6836886201944129278
+      SpearCritAttack_5: -6919461889209261693
+      SpearCritAttack_50: -4673677769081504258
+      SpearCritAttack_51: 2989953693921407166
+      SpearCritAttack_52: -2050883876603006552
+      SpearCritAttack_53: -495593667837437612
+      SpearCritAttack_54: -9053518622642999380
+      SpearCritAttack_55: 8175831409643249669
+      SpearCritAttack_56: -1836068477933470410
+      SpearCritAttack_57: -4719112935106469530
+      SpearCritAttack_58: 4977533909029283074
+      SpearCritAttack_59: 885724269758670613
+      SpearCritAttack_6: -9204115790712943163
+      SpearCritAttack_60: -943693845306870471
+      SpearCritAttack_61: -6964003723860426445
+      SpearCritAttack_62: 3539241453784503192
+      SpearCritAttack_63: 619676588685376772
+      SpearCritAttack_64: -1436400893520345471
+      SpearCritAttack_65: 8031656793818048043
+      SpearCritAttack_66: -3671178672737579517
+      SpearCritAttack_67: -6681441359661292742
+      SpearCritAttack_68: 3349998039785131967
+      SpearCritAttack_69: 7165210819112124337
+      SpearCritAttack_7: 4792341647661482037
+      SpearCritAttack_70: -8672486752926615607
+      SpearCritAttack_71: -8069962977173537480
+      SpearCritAttack_72: 8174362819707774815
+      SpearCritAttack_73: -6959073407984146379
+      SpearCritAttack_74: -7657685766927725172
+      SpearCritAttack_75: 4109833877458144522
+      SpearCritAttack_76: -5907988263761051597
+      SpearCritAttack_77: 5724877198793545471
+      SpearCritAttack_78: 8212703528171434168
+      SpearCritAttack_79: -9185957288538478236
+      SpearCritAttack_8: -6218860832498944351
+      SpearCritAttack_80: -9070858795656145342
+      SpearCritAttack_81: -1990810676469630057
+      SpearCritAttack_82: -6937774993398852714
+      SpearCritAttack_83: -2059609089261107776
+      SpearCritAttack_84: 8873910088025768478
+      SpearCritAttack_85: -2523502621909153367
+      SpearCritAttack_86: -5337332252573172733
+      SpearCritAttack_87: 5481579661827680864
+      SpearCritAttack_88: 2296369255825872109
+      SpearCritAttack_89: 3455471551207547049
+      SpearCritAttack_9: -2121075910829872926
+      SpearCritAttack_90: -2935816654447504802
+      SpearCritAttack_91: -4533524709519846477
+      SpearCritAttack_92: 5518086343397591315
+      SpearCritAttack_93: 1823350739052810287
+      SpearCritAttack_94: -1809786587754510300
+      SpearCritAttack_95: 4288516315304571676
+      SpearCritAttack_96: -4927776516225760112
+      SpearCritAttack_97: -94904367010183806
+      SpearCritAttack_98: 4589437720679172093
+      SpearCritAttack_99: 2949589200342477158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

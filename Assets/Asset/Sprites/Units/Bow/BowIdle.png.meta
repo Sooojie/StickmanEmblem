@@ -1,0 +1,1445 @@
+fileFormatVersion: 2
+guid: 80d44657cadb57d43afa143971af5969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6266131782459285504
+    second: BowIdle_0
+  - first:
+      213: -7919849692597509869
+    second: BowIdle_1
+  - first:
+      213: 8921388957465892531
+    second: BowIdle_2
+  - first:
+      213: -7480602041766484507
+    second: BowIdle_3
+  - first:
+      213: 623982626995679940
+    second: BowIdle_4
+  - first:
+      213: -1165306914049836994
+    second: BowIdle_5
+  - first:
+      213: -9140134280042481166
+    second: BowIdle_6
+  - first:
+      213: -1066995666621863991
+    second: BowIdle_7
+  - first:
+      213: 277171782473595427
+    second: BowIdle_8
+  - first:
+      213: -3183853756596931052
+    second: BowIdle_9
+  - first:
+      213: 7069717451480177195
+    second: BowIdle_10
+  - first:
+      213: -3058632916399726098
+    second: BowIdle_11
+  - first:
+      213: -8984145781548201126
+    second: BowIdle_12
+  - first:
+      213: 5930153374727181336
+    second: BowIdle_13
+  - first:
+      213: 6343924214020233247
+    second: BowIdle_14
+  - first:
+      213: -2821119307752170744
+    second: BowIdle_15
+  - first:
+      213: -7707549477623951110
+    second: BowIdle_16
+  - first:
+      213: -7276197035803088910
+    second: BowIdle_17
+  - first:
+      213: 8471687799735382339
+    second: BowIdle_18
+  - first:
+      213: -1326884017117703956
+    second: BowIdle_19
+  - first:
+      213: -8807852081378360475
+    second: BowIdle_20
+  - first:
+      213: -4769047722283682636
+    second: BowIdle_21
+  - first:
+      213: -1730790062625183588
+    second: BowIdle_22
+  - first:
+      213: 9099390255083762830
+    second: BowIdle_23
+  - first:
+      213: 8154887449070471420
+    second: BowIdle_24
+  - first:
+      213: -243270379911506906
+    second: BowIdle_25
+  - first:
+      213: 5484793765301180008
+    second: BowIdle_26
+  - first:
+      213: -4792055049733069730
+    second: BowIdle_27
+  - first:
+      213: -95889952163167160
+    second: BowIdle_28
+  - first:
+      213: -7142789200655202067
+    second: BowIdle_29
+  - first:
+      213: -5476605225051308847
+    second: BowIdle_30
+  - first:
+      213: -3850862623316640043
+    second: BowIdle_31
+  - first:
+      213: 3495602338563623601
+    second: BowIdle_32
+  - first:
+      213: 8715204928415466354
+    second: BowIdle_33
+  - first:
+      213: -5034050116600259168
+    second: BowIdle_34
+  - first:
+      213: -5788240439590685881
+    second: BowIdle_35
+  - first:
+      213: -714310678213821905
+    second: BowIdle_36
+  - first:
+      213: -4201323705284565032
+    second: BowIdle_37
+  - first:
+      213: -5064258363471319565
+    second: BowIdle_38
+  - first:
+      213: -6810213065463203097
+    second: BowIdle_39
+  - first:
+      213: -1264330977932367094
+    second: BowIdle_40
+  - first:
+      213: -4548522014753450143
+    second: BowIdle_41
+  - first:
+      213: 8911115632441275888
+    second: BowIdle_42
+  - first:
+      213: 1020378001533176385
+    second: BowIdle_43
+  - first:
+      213: -7620808297808439686
+    second: BowIdle_44
+  - first:
+      213: 1296958872718382474
+    second: BowIdle_45
+  - first:
+      213: -1567058331465511643
+    second: BowIdle_46
+  - first:
+      213: 6721757054955841338
+    second: BowIdle_47
+  - first:
+      213: 772093818556114095
+    second: BowIdle_48
+  - first:
+      213: -9134527850295014969
+    second: BowIdle_49
+  - first:
+      213: -1947327511319080316
+    second: BowIdle_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowIdle_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3598
+        width: 113
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000654128a5c5f650800000000000000
+      internalID: 6266131782459285504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 3599
+        width: 114
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3112d3e6aaa071290800000000000000
+      internalID: -7919849692597509869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3599
+        width: 114
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6d8d04df32fcb70800000000000000
+      internalID: 8921388957465892531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 3599
+        width: 116
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e56272b3109f2890800000000000000
+      internalID: -7480602041766484507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_4
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 3599
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b71ca4e4d8a800800000000000000
+      internalID: 623982626995679940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3238
+        width: 118
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b0c5298ff3dfe0800000000000000
+      internalID: -1165306914049836994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3238
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f972be7c48b72180800000000000000
+      internalID: -9140134280042481166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 3238
+        width: 120
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76f1a28154131f0800000000000000
+      internalID: -1066995666621863991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3238
+        width: 120
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ab9148446b8d300800000000000000
+      internalID: 277171782473595427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 3238
+        width: 120
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163f3d80eda0d3d0800000000000000
+      internalID: -3183853756596931052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2878
+        width: 120
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a1bdda09eac1260800000000000000
+      internalID: 7069717451480177195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2878
+        width: 122
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee16daf519d8d85d0800000000000000
+      internalID: -3058632916399726098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2878
+        width: 122
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bce700307e15380800000000000000
+      internalID: -8984145781548201126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 2878
+        width: 123
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814923433132c4250800000000000000
+      internalID: 5930153374727181336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 2878
+        width: 123
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18dcaa06752a0850800000000000000
+      internalID: 6343924214020233247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2519
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b9f60cfee59d8d0800000000000000
+      internalID: -2821119307752170744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_16
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2519
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af01a712698490590800000000000000
+      internalID: -7707549477623951110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2519
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7e43dc851c50b90800000000000000
+      internalID: -7276197035803088910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 2519
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341fc3f3b2b719570800000000000000
+      internalID: 8471687799735382339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_19
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 2520
+        width: 123
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce05e8d3406f59de0800000000000000
+      internalID: -1326884017117703956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2159
+        width: 123
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563024fa23934c580800000000000000
+      internalID: -8807852081378360475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2159
+        width: 123
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b435643d50f0ddb0800000000000000
+      internalID: -4769047722283682636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2159
+        width: 123
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982370bb9ffaf7e0800000000000000
+      internalID: -1730790062625183588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2159
+        width: 124
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e843be2f937874e70800000000000000
+      internalID: 9099390255083762830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_24
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2159
+        width: 124
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80321bdeafb2170800000000000000
+      internalID: 8154887449070471420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1799
+        width: 124
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624100dd0eabf9cf0800000000000000
+      internalID: -243270379911506906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1799
+        width: 124
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866dd0faed6ed1c40800000000000000
+      internalID: 5484793765301180008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1799
+        width: 124
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e542b8852533f7db0800000000000000
+      internalID: -4792055049733069730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1799
+        width: 123
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84409c7b8945baef0800000000000000
+      internalID: -95889952163167160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1799
+        width: 123
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8437de017bfdc90800000000000000
+      internalID: -7142789200655202067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1440
+        width: 123
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcb4c960903ff3b0800000000000000
+      internalID: -5476605225051308847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_31
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1440
+        width: 123
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5def16ac8dcfe8ac0800000000000000
+      internalID: -3850862623316640043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_32
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1440
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba0c127ecfd28030800000000000000
+      internalID: 3495602338563623601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_33
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1440
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27300fe05b0a2f870800000000000000
+      internalID: 8715204928415466354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_34
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1440
+        width: 123
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad178a2716732ab0800000000000000
+      internalID: -5034050116600259168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1078
+        width: 123
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74375a3dcf90cafa0800000000000000
+      internalID: -5788240439590685881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_36
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1078
+        width: 123
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2afbc509324616f0800000000000000
+      internalID: -714310678213821905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1078
+        width: 123
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7e5108956e1b5c0800000000000000
+      internalID: -4201323705284565032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_38
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1078
+        width: 122
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdad7a99d328b9b0800000000000000
+      internalID: -5064258363471319565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_39
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1078
+        width: 122
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea775c8c434d71a0800000000000000
+      internalID: -6810213065463203097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 718
+        width: 120
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba1dd9ca1347ee0800000000000000
+      internalID: -1264330977932367094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_41
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 718
+        width: 120
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1679391a35760e0c0800000000000000
+      internalID: -4548522014753450143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_42
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 718
+        width: 120
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5b7106474aaab70800000000000000
+      internalID: 8911115632441275888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_43
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 718
+        width: 120
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a020ed26c192e00800000000000000
+      internalID: 1020378001533176385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_44
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 718
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7657cbda337d3690800000000000000
+      internalID: -7620808297808439686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 359
+        width: 118
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a859ba02939bff110800000000000000
+      internalID: 1296958872718382474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 359
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d8eaa00c0b04ae0800000000000000
+      internalID: -1567058331465511643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_47
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 359
+        width: 116
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a376e179d6a784d50800000000000000
+      internalID: 6721757054955841338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_48
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 359
+        width: 114
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ef4cbc3707ba00800000000000000
+      internalID: 772093818556114095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_49
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 359
+        width: 114
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9c0442153ab3180800000000000000
+      internalID: -9134527850295014969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIdle_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 113
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4821b7222f3b9f4e0800000000000000
+      internalID: -1947327511319080316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6a9ee5a50c28314fa5cbaf8a8bdd777
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BowIdle_0: 6266131782459285504
+      BowIdle_1: -7919849692597509869
+      BowIdle_10: 7069717451480177195
+      BowIdle_11: -3058632916399726098
+      BowIdle_12: -8984145781548201126
+      BowIdle_13: 5930153374727181336
+      BowIdle_14: 6343924214020233247
+      BowIdle_15: -2821119307752170744
+      BowIdle_16: -7707549477623951110
+      BowIdle_17: -7276197035803088910
+      BowIdle_18: 8471687799735382339
+      BowIdle_19: -1326884017117703956
+      BowIdle_2: 8921388957465892531
+      BowIdle_20: -8807852081378360475
+      BowIdle_21: -4769047722283682636
+      BowIdle_22: -1730790062625183588
+      BowIdle_23: 9099390255083762830
+      BowIdle_24: 8154887449070471420
+      BowIdle_25: -243270379911506906
+      BowIdle_26: 5484793765301180008
+      BowIdle_27: -4792055049733069730
+      BowIdle_28: -95889952163167160
+      BowIdle_29: -7142789200655202067
+      BowIdle_3: -7480602041766484507
+      BowIdle_30: -5476605225051308847
+      BowIdle_31: -3850862623316640043
+      BowIdle_32: 3495602338563623601
+      BowIdle_33: 8715204928415466354
+      BowIdle_34: -5034050116600259168
+      BowIdle_35: -5788240439590685881
+      BowIdle_36: -714310678213821905
+      BowIdle_37: -4201323705284565032
+      BowIdle_38: -5064258363471319565
+      BowIdle_39: -6810213065463203097
+      BowIdle_4: 623982626995679940
+      BowIdle_40: -1264330977932367094
+      BowIdle_41: -4548522014753450143
+      BowIdle_42: 8911115632441275888
+      BowIdle_43: 1020378001533176385
+      BowIdle_44: -7620808297808439686
+      BowIdle_45: 1296958872718382474
+      BowIdle_46: -1567058331465511643
+      BowIdle_47: 6721757054955841338
+      BowIdle_48: 772093818556114095
+      BowIdle_49: -9134527850295014969
+      BowIdle_5: -1165306914049836994
+      BowIdle_50: -1947327511319080316
+      BowIdle_6: -9140134280042481166
+      BowIdle_7: -1066995666621863991
+      BowIdle_8: 277171782473595427
+      BowIdle_9: -3183853756596931052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

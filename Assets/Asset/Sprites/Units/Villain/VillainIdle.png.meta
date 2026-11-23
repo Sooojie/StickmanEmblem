@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 4336c9f81fff35e479aaae9d2951f5f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5087110227835574089
+    second: VillainIdle_0
+  - first:
+      213: 2836956042669431625
+    second: VillainIdle_1
+  - first:
+      213: -3105584383097585793
+    second: VillainIdle_2
+  - first:
+      213: 2604857147237112215
+    second: VillainIdle_3
+  - first:
+      213: -7905561330774525002
+    second: VillainIdle_4
+  - first:
+      213: -2101526651363876777
+    second: VillainIdle_5
+  - first:
+      213: -8127608239811808041
+    second: VillainIdle_6
+  - first:
+      213: 2506599362024335948
+    second: VillainIdle_7
+  - first:
+      213: -4299656460575238822
+    second: VillainIdle_8
+  - first:
+      213: 2808969490987669841
+    second: VillainIdle_9
+  - first:
+      213: 1986758188911715491
+    second: VillainIdle_10
+  - first:
+      213: 7734098720944017019
+    second: VillainIdle_11
+  - first:
+      213: 4943014321218775605
+    second: VillainIdle_12
+  - first:
+      213: -3326694242697458453
+    second: VillainIdle_13
+  - first:
+      213: -6210575305051908754
+    second: VillainIdle_14
+  - first:
+      213: -8913638058334002858
+    second: VillainIdle_15
+  - first:
+      213: 3510795624170475196
+    second: VillainIdle_16
+  - first:
+      213: -1545293651332610501
+    second: VillainIdle_17
+  - first:
+      213: -5826542942617683670
+    second: VillainIdle_18
+  - first:
+      213: -6287742995534337320
+    second: VillainIdle_19
+  - first:
+      213: 1893490533350021081
+    second: VillainIdle_20
+  - first:
+      213: 4827349843314848800
+    second: VillainIdle_21
+  - first:
+      213: -8185052275477142448
+    second: VillainIdle_22
+  - first:
+      213: -4017120389169816949
+    second: VillainIdle_23
+  - first:
+      213: -4109284156958409141
+    second: VillainIdle_24
+  - first:
+      213: 5521402164459138317
+    second: VillainIdle_25
+  - first:
+      213: -2935836823622653410
+    second: VillainIdle_26
+  - first:
+      213: -8334258315993761030
+    second: VillainIdle_27
+  - first:
+      213: -661969926421387572
+    second: VillainIdle_28
+  - first:
+      213: -710076918530905155
+    second: VillainIdle_29
+  - first:
+      213: 6651524392765575697
+    second: VillainIdle_30
+  - first:
+      213: 460578988408529198
+    second: VillainIdle_31
+  - first:
+      213: -5646520203746069491
+    second: VillainIdle_32
+  - first:
+      213: 460215887630038915
+    second: VillainIdle_33
+  - first:
+      213: 5317832361701018402
+    second: VillainIdle_34
+  - first:
+      213: -2403978855028922042
+    second: VillainIdle_35
+  - first:
+      213: 8962941722165205350
+    second: VillainIdle_36
+  - first:
+      213: 72207507719190080
+    second: VillainIdle_37
+  - first:
+      213: 5848780898420528083
+    second: VillainIdle_38
+  - first:
+      213: -1033669024627411769
+    second: VillainIdle_39
+  - first:
+      213: -4915922295142423557
+    second: VillainIdle_40
+  - first:
+      213: 6104468367882654084
+    second: VillainIdle_41
+  - first:
+      213: 5640228970303837202
+    second: VillainIdle_42
+  - first:
+      213: 5657266497669431768
+    second: VillainIdle_43
+  - first:
+      213: -6935613442071236776
+    second: VillainIdle_44
+  - first:
+      213: -1338610853194338005
+    second: VillainIdle_45
+  - first:
+      213: -7702702859083563561
+    second: VillainIdle_46
+  - first:
+      213: 1395404168803301533
+    second: VillainIdle_47
+  - first:
+      213: -7951129710814340235
+    second: VillainIdle_48
+  - first:
+      213: -7225680332561833949
+    second: VillainIdle_49
+  - first:
+      213: -6460207482286223173
+    second: VillainIdle_50
+  - first:
+      213: 2734002874791640430
+    second: VillainIdle_51
+  - first:
+      213: -2201278959889813007
+    second: VillainIdle_52
+  - first:
+      213: 7290776762835649790
+    second: VillainIdle_53
+  - first:
+      213: -4725128728331284212
+    second: VillainIdle_54
+  - first:
+      213: 5533111628970274237
+    second: VillainIdle_55
+  - first:
+      213: -7872637629372716657
+    second: VillainIdle_56
+  - first:
+      213: -3677565564238434624
+    second: VillainIdle_57
+  - first:
+      213: -7578904442595582488
+    second: VillainIdle_58
+  - first:
+      213: 1402797655958651357
+    second: VillainIdle_59
+  - first:
+      213: -6678758644730525078
+    second: VillainIdle_60
+  - first:
+      213: -5230937722925850913
+    second: VillainIdle_61
+  - first:
+      213: 2344234126054164284
+    second: VillainIdle_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillainIdle_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3610
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8aa905334f669b0800000000000000
+      internalID: -5087110227835574089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_1
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3610
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b95be6d74ee5720800000000000000
+      internalID: 2836956042669431625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3610
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fb779257fb6e4d0800000000000000
+      internalID: -3105584383097585793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3611
+        width: 225
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79994b736cf462420800000000000000
+      internalID: 2604857147237112215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_4
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3611
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbbe19eaddc94290800000000000000
+      internalID: -7905561330774525002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_5
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 3611
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a07b15a0e5d2e0800000000000000
+      internalID: -2101526651363876777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3251
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4ba782e5fe43f80800000000000000
+      internalID: -8127608239811808041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3251
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a6ea7d6da39c220800000000000000
+      internalID: 2506599362024335948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 3251
+        width: 225
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55133bca3d8454c0800000000000000
+      internalID: -4299656460575238822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3251
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159da379ed67bf620800000000000000
+      internalID: 2808969490987669841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_10
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 3251
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a46ea8eb02629b10800000000000000
+      internalID: 1986758188911715491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_11
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 3251
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ecba74fc9055b60800000000000000
+      internalID: 7734098720944017019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2891
+        width: 225
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ae9eff55d199440800000000000000
+      internalID: 4943014321218775605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2891
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4eab363535d1d0800000000000000
+      internalID: -3326694242697458453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2891
+        width: 225
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6551934aaa9fc9a0800000000000000
+      internalID: -6210575305051908754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_15
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2891
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651699499656c4480800000000000000
+      internalID: -8913638058334002858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_16
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 2891
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe4da9e40ad8b030800000000000000
+      internalID: 3510795624170475196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_17
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 2891
+        width: 225
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3647a68c930e8ae0800000000000000
+      internalID: -1545293651332610501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2531
+        width: 223
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b6b46016f32fa0800000000000000
+      internalID: -5826542942617683670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_19
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2531
+        width: 221
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa9383f037db8a0800000000000000
+      internalID: -6287742995534337320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_20
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2531
+        width: 221
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d794e1ab97074a10800000000000000
+      internalID: 1893490533350021081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 2530
+        width: 220
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b1592b113ef240800000000000000
+      internalID: 4827349843314848800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_22
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 2530
+        width: 220
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ae2c525ad86e80800000000000000
+      internalID: -8185052275477142448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_23
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 2530
+        width: 218
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8add872a425048c0800000000000000
+      internalID: -4017120389169816949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2170
+        width: 218
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7a57c4d3e8f6c0800000000000000
+      internalID: -4109284156958409141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2170
+        width: 218
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de8a2d306ff9c40800000000000000
+      internalID: 5521402164459138317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2170
+        width: 217
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ae571b6ffc147d0800000000000000
+      internalID: -2935836823622653410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2170
+        width: 219
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afab8d8e734c65c80800000000000000
+      internalID: -8334258315993761030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_28
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 2170
+        width: 220
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc669a3fbd530d6f0800000000000000
+      internalID: -661969926421387572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_29
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2170
+        width: 222
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbe2c30ecc4526f0800000000000000
+      internalID: -710076918530905155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1810
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11253a5a136fe4c50800000000000000
+      internalID: 6651524392765575697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_31
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1810
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216913562e446600800000000000000
+      internalID: 460578988408529198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_32
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1811
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0436ae8ac783a1b0800000000000000
+      internalID: -5646520203746069491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_33
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1811
+        width: 228
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387fd2659e3036600800000000000000
+      internalID: 460215887630038915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_34
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1811
+        width: 229
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b044e9b5cbcc940800000000000000
+      internalID: 5317832361701018402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_35
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 1811
+        width: 229
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649637ad7f953aed0800000000000000
+      internalID: -2403978855028922042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1451
+        width: 229
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6695f243204c26c70800000000000000
+      internalID: 8962941722165205350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_37
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1451
+        width: 228
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f7bf7858800100800000000000000
+      internalID: 72207507719190080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_38
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1451
+        width: 229
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3127b2d3b0b2150800000000000000
+      internalID: 5848780898420528083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_39
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1451
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c432cbaf7ba7a1f0800000000000000
+      internalID: -1033669024627411769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_40
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1451
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3ec9ed7b227cbb0800000000000000
+      internalID: -4915922295142423557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_41
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1451
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481114243ad67b450800000000000000
+      internalID: 6104468367882654084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1091
+        width: 226
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d3d28d5e164e40800000000000000
+      internalID: 5640228970303837202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1091
+        width: 227
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d10e49f7e5a28e40800000000000000
+      internalID: 5657266497669431768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_44
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1091
+        width: 225
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6be52250cfbf90800000000000000
+      internalID: -6935613442071236776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_45
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1090
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b217ed2758c4c6de0800000000000000
+      internalID: -1338610853194338005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_46
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1090
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd30f17f808a1590800000000000000
+      internalID: -7702702859083563561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_47
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1090
+        width: 223
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98be97c2b87d5310800000000000000
+      internalID: 1395404168803301533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 730
+        width: 223
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5bd7a7a9e7a190800000000000000
+      internalID: -7951129710814340235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_49
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 730
+        width: 222
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202025550a39bb90800000000000000
+      internalID: -7225680332561833949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_50
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 730
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05203c58bb856a0800000000000000
+      internalID: -6460207482286223173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_51
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 730
+        width: 222
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3ad6112121f520800000000000000
+      internalID: 2734002874791640430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_52
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 730
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1f938e27c7371e0800000000000000
+      internalID: -2201278959889813007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_53
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 730
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4cd7d66da0e2560800000000000000
+      internalID: 7290776762835649790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 370
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0112d5d478fc6eb0800000000000000
+      internalID: -4725128728331284212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_55
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 370
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd2b5bf5bf89cc40800000000000000
+      internalID: 5533111628970274237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_56
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 370
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89addf79c5ceb290800000000000000
+      internalID: -7872637629372716657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_57
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 370
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceeb599a99a6fcc0800000000000000
+      internalID: -3677565564238434624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_58
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 370
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd570709252d690800000000000000
+      internalID: -7578904442595582488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_59
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 370
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18a27290db77310800000000000000
+      internalID: 1402797655958651357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a8440f5684053a0800000000000000
+      internalID: -6678758644730525078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_61
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 10
+        width: 226
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde50de0bd9f767b0800000000000000
+      internalID: -5230937722925850913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainIdle_62
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 10
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c378ec17484688020800000000000000
+      internalID: 2344234126054164284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VillainIdle_0: -5087110227835574089
+      VillainIdle_1: 2836956042669431625
+      VillainIdle_10: 1986758188911715491
+      VillainIdle_11: 7734098720944017019
+      VillainIdle_12: 4943014321218775605
+      VillainIdle_13: -3326694242697458453
+      VillainIdle_14: -6210575305051908754
+      VillainIdle_15: -8913638058334002858
+      VillainIdle_16: 3510795624170475196
+      VillainIdle_17: -1545293651332610501
+      VillainIdle_18: -5826542942617683670
+      VillainIdle_19: -6287742995534337320
+      VillainIdle_2: -3105584383097585793
+      VillainIdle_20: 1893490533350021081
+      VillainIdle_21: 4827349843314848800
+      VillainIdle_22: -8185052275477142448
+      VillainIdle_23: -4017120389169816949
+      VillainIdle_24: -4109284156958409141
+      VillainIdle_25: 5521402164459138317
+      VillainIdle_26: -2935836823622653410
+      VillainIdle_27: -8334258315993761030
+      VillainIdle_28: -661969926421387572
+      VillainIdle_29: -710076918530905155
+      VillainIdle_3: 2604857147237112215
+      VillainIdle_30: 6651524392765575697
+      VillainIdle_31: 460578988408529198
+      VillainIdle_32: -5646520203746069491
+      VillainIdle_33: 460215887630038915
+      VillainIdle_34: 5317832361701018402
+      VillainIdle_35: -2403978855028922042
+      VillainIdle_36: 8962941722165205350
+      VillainIdle_37: 72207507719190080
+      VillainIdle_38: 5848780898420528083
+      VillainIdle_39: -1033669024627411769
+      VillainIdle_4: -7905561330774525002
+      VillainIdle_40: -4915922295142423557
+      VillainIdle_41: 6104468367882654084
+      VillainIdle_42: 5640228970303837202
+      VillainIdle_43: 5657266497669431768
+      VillainIdle_44: -6935613442071236776
+      VillainIdle_45: -1338610853194338005
+      VillainIdle_46: -7702702859083563561
+      VillainIdle_47: 1395404168803301533
+      VillainIdle_48: -7951129710814340235
+      VillainIdle_49: -7225680332561833949
+      VillainIdle_5: -2101526651363876777
+      VillainIdle_50: -6460207482286223173
+      VillainIdle_51: 2734002874791640430
+      VillainIdle_52: -2201278959889813007
+      VillainIdle_53: 7290776762835649790
+      VillainIdle_54: -4725128728331284212
+      VillainIdle_55: 5533111628970274237
+      VillainIdle_56: -7872637629372716657
+      VillainIdle_57: -3677565564238434624
+      VillainIdle_58: -7578904442595582488
+      VillainIdle_59: 1402797655958651357
+      VillainIdle_6: -8127608239811808041
+      VillainIdle_60: -6678758644730525078
+      VillainIdle_61: -5230937722925850913
+      VillainIdle_62: 2344234126054164284
+      VillainIdle_7: 2506599362024335948
+      VillainIdle_8: -4299656460575238822
+      VillainIdle_9: 2808969490987669841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: 53c1ca034b0a5ef4ab68b413b50dfdcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2002115963324224562
+    second: SwordVPose_0
+  - first:
+      213: 49670557992142314
+    second: SwordVPose_1
+  - first:
+      213: 2456475451811231731
+    second: SwordVPose_2
+  - first:
+      213: 203629433493741297
+    second: SwordVPose_3
+  - first:
+      213: 2031893070830273168
+    second: SwordVPose_4
+  - first:
+      213: 7986575637260045951
+    second: SwordVPose_5
+  - first:
+      213: -6905212773881681311
+    second: SwordVPose_6
+  - first:
+      213: 188165062608821351
+    second: SwordVPose_7
+  - first:
+      213: 6258106900772557804
+    second: SwordVPose_8
+  - first:
+      213: 1593482299031724309
+    second: SwordVPose_9
+  - first:
+      213: 2239413620011412443
+    second: SwordVPose_10
+  - first:
+      213: -2724051440300687359
+    second: SwordVPose_11
+  - first:
+      213: -6276660703436930592
+    second: SwordVPose_12
+  - first:
+      213: -8262343267493054343
+    second: SwordVPose_13
+  - first:
+      213: -9077161663305605405
+    second: SwordVPose_14
+  - first:
+      213: 6354291488889214353
+    second: SwordVPose_15
+  - first:
+      213: 2225302855603273389
+    second: SwordVPose_16
+  - first:
+      213: -929629608472800831
+    second: SwordVPose_17
+  - first:
+      213: -7210394745084412659
+    second: SwordVPose_18
+  - first:
+      213: -1792283541775691669
+    second: SwordVPose_19
+  - first:
+      213: 972965622575734894
+    second: SwordVPose_20
+  - first:
+      213: -6743461198029948756
+    second: SwordVPose_21
+  - first:
+      213: -4751176009599891129
+    second: SwordVPose_22
+  - first:
+      213: 7391095585752581755
+    second: SwordVPose_23
+  - first:
+      213: 4507068102275254911
+    second: SwordVPose_24
+  - first:
+      213: 2934155760090885825
+    second: SwordVPose_25
+  - first:
+      213: 7097485278218735119
+    second: SwordVPose_26
+  - first:
+      213: -8228389529070433195
+    second: SwordVPose_27
+  - first:
+      213: -3677128328196370492
+    second: SwordVPose_28
+  - first:
+      213: -7312392510530553433
+    second: SwordVPose_29
+  - first:
+      213: 1450014776355832380
+    second: SwordVPose_30
+  - first:
+      213: -7428215714508602210
+    second: SwordVPose_31
+  - first:
+      213: -7910113830138299724
+    second: SwordVPose_32
+  - first:
+      213: -3435857086208699875
+    second: SwordVPose_33
+  - first:
+      213: 4832473862574952935
+    second: SwordVPose_34
+  - first:
+      213: 5011862511152320861
+    second: SwordVPose_35
+  - first:
+      213: 514214884978106520
+    second: SwordVPose_36
+  - first:
+      213: 6046623301509694759
+    second: SwordVPose_37
+  - first:
+      213: 8403974442604573323
+    second: SwordVPose_38
+  - first:
+      213: 4919679412670455963
+    second: SwordVPose_39
+  - first:
+      213: -4707344968844624175
+    second: SwordVPose_40
+  - first:
+      213: -1997831491735582825
+    second: SwordVPose_41
+  - first:
+      213: -5844803042523921010
+    second: SwordVPose_42
+  - first:
+      213: -13266883337224455
+    second: SwordVPose_43
+  - first:
+      213: 2805071672112832684
+    second: SwordVPose_44
+  - first:
+      213: -753734292102955288
+    second: SwordVPose_45
+  - first:
+      213: -4942141420007445420
+    second: SwordVPose_46
+  - first:
+      213: 7291655834919865381
+    second: SwordVPose_47
+  - first:
+      213: -3092200592536458112
+    second: SwordVPose_48
+  - first:
+      213: -2603093594776054752
+    second: SwordVPose_49
+  - first:
+      213: -3784544869541412102
+    second: SwordVPose_50
+  - first:
+      213: -5734375525292962387
+    second: SwordVPose_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordVPose_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3601
+        width: 192
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbabe6932e0734e0800000000000000
+      internalID: -2002115963324224562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_1
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3601
+        width: 186
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5caecfb1770b000800000000000000
+      internalID: 49670557992142314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_2
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3601
+        width: 180
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7fca09867271220800000000000000
+      internalID: 2456475451811231731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_3
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 3601
+        width: 174
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe553114ef63d200800000000000000
+      internalID: 203629433493741297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_4
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 3599
+        width: 164
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928a648bfbb23c10800000000000000
+      internalID: 2031893070830273168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3240
+        width: 158
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e8ca63a3406de60800000000000000
+      internalID: 7986575637260045951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3240
+        width: 150
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aea4a4191cb20a0800000000000000
+      internalID: -6905212773881681311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_7
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 3240
+        width: 141
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c10f3a02f7c9200800000000000000
+      internalID: 188165062608821351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_8
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3240
+        width: 134
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce318f2c11349d650800000000000000
+      internalID: 6258106900772557804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_9
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3240
+        width: 126
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a8a555bf2d1610800000000000000
+      internalID: 1593482299031724309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2882
+        width: 124
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba3fd82def31f10800000000000000
+      internalID: 2239413620011412443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2882
+        width: 119
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1008cfec5a9323ad0800000000000000
+      internalID: -2724051440300687359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_12
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2882
+        width: 116
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10dfb6852d4e8a0800000000000000
+      internalID: -6276660703436930592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_13
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2882
+        width: 114
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9787cb0f292465d80800000000000000
+      internalID: -8262343267493054343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_14
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 2882
+        width: 110
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee10e16f81770280800000000000000
+      internalID: -9077161663305605405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2522
+        width: 110
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1959782517afe2850800000000000000
+      internalID: 6354291488889214353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2522
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae35e1382dd1ee10800000000000000
+      internalID: 2225302855603273389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_17
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2522
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11b46ebca4913f0800000000000000
+      internalID: -929629608472800831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_18
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2522
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d76e08e288feb90800000000000000
+      internalID: -7210394745084412659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_19
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2522
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b605eab5d978027e0800000000000000
+      internalID: -1792283541775691669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2161
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602b48241ba08d00800000000000000
+      internalID: 972965622575734894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2161
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87bcec4c96a62a0800000000000000
+      internalID: -6743461198029948756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_22
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2161
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749c072979e601eb0800000000000000
+      internalID: -4751176009599891129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_23
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2161
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b768db98642729660800000000000000
+      internalID: 7391095585752581755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_24
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2161
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4c9e3f825c8e30800000000000000
+      internalID: 4507068102275254911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1801
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce22e33e1738b820800000000000000
+      internalID: 2934155760090885825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_26
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1801
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ecac6a1455f7260800000000000000
+      internalID: 7097485278218735119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_27
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1801
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c8636b153eecd80800000000000000
+      internalID: -8228389529070433195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_28
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1801
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf445c844738fcc0800000000000000
+      internalID: -3677128328196370492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_29
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1801
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9799f11c9258a90800000000000000
+      internalID: -7312392510530553433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1442
+        width: 108
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c1cfa1cc7f1410800000000000000
+      internalID: 1450014776355832380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1442
+        width: 108
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948dbdf92da9e890800000000000000
+      internalID: -7428215714508602210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_32
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1442
+        width: 108
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab3bd8161a93290800000000000000
+      internalID: -7910113830138299724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_33
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1442
+        width: 108
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12958d1f226150d0800000000000000
+      internalID: -3435857086208699875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_34
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1442
+        width: 108
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d32ddf55601340800000000000000
+      internalID: 4832473862574952935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1082
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d4506666bd8540800000000000000
+      internalID: 5011862511152320861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_36
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1082
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a655a6bbd22700800000000000000
+      internalID: 514214884978106520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_37
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1082
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725c5193bdbe9e350800000000000000
+      internalID: 6046623301509694759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_38
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1082
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8238e8ba3ae0a470800000000000000
+      internalID: 8403974442604573323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_39
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1082
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9066093c56364440800000000000000
+      internalID: 4919679412670455963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 722
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3bc001b62caeb0800000000000000
+      internalID: -4707344968844624175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 722
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797030ed7d64644e0800000000000000
+      internalID: -1997831491735582825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_42
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 722
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854d34999613eea0800000000000000
+      internalID: -5844803042523921010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_43
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 722
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe786307ddd0dff0800000000000000
+      internalID: -13266883337224455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_44
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 722
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0ebc9e2dd9de620800000000000000
+      internalID: 2805071672112832684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 361
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee3c20a7a23a85f0800000000000000
+      internalID: -753734292102955288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_46
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 361
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c26b6209cf96bb0800000000000000
+      internalID: -4942141420007445420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_47
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 361
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8dc8595a213560800000000000000
+      internalID: 7291655834919865381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_48
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 361
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cac9bb1fb4615d0800000000000000
+      internalID: -3092200592536458112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_49
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 361
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245746da24ffdbd0800000000000000
+      internalID: -2603093594776054752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af205761e789a7bc0800000000000000
+      internalID: -3784544869541412102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordVPose_51
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1
+        width: 108
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad083e77d76b60b0800000000000000
+      internalID: -5734375525292962387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c09cf1204da876147a3c7421255223e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SwordVPose_0: -2002115963324224562
+      SwordVPose_1: 49670557992142314
+      SwordVPose_10: 2239413620011412443
+      SwordVPose_11: -2724051440300687359
+      SwordVPose_12: -6276660703436930592
+      SwordVPose_13: -8262343267493054343
+      SwordVPose_14: -9077161663305605405
+      SwordVPose_15: 6354291488889214353
+      SwordVPose_16: 2225302855603273389
+      SwordVPose_17: -929629608472800831
+      SwordVPose_18: -7210394745084412659
+      SwordVPose_19: -1792283541775691669
+      SwordVPose_2: 2456475451811231731
+      SwordVPose_20: 972965622575734894
+      SwordVPose_21: -6743461198029948756
+      SwordVPose_22: -4751176009599891129
+      SwordVPose_23: 7391095585752581755
+      SwordVPose_24: 4507068102275254911
+      SwordVPose_25: 2934155760090885825
+      SwordVPose_26: 7097485278218735119
+      SwordVPose_27: -8228389529070433195
+      SwordVPose_28: -3677128328196370492
+      SwordVPose_29: -7312392510530553433
+      SwordVPose_3: 203629433493741297
+      SwordVPose_30: 1450014776355832380
+      SwordVPose_31: -7428215714508602210
+      SwordVPose_32: -7910113830138299724
+      SwordVPose_33: -3435857086208699875
+      SwordVPose_34: 4832473862574952935
+      SwordVPose_35: 5011862511152320861
+      SwordVPose_36: 514214884978106520
+      SwordVPose_37: 6046623301509694759
+      SwordVPose_38: 8403974442604573323
+      SwordVPose_39: 4919679412670455963
+      SwordVPose_4: 2031893070830273168
+      SwordVPose_40: -4707344968844624175
+      SwordVPose_41: -1997831491735582825
+      SwordVPose_42: -5844803042523921010
+      SwordVPose_43: -13266883337224455
+      SwordVPose_44: 2805071672112832684
+      SwordVPose_45: -753734292102955288
+      SwordVPose_46: -4942141420007445420
+      SwordVPose_47: 7291655834919865381
+      SwordVPose_48: -3092200592536458112
+      SwordVPose_49: -2603093594776054752
+      SwordVPose_5: 7986575637260045951
+      SwordVPose_50: -3784544869541412102
+      SwordVPose_51: -5734375525292962387
+      SwordVPose_6: -6905212773881681311
+      SwordVPose_7: 188165062608821351
+      SwordVPose_8: 6258106900772557804
+      SwordVPose_9: 1593482299031724309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

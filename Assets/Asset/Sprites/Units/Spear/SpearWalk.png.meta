@@ -1,0 +1,3057 @@
+fileFormatVersion: 2
+guid: e94208f7442fc994a82885c5d2a456df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1254791221360573268
+    second: SpearWalk_0
+  - first:
+      213: -301563108265807237
+    second: SpearWalk_1
+  - first:
+      213: -2085110980924054455
+    second: SpearWalk_2
+  - first:
+      213: -5004782293388444581
+    second: SpearWalk_3
+  - first:
+      213: -6574880047475502143
+    second: SpearWalk_4
+  - first:
+      213: -5806444664848602484
+    second: SpearWalk_5
+  - first:
+      213: 6575061830232840366
+    second: SpearWalk_6
+  - first:
+      213: 461875885688959463
+    second: SpearWalk_7
+  - first:
+      213: -2352136584320541909
+    second: SpearWalk_8
+  - first:
+      213: -8576398209231957815
+    second: SpearWalk_9
+  - first:
+      213: 982565071773624113
+    second: SpearWalk_10
+  - first:
+      213: 8525072436199744405
+    second: SpearWalk_11
+  - first:
+      213: -7646196490376693520
+    second: SpearWalk_12
+  - first:
+      213: 4988483418055769854
+    second: SpearWalk_13
+  - first:
+      213: 6021266280667950988
+    second: SpearWalk_14
+  - first:
+      213: 7509933185469552654
+    second: SpearWalk_15
+  - first:
+      213: -6024983881633723254
+    second: SpearWalk_16
+  - first:
+      213: -1083075054797528393
+    second: SpearWalk_17
+  - first:
+      213: -4001289207281052903
+    second: SpearWalk_18
+  - first:
+      213: 1307873904369344929
+    second: SpearWalk_19
+  - first:
+      213: -4224285024464106519
+    second: SpearWalk_20
+  - first:
+      213: 7557238862575224400
+    second: SpearWalk_21
+  - first:
+      213: -7525877953392220209
+    second: SpearWalk_22
+  - first:
+      213: 5642624934366641135
+    second: SpearWalk_23
+  - first:
+      213: -4726003312787354113
+    second: SpearWalk_24
+  - first:
+      213: -1288215594647534430
+    second: SpearWalk_25
+  - first:
+      213: -9034935199475098493
+    second: SpearWalk_26
+  - first:
+      213: 252153269633887528
+    second: SpearWalk_27
+  - first:
+      213: 7624802940993931474
+    second: SpearWalk_28
+  - first:
+      213: 1866512392817401548
+    second: SpearWalk_29
+  - first:
+      213: 2210418294875992158
+    second: SpearWalk_30
+  - first:
+      213: -7427406144494800741
+    second: SpearWalk_31
+  - first:
+      213: -5292002471112179694
+    second: SpearWalk_32
+  - first:
+      213: 1200026033400695485
+    second: SpearWalk_33
+  - first:
+      213: 7055404479406032786
+    second: SpearWalk_34
+  - first:
+      213: 6858454081038463630
+    second: SpearWalk_35
+  - first:
+      213: 3717698361178624344
+    second: SpearWalk_36
+  - first:
+      213: -1922340016535197558
+    second: SpearWalk_37
+  - first:
+      213: 7877502504174350912
+    second: SpearWalk_38
+  - first:
+      213: -4912322384481774997
+    second: SpearWalk_39
+  - first:
+      213: -6396980133558919948
+    second: SpearWalk_40
+  - first:
+      213: 2893082790357490503
+    second: SpearWalk_41
+  - first:
+      213: -4081028014069044028
+    second: SpearWalk_42
+  - first:
+      213: -6582075030981684702
+    second: SpearWalk_43
+  - first:
+      213: -715299537267765361
+    second: SpearWalk_44
+  - first:
+      213: -4372652438681751856
+    second: SpearWalk_45
+  - first:
+      213: 5680267803001235647
+    second: SpearWalk_46
+  - first:
+      213: 1125699266396216794
+    second: SpearWalk_47
+  - first:
+      213: -3276724479762244473
+    second: SpearWalk_48
+  - first:
+      213: -6762778492307780138
+    second: SpearWalk_49
+  - first:
+      213: -7834881185613851443
+    second: SpearWalk_50
+  - first:
+      213: -7337315378468551901
+    second: SpearWalk_51
+  - first:
+      213: -9203986160722105168
+    second: SpearWalk_52
+  - first:
+      213: -1585880290459014413
+    second: SpearWalk_53
+  - first:
+      213: -494581169738027815
+    second: SpearWalk_54
+  - first:
+      213: 4804457266813424093
+    second: SpearWalk_55
+  - first:
+      213: 1567035452112604423
+    second: SpearWalk_56
+  - first:
+      213: -4762329733078597410
+    second: SpearWalk_57
+  - first:
+      213: 1736874535020712570
+    second: SpearWalk_58
+  - first:
+      213: -8838615156343354559
+    second: SpearWalk_59
+  - first:
+      213: 1707067259810905460
+    second: SpearWalk_60
+  - first:
+      213: -1195392649588116937
+    second: SpearWalk_61
+  - first:
+      213: 6753966397324784372
+    second: SpearWalk_62
+  - first:
+      213: -178576546248961281
+    second: SpearWalk_63
+  - first:
+      213: 5931270267827920628
+    second: SpearWalk_64
+  - first:
+      213: -8583761000182515102
+    second: SpearWalk_65
+  - first:
+      213: -3070935528044347859
+    second: SpearWalk_66
+  - first:
+      213: 7368610044615670100
+    second: SpearWalk_67
+  - first:
+      213: 5883052696600595573
+    second: SpearWalk_68
+  - first:
+      213: 3255770904294076664
+    second: SpearWalk_69
+  - first:
+      213: -1236686384704460865
+    second: SpearWalk_70
+  - first:
+      213: 6781642290935885480
+    second: SpearWalk_71
+  - first:
+      213: -2009077299348497676
+    second: SpearWalk_72
+  - first:
+      213: 10573591538901647
+    second: SpearWalk_73
+  - first:
+      213: 1297167088269383453
+    second: SpearWalk_74
+  - first:
+      213: 4906903501836603590
+    second: SpearWalk_75
+  - first:
+      213: -5782763942382376165
+    second: SpearWalk_76
+  - first:
+      213: 5925208823322713856
+    second: SpearWalk_77
+  - first:
+      213: -5323962209816308063
+    second: SpearWalk_78
+  - first:
+      213: 2409052590986822859
+    second: SpearWalk_79
+  - first:
+      213: 2306762026645235495
+    second: SpearWalk_80
+  - first:
+      213: -5335576060396109921
+    second: SpearWalk_81
+  - first:
+      213: 5693510536645858132
+    second: SpearWalk_82
+  - first:
+      213: 2761999543736014151
+    second: SpearWalk_83
+  - first:
+      213: 4548574640000271877
+    second: SpearWalk_84
+  - first:
+      213: -8508921919217086721
+    second: SpearWalk_85
+  - first:
+      213: 3596730548459600624
+    second: SpearWalk_86
+  - first:
+      213: 4707151690391221496
+    second: SpearWalk_87
+  - first:
+      213: -5671676133194746386
+    second: SpearWalk_88
+  - first:
+      213: -3122879543344296338
+    second: SpearWalk_89
+  - first:
+      213: 1528629621322234607
+    second: SpearWalk_90
+  - first:
+      213: 8588923346946135706
+    second: SpearWalk_91
+  - first:
+      213: -2055210084796921627
+    second: SpearWalk_92
+  - first:
+      213: 5332858090414631781
+    second: SpearWalk_93
+  - first:
+      213: 4233338097070768499
+    second: SpearWalk_94
+  - first:
+      213: 2154283400458920733
+    second: SpearWalk_95
+  - first:
+      213: -6972069702722963341
+    second: SpearWalk_96
+  - first:
+      213: 7145136600228394152
+    second: SpearWalk_97
+  - first:
+      213: 68331071619747601
+    second: SpearWalk_98
+  - first:
+      213: -4435522556500850087
+    second: SpearWalk_99
+  - first:
+      213: 3707561737286770640
+    second: SpearWalk_100
+  - first:
+      213: 5009893235564997304
+    second: SpearWalk_101
+  - first:
+      213: -1661607548634796024
+    second: SpearWalk_102
+  - first:
+      213: -1827523455573722001
+    second: SpearWalk_103
+  - first:
+      213: 8031500010730922223
+    second: SpearWalk_104
+  - first:
+      213: -2765920779163091181
+    second: SpearWalk_105
+  - first:
+      213: -4551475141364645620
+    second: SpearWalk_106
+  - first:
+      213: -2066043729288782946
+    second: SpearWalk_107
+  - first:
+      213: -2387051932972563617
+    second: SpearWalk_108
+  - first:
+      213: -5593896699490730248
+    second: SpearWalk_109
+  - first:
+      213: 8426966422515153036
+    second: SpearWalk_110
+  - first:
+      213: -53520502612979658
+    second: SpearWalk_111
+  - first:
+      213: 8939675894062563794
+    second: SpearWalk_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpearWalk_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5043
+        width: 110
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bb978b7f9e96110800000000000000
+      internalID: 1254791221360573268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5043
+        width: 105
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72347663f1a0dbf0800000000000000
+      internalID: -301563108265807237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_2
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 5043
+        width: 103
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94461c83c923013e0800000000000000
+      internalID: -2085110980924054455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_3
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 5043
+        width: 100
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cba6845017b8ab0800000000000000
+      internalID: -5004782293388444581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 5043
+        width: 95
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35b699e6551c4a0800000000000000
+      internalID: -6574880047475502143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_5
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 5043
+        width: 92
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aacb7575d5b6fa0800000000000000
+      internalID: -5806444664848602484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_6
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 5043
+        width: 92
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8124ff5ef4f3b50800000000000000
+      internalID: 6575061830232840366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_7
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 5043
+        width: 97
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e13fc0cba9e86600800000000000000
+      internalID: 461875885688959463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4682
+        width: 100
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b9f5c1d388b5fd0800000000000000
+      internalID: -2352136584320541909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4682
+        width: 101
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0de66b4438af880800000000000000
+      internalID: -8576398209231957815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_10
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 4682
+        width: 103
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e5c71ab5c2ad00800000000000000
+      internalID: 982565071773624113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_11
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 4682
+        width: 105
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e82486342f4670800000000000000
+      internalID: 8525072436199744405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_12
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 4682
+        width: 108
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83244adc043e590800000000000000
+      internalID: -7646196490376693520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_13
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 4682
+        width: 118
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef3251d37aa3540800000000000000
+      internalID: 4988483418055769854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_14
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 4682
+        width: 127
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f204db7c5df8350800000000000000
+      internalID: 6021266280667950988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_15
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 4682
+        width: 135
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0894de5174a83860800000000000000
+      internalID: 7509933185469552654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4322
+        width: 142
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c84c5d415f26ca0800000000000000
+      internalID: -6024983881633723254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_17
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 4322
+        width: 152
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e4bdd9f428f0f0800000000000000
+      internalID: -1083075054797528393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4322
+        width: 161
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913986c6aa09878c0800000000000000
+      internalID: -4001289207281052903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_19
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4323
+        width: 169
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a120f8f260862210800000000000000
+      internalID: 1307873904369344929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_20
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4326
+        width: 181
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb80d6c6235065c0800000000000000
+      internalID: -4224285024464106519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_21
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 4328
+        width: 184
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056c29e94b4b0e860800000000000000
+      internalID: 7557238862575224400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_22
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 4328
+        width: 185
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ec1d00e5be8790800000000000000
+      internalID: -7525877953392220209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_23
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 4328
+        width: 184
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7fad5b71ae4e40800000000000000
+      internalID: 5642624934366641135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3970
+        width: 184
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd8df5c60dd96eb0800000000000000
+      internalID: -4726003312787354113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_25
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3970
+        width: 185
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a44aeeedb65f1ee0800000000000000
+      internalID: -1288215594647534430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_26
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3970
+        width: 184
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c1d922e467d9280800000000000000
+      internalID: -9034935199475098493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_27
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 3970
+        width: 181
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d2b711014df7300800000000000000
+      internalID: 252153269633887528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_28
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 3970
+        width: 182
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80c4c70edb0d960800000000000000
+      internalID: 7624802940993931474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_29
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 3967
+        width: 182
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccedebec12f27e910800000000000000
+      internalID: 1866512392817401548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_30
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 3965
+        width: 179
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50bb175abbfcae10800000000000000
+      internalID: 2210418294875992158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_31
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 3964
+        width: 174
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9075d2b67d8ce890800000000000000
+      internalID: -7427406144494800741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3603
+        width: 168
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108ede6ac70f86b0800000000000000
+      internalID: -5292002471112179694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_33
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3603
+        width: 163
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac112c15957a010800000000000000
+      internalID: 1200026033400695485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_34
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3606
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29742bd2ef4d9e160800000000000000
+      internalID: 7055404479406032786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_35
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3606
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8230a826af1e2f50800000000000000
+      internalID: 6858454081038463630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_36
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 3606
+        width: 160
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8519a1856fae79330800000000000000
+      internalID: 3717698361178624344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_37
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3606
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88a6e0a0f97255e0800000000000000
+      internalID: -1922340016535197558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_38
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 3606
+        width: 160
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042ff8e6ac2825d60800000000000000
+      internalID: 7877502504174350912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_39
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3606
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6293c261dce3dbb0800000000000000
+      internalID: -4912322384481774997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3247
+        width: 160
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc5dff067c5937a0800000000000000
+      internalID: -6396980133558919948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_41
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3250
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bdd09387b462820800000000000000
+      internalID: 2893082790357490503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_42
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3250
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2ff6b4a64d57c0800000000000000
+      internalID: -4081028014069044028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_43
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3250
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2225e55f1a5c7a4a0800000000000000
+      internalID: -6582075030981684702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_44
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 3250
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f47255cdeb216f0800000000000000
+      internalID: -715299537267765361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_45
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3250
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dee02a36c73153c0800000000000000
+      internalID: -4372652438681751856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_46
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 3250
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82af2b87d54de40800000000000000
+      internalID: 5680267803001235647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_47
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3250
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addd671c4894f9f00800000000000000
+      internalID: 1125699266396216794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2889
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd1fc427cb682d0800000000000000
+      internalID: -3276724479762244473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_49
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2889
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc75fbac8c522a0800000000000000
+      internalID: -6762778492307780138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_50
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2889
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4581a9219e44390800000000000000
+      internalID: -7834881185613851443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_51
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 2889
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230f5db98e9c2a90800000000000000
+      internalID: -7337315378468551901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_52
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 2889
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2c840a5fd44080800000000000000
+      internalID: -9203986160722105168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_53
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2886
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faa5e63742ddf9e0800000000000000
+      internalID: -1585880290459014413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_54
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 2886
+        width: 160
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcea29eb05e229f0800000000000000
+      internalID: -494581169738027815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_55
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2886
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd155f6dd6cdca240800000000000000
+      internalID: 4804457266813424093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2525
+        width: 160
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d8d91f07a3fb510800000000000000
+      internalID: 1567035452112604423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_57
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2522
+        width: 161
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c194f65ec8edb0800000000000000
+      internalID: -4762329733078597410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_58
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2522
+        width: 161
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72d45fef2e9a1810800000000000000
+      internalID: 1736874535020712570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_59
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 2522
+        width: 161
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b45c3285ee65580800000000000000
+      internalID: -8838615156343354559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_60
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 2525
+        width: 160
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d7abcd0a8b0b710800000000000000
+      internalID: 1707067259810905460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_61
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2525
+        width: 161
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ff2af7bc196fe0800000000000000
+      internalID: -1195392649588116937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_62
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 2527
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2f77187a8eabd50800000000000000
+      internalID: 6753966397324784372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_63
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2528
+        width: 161
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff25d9bc391958df0800000000000000
+      internalID: -178576546248961281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2169
+        width: 164
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe18b422ea105250800000000000000
+      internalID: 5931270267827920628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_65
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2169
+        width: 166
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af44b59da50e880800000000000000
+      internalID: -8583761000182515102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_66
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2169
+        width: 171
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e3ac26868d165d0800000000000000
+      internalID: -3070935528044347859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_67
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2169
+        width: 176
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45931b58bcf824660800000000000000
+      internalID: 7368610044615670100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_68
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2169
+        width: 181
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c48cff14dc4a150800000000000000
+      internalID: 5883052696600595573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_69
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2169
+        width: 184
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0308c3362de2d20800000000000000
+      internalID: 3255770904294076664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_70
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2169
+        width: 185
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e02d094866dee0800000000000000
+      internalID: -1236686384704460865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_71
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 2169
+        width: 184
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeeff0abbb3d1e50800000000000000
+      internalID: 6781642290935885480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1808
+        width: 184
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa180e37d25e14e0800000000000000
+      internalID: -2009077299348497676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_73
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1808
+        width: 185
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822daf10a0952000800000000000000
+      internalID: 10573591538901647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_74
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1808
+        width: 184
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17df961896700210800000000000000
+      internalID: 1297167088269383453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_75
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1808
+        width: 181
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0571eacb2d81440800000000000000
+      internalID: 4906903501836603590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_76
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1808
+        width: 182
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6c5235de7fbfa0800000000000000
+      internalID: -5782763942382376165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_77
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1808
+        width: 182
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f192e18029a3250800000000000000
+      internalID: 5925208823322713856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_78
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 1807
+        width: 180
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a69b46e39c7d16b0800000000000000
+      internalID: -5323962209816308063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_79
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 1805
+        width: 179
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4010b519cae6120800000000000000
+      internalID: 2409052590986822859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1444
+        width: 174
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ac8b67d3430020800000000000000
+      internalID: 2306762026645235495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_81
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1444
+        width: 169
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ff20897d934f5b0800000000000000
+      internalID: -5335576060396109921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_82
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1444
+        width: 166
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45358b5eaa9630f40800000000000000
+      internalID: 5693510536645858132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_83
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1444
+        width: 161
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7451d2a83f7945620800000000000000
+      internalID: 2761999543736014151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_84
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1444
+        width: 160
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50601932988cf1f30800000000000000
+      internalID: 4548574640000271877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_85
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1446
+        width: 161
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec78fb89c3ae980800000000000000
+      internalID: -8508921919217086721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_86
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 1446
+        width: 160
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fafab5a0672ae130800000000000000
+      internalID: 3596730548459600624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_87
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1446
+        width: 161
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f5a9d589235140800000000000000
+      internalID: 4707151690391221496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1088
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bddf4b982a41b0800000000000000
+      internalID: -5671676133194746386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_89
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1088
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e01aed99d49a4d0800000000000000
+      internalID: -3122879543344296338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_90
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1088
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea3d04aa88c63510800000000000000
+      internalID: 1528629621322234607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_91
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1088
+        width: 161
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9698c9274cf13770800000000000000
+      internalID: 8588923346946135706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_92
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1088
+        width: 160
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e801ec115d6a73e0800000000000000
+      internalID: -2055210084796921627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_93
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1090
+        width: 161
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6bb4bd2e120a40800000000000000
+      internalID: 5332858090414631781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_94
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 1090
+        width: 160
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3710802f196dfba30800000000000000
+      internalID: 4233338097070768499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_95
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1090
+        width: 161
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13efddb65d85ed10800000000000000
+      internalID: 2154283400458920733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_96
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 729
+        width: 160
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3783fe38b8b3e3f90800000000000000
+      internalID: -6972069702722963341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_97
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 729
+        width: 161
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a47140a1ef982360800000000000000
+      internalID: 7145136600228394152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_98
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 729
+        width: 160
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f44036fb2c2f000800000000000000
+      internalID: 68331071619747601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_99
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 729
+        width: 161
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac88a3cbbd172c0800000000000000
+      internalID: -4435522556500850087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_100
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 729
+        width: 160
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfdecda1c7e37330800000000000000
+      internalID: 3707561737286770640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_101
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 728
+        width: 161
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baeb7caa57b68540800000000000000
+      internalID: 5009893235564997304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_102
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 726
+        width: 160
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800f383fcb8c0f8e0800000000000000
+      internalID: -1661607548634796024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_103
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 726
+        width: 161
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c75db891553a6e0800000000000000
+      internalID: -1827523455573722001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_104
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 365
+        width: 160
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0a92105be957f60800000000000000
+      internalID: 8031500010730922223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_105
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 363
+        width: 161
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbc11b4b97d99d0800000000000000
+      internalID: -2765920779163091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_106
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 363
+        width: 161
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0180f24979e5d0c0800000000000000
+      internalID: -4551475141364645620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_107
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 363
+        width: 161
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b9151bc20f353e0800000000000000
+      internalID: -2066043729288782946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_108
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 363
+        width: 160
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53c2c20aec7fded0800000000000000
+      internalID: -2387051932972563617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_109
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 363
+        width: 161
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feff9ce69c7e52b0800000000000000
+      internalID: -5593896699490730248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_110
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 363
+        width: 161
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88f824305992f470800000000000000
+      internalID: 8426966422515153036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_111
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 365
+        width: 161
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6309d8de26bd14ff0800000000000000
+      internalID: -53520502612979658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearWalk_112
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 9
+        width: 160
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c8b87cdb101c70800000000000000
+      internalID: 8939675894062563794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06bf60ea3364ec64c8d3a098abea8f06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SpearWalk_0: 1254791221360573268
+      SpearWalk_1: -301563108265807237
+      SpearWalk_10: 982565071773624113
+      SpearWalk_100: 3707561737286770640
+      SpearWalk_101: 5009893235564997304
+      SpearWalk_102: -1661607548634796024
+      SpearWalk_103: -1827523455573722001
+      SpearWalk_104: 8031500010730922223
+      SpearWalk_105: -2765920779163091181
+      SpearWalk_106: -4551475141364645620
+      SpearWalk_107: -2066043729288782946
+      SpearWalk_108: -2387051932972563617
+      SpearWalk_109: -5593896699490730248
+      SpearWalk_11: 8525072436199744405
+      SpearWalk_110: 8426966422515153036
+      SpearWalk_111: -53520502612979658
+      SpearWalk_112: 8939675894062563794
+      SpearWalk_12: -7646196490376693520
+      SpearWalk_13: 4988483418055769854
+      SpearWalk_14: 6021266280667950988
+      SpearWalk_15: 7509933185469552654
+      SpearWalk_16: -6024983881633723254
+      SpearWalk_17: -1083075054797528393
+      SpearWalk_18: -4001289207281052903
+      SpearWalk_19: 1307873904369344929
+      SpearWalk_2: -2085110980924054455
+      SpearWalk_20: -4224285024464106519
+      SpearWalk_21: 7557238862575224400
+      SpearWalk_22: -7525877953392220209
+      SpearWalk_23: 5642624934366641135
+      SpearWalk_24: -4726003312787354113
+      SpearWalk_25: -1288215594647534430
+      SpearWalk_26: -9034935199475098493
+      SpearWalk_27: 252153269633887528
+      SpearWalk_28: 7624802940993931474
+      SpearWalk_29: 1866512392817401548
+      SpearWalk_3: -5004782293388444581
+      SpearWalk_30: 2210418294875992158
+      SpearWalk_31: -7427406144494800741
+      SpearWalk_32: -5292002471112179694
+      SpearWalk_33: 1200026033400695485
+      SpearWalk_34: 7055404479406032786
+      SpearWalk_35: 6858454081038463630
+      SpearWalk_36: 3717698361178624344
+      SpearWalk_37: -1922340016535197558
+      SpearWalk_38: 7877502504174350912
+      SpearWalk_39: -4912322384481774997
+      SpearWalk_4: -6574880047475502143
+      SpearWalk_40: -6396980133558919948
+      SpearWalk_41: 2893082790357490503
+      SpearWalk_42: -4081028014069044028
+      SpearWalk_43: -6582075030981684702
+      SpearWalk_44: -715299537267765361
+      SpearWalk_45: -4372652438681751856
+      SpearWalk_46: 5680267803001235647
+      SpearWalk_47: 1125699266396216794
+      SpearWalk_48: -3276724479762244473
+      SpearWalk_49: -6762778492307780138
+      SpearWalk_5: -5806444664848602484
+      SpearWalk_50: -7834881185613851443
+      SpearWalk_51: -7337315378468551901
+      SpearWalk_52: -9203986160722105168
+      SpearWalk_53: -1585880290459014413
+      SpearWalk_54: -494581169738027815
+      SpearWalk_55: 4804457266813424093
+      SpearWalk_56: 1567035452112604423
+      SpearWalk_57: -4762329733078597410
+      SpearWalk_58: 1736874535020712570
+      SpearWalk_59: -8838615156343354559
+      SpearWalk_6: 6575061830232840366
+      SpearWalk_60: 1707067259810905460
+      SpearWalk_61: -1195392649588116937
+      SpearWalk_62: 6753966397324784372
+      SpearWalk_63: -178576546248961281
+      SpearWalk_64: 5931270267827920628
+      SpearWalk_65: -8583761000182515102
+      SpearWalk_66: -3070935528044347859
+      SpearWalk_67: 7368610044615670100
+      SpearWalk_68: 5883052696600595573
+      SpearWalk_69: 3255770904294076664
+      SpearWalk_7: 461875885688959463
+      SpearWalk_70: -1236686384704460865
+      SpearWalk_71: 6781642290935885480
+      SpearWalk_72: -2009077299348497676
+      SpearWalk_73: 10573591538901647
+      SpearWalk_74: 1297167088269383453
+      SpearWalk_75: 4906903501836603590
+      SpearWalk_76: -5782763942382376165
+      SpearWalk_77: 5925208823322713856
+      SpearWalk_78: -5323962209816308063
+      SpearWalk_79: 2409052590986822859
+      SpearWalk_8: -2352136584320541909
+      SpearWalk_80: 2306762026645235495
+      SpearWalk_81: -5335576060396109921
+      SpearWalk_82: 5693510536645858132
+      SpearWalk_83: 2761999543736014151
+      SpearWalk_84: 4548574640000271877
+      SpearWalk_85: -8508921919217086721
+      SpearWalk_86: 3596730548459600624
+      SpearWalk_87: 4707151690391221496
+      SpearWalk_88: -5671676133194746386
+      SpearWalk_89: -3122879543344296338
+      SpearWalk_9: -8576398209231957815
+      SpearWalk_90: 1528629621322234607
+      SpearWalk_91: 8588923346946135706
+      SpearWalk_92: -2055210084796921627
+      SpearWalk_93: 5332858090414631781
+      SpearWalk_94: 4233338097070768499
+      SpearWalk_95: 2154283400458920733
+      SpearWalk_96: -6972069702722963341
+      SpearWalk_97: 7145136600228394152
+      SpearWalk_98: 68331071619747601
+      SpearWalk_99: -4435522556500850087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

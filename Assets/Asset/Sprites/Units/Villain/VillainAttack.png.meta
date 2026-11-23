@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: a80194ce0e5b75a4d89f3f1133825dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9191147633139554537
+    second: VillainAttack_0
+  - first:
+      213: -2197459733642518740
+    second: VillainAttack_1
+  - first:
+      213: -5328548107785751546
+    second: VillainAttack_2
+  - first:
+      213: -453626761071457611
+    second: VillainAttack_3
+  - first:
+      213: -2303657691433943400
+    second: VillainAttack_4
+  - first:
+      213: -906071376336714698
+    second: VillainAttack_5
+  - first:
+      213: -5114303965114479330
+    second: VillainAttack_6
+  - first:
+      213: -130299382871105211
+    second: VillainAttack_7
+  - first:
+      213: -1963960757143424353
+    second: VillainAttack_8
+  - first:
+      213: -311205524901207618
+    second: VillainAttack_9
+  - first:
+      213: -5447088834313431091
+    second: VillainAttack_10
+  - first:
+      213: 4763470685884108057
+    second: VillainAttack_11
+  - first:
+      213: 548912509708920236
+    second: VillainAttack_12
+  - first:
+      213: -5924756408965257373
+    second: VillainAttack_13
+  - first:
+      213: -8181065275021099590
+    second: VillainAttack_14
+  - first:
+      213: 3295844684389025112
+    second: VillainAttack_15
+  - first:
+      213: 9066200752592777363
+    second: VillainAttack_16
+  - first:
+      213: 6732397885904911487
+    second: VillainAttack_17
+  - first:
+      213: 400536086897085607
+    second: VillainAttack_18
+  - first:
+      213: -5251756294435868843
+    second: VillainAttack_19
+  - first:
+      213: 4116060706617152912
+    second: VillainAttack_20
+  - first:
+      213: -7419881290958111406
+    second: VillainAttack_21
+  - first:
+      213: 7503256100989244062
+    second: VillainAttack_22
+  - first:
+      213: 3128019379007143915
+    second: VillainAttack_23
+  - first:
+      213: 7159384539487519253
+    second: VillainAttack_24
+  - first:
+      213: -4239779484663424495
+    second: VillainAttack_25
+  - first:
+      213: 6728450903647830934
+    second: VillainAttack_26
+  - first:
+      213: 3854705168476111262
+    second: VillainAttack_27
+  - first:
+      213: -4757269756212707829
+    second: VillainAttack_28
+  - first:
+      213: -272871274402975787
+    second: VillainAttack_29
+  - first:
+      213: -4560932679034337865
+    second: VillainAttack_30
+  - first:
+      213: 2726644942007944834
+    second: VillainAttack_31
+  - first:
+      213: -5034859222473359673
+    second: VillainAttack_32
+  - first:
+      213: 7476103240585918990
+    second: VillainAttack_33
+  - first:
+      213: 4673779779112069445
+    second: VillainAttack_34
+  - first:
+      213: -587467997419252391
+    second: VillainAttack_35
+  - first:
+      213: -464700483467516586
+    second: VillainAttack_36
+  - first:
+      213: 6535279341475653423
+    second: VillainAttack_37
+  - first:
+      213: 7735104788474459453
+    second: VillainAttack_38
+  - first:
+      213: 1848863533419127700
+    second: VillainAttack_39
+  - first:
+      213: -4438037206475500630
+    second: VillainAttack_40
+  - first:
+      213: -9160852076031117005
+    second: VillainAttack_41
+  - first:
+      213: -1754189306731070489
+    second: VillainAttack_42
+  - first:
+      213: 6135233642207131159
+    second: VillainAttack_43
+  - first:
+      213: -3617409907376113974
+    second: VillainAttack_44
+  - first:
+      213: 7099518946617009017
+    second: VillainAttack_45
+  - first:
+      213: -8601682014095363995
+    second: VillainAttack_46
+  - first:
+      213: 1442408362535500911
+    second: VillainAttack_47
+  - first:
+      213: 2026243486570542141
+    second: VillainAttack_48
+  - first:
+      213: 4915582170097043047
+    second: VillainAttack_49
+  - first:
+      213: 5460914072902356652
+    second: VillainAttack_50
+  - first:
+      213: -2961331554811639996
+    second: VillainAttack_51
+  - first:
+      213: 4195398073494531072
+    second: VillainAttack_52
+  - first:
+      213: -2490565330208337795
+    second: VillainAttack_53
+  - first:
+      213: -2676620330045999460
+    second: VillainAttack_54
+  - first:
+      213: -6090227614134141166
+    second: VillainAttack_55
+  - first:
+      213: 5525824565211624639
+    second: VillainAttack_56
+  - first:
+      213: 5828332704649882866
+    second: VillainAttack_57
+  - first:
+      213: -398479716678093606
+    second: VillainAttack_58
+  - first:
+      213: 5059865136837642373
+    second: VillainAttack_59
+  - first:
+      213: 6465660112104976315
+    second: VillainAttack_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillainAttack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3250
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8947753148d8f70800000000000000
+      internalID: 9191147633139554537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3250
+        width: 224
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5300d30e0181e0800000000000000
+      internalID: -2197459733642518740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 3250
+        width: 222
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604b9d25ab13d06b0800000000000000
+      internalID: -5328548107785751546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3250
+        width: 221
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba89bd3dd464b9f0800000000000000
+      internalID: -453626761071457611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 3250
+        width: 220
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ebbf1f883c700e0800000000000000
+      internalID: -2303657691433943400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 3250
+        width: 217
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6340d4042ecfc63f0800000000000000
+      internalID: -906071376336714698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2890
+        width: 215
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dcaf5f3a75609b0800000000000000
+      internalID: -5114303965114479330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_7
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2890
+        width: 215
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e381d665113ef0800000000000000
+      internalID: -130299382871105211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2890
+        width: 212
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b8adc81c9eb4e0800000000000000
+      internalID: -1963960757143424353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2890
+        width: 211
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ef1459306eabf0800000000000000
+      internalID: -311205524901207618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2890
+        width: 208
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc750caa09d0864b0800000000000000
+      internalID: -5447088834313431091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_11
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2890
+        width: 208
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dcb12d95f3b1240800000000000000
+      internalID: 4763470685884108057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2530
+        width: 208
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e7f1f4012e9700800000000000000
+      internalID: 548912509708920236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2530
+        width: 207
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36728eecf6907cda0800000000000000
+      internalID: -5924756408965257373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2530
+        width: 208
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd751e3a74077e80800000000000000
+      internalID: -8181065275021099590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2530
+        width: 208
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8550edf37413dbd20800000000000000
+      internalID: 3295844684389025112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 2529
+        width: 206
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390fba8bc8d91dd70800000000000000
+      internalID: 9066200752592777363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_17
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 2528
+        width: 207
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf3fb15384e6d50800000000000000
+      internalID: 6732397885904911487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2168
+        width: 205
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc93be27dfe8500800000000000000
+      internalID: 400536086897085607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2167
+        width: 205
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f6a37a9730e17b0800000000000000
+      internalID: -5251756294435868843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2167
+        width: 203
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095dbd3a76f2f1930800000000000000
+      internalID: 4116060706617152912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2167
+        width: 202
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dffd03749470990800000000000000
+      internalID: -7419881290958111406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_22
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 2167
+        width: 200
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e921f3e7babe02860800000000000000
+      internalID: 7503256100989244062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_23
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2168
+        width: 198
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef32406d05f86b20800000000000000
+      internalID: 3128019379007143915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1808
+        width: 198
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512c39e7e4e3b5360800000000000000
+      internalID: 7159384539487519253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1809
+        width: 194
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad5a2a5074925c0800000000000000
+      internalID: -4239779484663424495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1810
+        width: 192
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c590b272406d50800000000000000
+      internalID: 6728450903647830934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1810
+        width: 192
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9181e87de9ae7530800000000000000
+      internalID: 3854705168476111262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_28
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1808
+        width: 189
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e7b30ac58cafdb0800000000000000
+      internalID: -4757269756212707829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_29
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1807
+        width: 186
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6dcb8501963cf0800000000000000
+      internalID: -272871274402975787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1450
+        width: 183
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b500bda4ef44b0c0800000000000000
+      internalID: -4560932679034337865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_31
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1455
+        width: 184
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286cffcd02df6d520800000000000000
+      internalID: 2726644942007944834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_32
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1461
+        width: 189
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce30668636902ab0800000000000000
+      internalID: -5034859222473359673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_33
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1464
+        width: 198
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a3547894470c760800000000000000
+      internalID: 7476103240585918990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_34
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1462
+        width: 212
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e06442f99cd040800000000000000
+      internalID: 4673779779112069445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_35
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 1457
+        width: 282
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555ae808f4e8d7f0800000000000000
+      internalID: -587467997419252391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1094
+        width: 312
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65567f35f5d0d89f0800000000000000
+      internalID: -464700483467516586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_37
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1094
+        width: 301
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ea988fe9f1ba50800000000000000
+      internalID: 6535279341475653423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_38
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1094
+        width: 292
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357171a2dc985b60800000000000000
+      internalID: 7735104788474459453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_39
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1092
+        width: 278
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ee93869b78a910800000000000000
+      internalID: 1848863533419127700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_40
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1092
+        width: 260
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa39f08acace862c0800000000000000
+      internalID: -4438037206475500630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_41
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 1093
+        width: 248
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339f348b29d1ed080800000000000000
+      internalID: -9160852076031117005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 732
+        width: 238
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb718f9e1ed7a7e0800000000000000
+      internalID: -1754189306731070489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 869
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71638c1ed7ab42550800000000000000
+      internalID: 6135233642207131159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_44
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 733
+        width: 228
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63ed7ead06ccdc0800000000000000
+      internalID: -3617409907376113974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_45
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 733
+        width: 219
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9732349fdde868260800000000000000
+      internalID: 7099518946617009017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_46
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 733
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560baf628cfa0a880800000000000000
+      internalID: -8601682014095363995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_47
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 736
+        width: 196
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c3bf573c6740410800000000000000
+      internalID: 1442408362535500911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_48
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 741
+        width: 196
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d347c7d27b9ae1c10800000000000000
+      internalID: 2026243486570542141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 389
+        width: 201
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c0e890f7a73440800000000000000
+      internalID: 4915582170097043047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 399
+        width: 206
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec6488a6019cb40800000000000000
+      internalID: 5460914072902356652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_51
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 410
+        width: 210
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4470c4504ac37e6d0800000000000000
+      internalID: -2961331554811639996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_52
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 418
+        width: 213
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ceff5d15c093a30800000000000000
+      internalID: 4195398073494531072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_53
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 421
+        width: 211
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70570b170cbf6dd0800000000000000
+      internalID: -2490565330208337795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_54
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 420
+        width: 207
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96f40dbdfbbadad0800000000000000
+      internalID: -2676620330045999460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_55
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 57
+        width: 202
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f724a904a2b7ba0800000000000000
+      internalID: -6090227614134141166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_56
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 52
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4f09c3a2cafac40800000000000000
+      internalID: 5525824565211624639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_57
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 46
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca27d07b562e050800000000000000
+      internalID: 5828332704649882866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_58
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 36
+        width: 201
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad434351fc0587af0800000000000000
+      internalID: -398479716678093606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_59
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 24
+        width: 224
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588479c9880483640800000000000000
+      internalID: 5059865136837642373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainAttack_60
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 10
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfed6c8d93aab950800000000000000
+      internalID: 6465660112104976315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VillainAttack_0: 9191147633139554537
+      VillainAttack_1: -2197459733642518740
+      VillainAttack_10: -5447088834313431091
+      VillainAttack_11: 4763470685884108057
+      VillainAttack_12: 548912509708920236
+      VillainAttack_13: -5924756408965257373
+      VillainAttack_14: -8181065275021099590
+      VillainAttack_15: 3295844684389025112
+      VillainAttack_16: 9066200752592777363
+      VillainAttack_17: 6732397885904911487
+      VillainAttack_18: 400536086897085607
+      VillainAttack_19: -5251756294435868843
+      VillainAttack_2: -5328548107785751546
+      VillainAttack_20: 4116060706617152912
+      VillainAttack_21: -7419881290958111406
+      VillainAttack_22: 7503256100989244062
+      VillainAttack_23: 3128019379007143915
+      VillainAttack_24: 7159384539487519253
+      VillainAttack_25: -4239779484663424495
+      VillainAttack_26: 6728450903647830934
+      VillainAttack_27: 3854705168476111262
+      VillainAttack_28: -4757269756212707829
+      VillainAttack_29: -272871274402975787
+      VillainAttack_3: -453626761071457611
+      VillainAttack_30: -4560932679034337865
+      VillainAttack_31: 2726644942007944834
+      VillainAttack_32: -5034859222473359673
+      VillainAttack_33: 7476103240585918990
+      VillainAttack_34: 4673779779112069445
+      VillainAttack_35: -587467997419252391
+      VillainAttack_36: -464700483467516586
+      VillainAttack_37: 6535279341475653423
+      VillainAttack_38: 7735104788474459453
+      VillainAttack_39: 1848863533419127700
+      VillainAttack_4: -2303657691433943400
+      VillainAttack_40: -4438037206475500630
+      VillainAttack_41: -9160852076031117005
+      VillainAttack_42: -1754189306731070489
+      VillainAttack_43: 6135233642207131159
+      VillainAttack_44: -3617409907376113974
+      VillainAttack_45: 7099518946617009017
+      VillainAttack_46: -8601682014095363995
+      VillainAttack_47: 1442408362535500911
+      VillainAttack_48: 2026243486570542141
+      VillainAttack_49: 4915582170097043047
+      VillainAttack_5: -906071376336714698
+      VillainAttack_50: 5460914072902356652
+      VillainAttack_51: -2961331554811639996
+      VillainAttack_52: 4195398073494531072
+      VillainAttack_53: -2490565330208337795
+      VillainAttack_54: -2676620330045999460
+      VillainAttack_55: -6090227614134141166
+      VillainAttack_56: 5525824565211624639
+      VillainAttack_57: 5828332704649882866
+      VillainAttack_58: -398479716678093606
+      VillainAttack_59: 5059865136837642373
+      VillainAttack_6: -5114303965114479330
+      VillainAttack_60: 6465660112104976315
+      VillainAttack_7: -130299382871105211
+      VillainAttack_8: -1963960757143424353
+      VillainAttack_9: -311205524901207618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

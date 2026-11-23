@@ -1,11 +1,16 @@
-using System.Data;
-using System.Runtime.CompilerServices;
+using UnityEngine;
+using UnityEngine.Tilemaps;
 
+public class Combat
+{
+public Tilemap forestTilemap;
+ public Tilemap mountainTilemap;
 void InitiateCombat(Unit attacker, 
 Unit defender, 
 Vector3Int combatAtkCell,
 Vector3Int combatDefCell)
 {
+	
 //Terrain bonuses for attacker, and Defender- in alternating Parts.
 	int TABonus = 0;
 	int TDBonus = 0;
@@ -16,22 +21,22 @@ int TDABonus = 0;
 //Weapon Effectiveness by Attacker
 int EA = 0;
 int ED = 0;
-if ((attacker.weapon == "Sword" && defender.weapon == "Mace") || 
-(attacker.weapon == "Mace" && defender.weapon == "Spear") || 
-(attacker.weapon == "Spear" && defender.weapon == "Sword"))
+if ((attacker.equippedWeapon.type == "Sword" && defender.equippedWeapon.type == "Mace") || 
+(attacker.equippedWeapon.type == "Mace" && defender.equippedWeapon.type == "Spear") || 
+(attacker.equippedWeapon.type == "Spear" && defender.equippedWeapon.type == "Sword"))
 	{
 EA = 1;
 ED = -1;
 }
 //Weapon Effectiveness by Defender
-if ((defender.weapon == "Sword" && attacker.weapon == "Mace") || 
-(defender.weapon == "Mace" && attacker.weapon == "Spear") || 
-(defender.weapon == "Spear" && attacker.weapon == "Sword"))
+if ((attacker.equippedWeapon.type == "Sword" && attacker.equippedWeapon.type == "Mace") || 
+(defender.equippedWeapon.type == "Mace" && attacker.equippedWeapon.type == "Spear") || 
+(defender.equippedWeapon.type == "Spear" && attacker.equippedWeapon.type == "Sword"))
+
 	{
 ED = 1;
 EA = -1;
 }
-//Calculate attack combat stats
 int AAtk = CalcAttack(attacker, EA);
 int AHit = CalcHit(attacker, EA);
 int DAtk =  CalcAttack(attacker, ED);
@@ -39,13 +44,13 @@ int DHit = CalcHit(defender, ED);
 int AattackSpeed = CalcAttackSpeed(attacker);
 int DattackSpeed = CalcAttackSpeed(defender);
 //Calculate Terrain Def Bonuses
-if (mountainTileMap != null &&
-	mountainTileMap.hasTile(combatAtkCell))
+if (mountainTilemap != null &&
+	mountainTilemap.HasTile(combatAtkCell))
 {
 TABonus = 1;
 }
-if (forestTileMap != null &&
-	forestTileMap.hasTile(combatAtkCell))
+if (forestTilemap != null &&
+	forestTilemap.HasTile(combatAtkCell))
 {
 TABonus = 2;
 }
@@ -59,13 +64,13 @@ if (TABonus == 2)
 {
 TAABonus = 20;
 }
-if (mountainTileMap != null &&
-	mountainTileMap.hasTile(combatDefCell))
+if (mountainTilemap != null &&
+	mountainTilemap.HasTile(combatDefCell))
 {
 TDBonus = 1;
 }
-if (forestTileMap != null &&
-	forestTileMap.hasTile(combatDefCell))
+if (forestTilemap != null &&
+	forestTilemap.HasTile(combatDefCell))
 {
 TDBonus = 2;
 }
@@ -87,40 +92,40 @@ int AAvo = CalcAvo(attacker, AattackSpeed, TAABonus);
 int DAvo = CalcAvo(defender, DattackSpeed, TDABonus);
 
 //Now to fill in the actual combat part here eventually tm
-	Combat(attacker, defender, AAtk, AHit, DDef, DRes, DAvo);
-	if (defender.health > 0 && (attacker.weapon != "Bow" || attacker.weapon != "Staff"))
+	Fight(attacker, defender, AAtk, AHit, DDef, DRes, DAvo);
+	if (defender.unitStats.health > 0 /*&& (attacker.equippedWeapon.type != "Bow" || attacker.equippedWeapon.type != "Staff")*/)
 	{
-		Combat(defender, attacker, DAtk, DHit, ADef, ARes, AAvo);
-		if (AattackSpeed + 3 < Dattackspeed)
+		Fight(defender, attacker, DAtk, DHit, ADef, ARes, AAvo);
+		if (AattackSpeed + 3 < DattackSpeed)
 		{
 			//double hit, defender.
-			Combat(defender, attacker, DAtk, DHit, ADef, ARes, AAvo);
+			Fight(defender, attacker, DAtk, DHit, ADef, ARes, AAvo);
 		}
 	}
-	if (Aattackspeed > DattackSpeed+3)
+	if (AattackSpeed > DattackSpeed+3)
 	{
 		//Double Hit, attacker
-		Combat(attacker, defender, AAtk, AHit, DDef, DRes, DAvo);
+		Fight(attacker, defender, AAtk, AHit, DDef, DRes, DAvo);
 	}
 }
 
-void Combat(Unit A, Unit B, int AAtk, int AHit, int DDef, int DRes, int DAvo)
+void Fight(Unit A, Unit B, int AAtk, int AHit, int DDef, int DRes, int DAvo)
 {	float HitAttempt = Random.Range(0.0F, 100.0F);
 	float CritAttempt = Random.Range(0.0F, 100.0F);
 	int Crit = 1;
-	if ((A.weapon.crit + A.skill/2) - (B.luck) > CritAttempt)
+	if ((/*A.equippedWeapon.type.crit +*/ A.unitStats.skill/2) - (B.unitStats.luck) > CritAttempt)
 	{
 		Crit = 3;
 	}
 	if (HitAttempt < (float)(AHit-DAvo))
 	{
-		if (A.weapon == "Staff")
+		if (/*A.equippedWeapon.type == "Staff"*/ false)
 		{
-		B.health = B.health - Crit*(AAtk - DRes);		
+		B.unitStats.health = B.unitStats.health - Crit*(AAtk - DRes);		
 		}
 		else
 		{
-			B.health = B.health - Crit*(AAtk - DDef);		
+			B.unitStats.health = B.unitStats.health - Crit*(AAtk - DDef);		
 		}
 	}
 }
@@ -135,30 +140,31 @@ Vector3Int combatDefCell)
 int TDABonus = 0;
 //Weapon Effectiveness by Attacker
 int EA = 0;
-if ((attacker.weapon == "Sword" && defender.weapon == "Mace") || 
-(attacker.weapon == "Mace" && defender.weapon == "Spear") || 
-(attacker.weapon == "Spear" && defender.weapon == "Sword"))
+//Currently setting away weapon methods until I figure out how it's equipped
+/*if ((attacker.equippedWeapon.type == "Sword" && defender.equippedWeapon.type == "Mace") || 
+(attacker.equippedWeapon.type == "Mace" && defender.equippedWeapon.type == "Spear") || 
+(attacker.equippedWeapon.type == "Spear" && defender.equippedWeapon.type == "Sword"))
 	{
 EA = 1;
 }
 //Weapon Effectiveness by Defender
-if ((defender.weapon == "Sword" && attacker.weapon == "Mace") || 
-(defender.weapon == "Mace" && attacker.weapon == "Spear") || 
-(defender.weapon == "Spear" && attacker.weapon == "Sword"))
+if (defender.equippedWeapon.type == "Sword" && attacker.equippedWeapon.type == "Mace") || 
+(defender.equippedWeapon.type == "Mace" && attacker.equippedWeapon.type == "Spear") || 
+(defender.equippedWeapon.type == "Spear" && attacker.equippedWeapon.type == "Sword"))
 	{
 EA = -1;
-}
+}*/
 //Calculate attack combat stats
 int AHit = CalcHit(attacker, EA);
 int DattackSpeed = CalcAttackSpeed(defender);
 //Calculate Terrain Def Bonuses
-if (mountainTileMap != null &&
-	mountainTileMap.hasTile(combatDefCell))
+if (mountainTilemap != null &&
+	mountainTilemap.HasTile(combatDefCell))
 {
 TDBonus = 1;
 }
-if (forestTileMap != null &&
-	forestTileMap.hasTile(combatDefCell))
+if (forestTilemap != null &&
+	forestTilemap.HasTile(combatDefCell))
 {
 TDBonus = 2;
 }
@@ -181,28 +187,32 @@ int CalcAttack(Unit unit, int E)
 	{
 	Mult = 3;
 	}
-	return unit.attack + (Mult)*(unit.weapon.might+E);
+	//Currently setting away weapon methods until I figure out how it's equipped
+	return unit.unitStats.attack + (Mult)/**(unit.equippedWeapon.type.might+E)*/;
 }
 
 int CalcHit(Unit unit, int E)
 {
-	return unit.weapon.hit + 2 * unit.skill + (unit.luck / 2) + (E * 10);
+	//Currently setting away weapon methods until I figure out how it's equipped
+	return /*unit.equippedWeapon.type.hit + 2 * */unit.unitStats.skill + (unit.unitStats.luck / 2) + (E * 10);
 }
 
 int CalcAttackSpeed(Unit unit)
 {
-	if (unit.constitution > unit.weapon.weight)
+	//Currently setting away weapon methods until I figure out how it's equipped
+	if (unit.unitStats.constitution > /*unit.equippedWeapon.type.weight*/ 0)
 	{
-		if (unit.speed > 0)
-{
-			return unit.speed;
+		if (unit.unitStats.speed > 0)
+		{
+			return unit.unitStats.speed;
 		}
 	}
 	else
 	{
-		if (unit.speed > 0)
-{
-			return unit.speed + unit.constitution - unit.weapon.weight;
+		if (unit.unitStats.speed > 0)
+		{
+		//Currently setting away weapon methods until I figure out how it's equipped
+			return unit.unitStats.speed + unit.unitStats.constitution /*- unit.equippedWeapon.type.weight*/;
 		}
 	}
 return 0;
@@ -210,15 +220,16 @@ return 0;
 
 int CalcDef(Unit unit, int terrainBonus)
 {
-	return unit.defense + terrainBonus;
+	return unit.unitStats.defense + terrainBonus;
 }
 
 int CalcRes(Unit unit)
 {
-	return unit.resistance;
+	return unit.unitStats.resistance;
 }
 
 int CalcAvo(Unit unit, int AS, int terrainBonus)
 {
-return AS * 2 + unit.luck + terrainBonus;
+return AS * 2 + unit.unitStats.luck + terrainBonus;
+}
 }

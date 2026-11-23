@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: 6f5608c5cc81b4b4d9073d65770bf110
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2607546910121660993
+    second: VillainCritAttack_0
+  - first:
+      213: -1829214374530513390
+    second: VillainCritAttack_1
+  - first:
+      213: -2730169299158777209
+    second: VillainCritAttack_2
+  - first:
+      213: 1928933720019619150
+    second: VillainCritAttack_3
+  - first:
+      213: -7383206527965504967
+    second: VillainCritAttack_4
+  - first:
+      213: 7624181969705020452
+    second: VillainCritAttack_5
+  - first:
+      213: -2445731489300849735
+    second: VillainCritAttack_6
+  - first:
+      213: 7876553680890226734
+    second: VillainCritAttack_7
+  - first:
+      213: -2791635525095219401
+    second: VillainCritAttack_8
+  - first:
+      213: -1719481431587479935
+    second: VillainCritAttack_9
+  - first:
+      213: -2331591366250086839
+    second: VillainCritAttack_10
+  - first:
+      213: -8470028278471056138
+    second: VillainCritAttack_11
+  - first:
+      213: -3951797417420063448
+    second: VillainCritAttack_12
+  - first:
+      213: 8354331983449747355
+    second: VillainCritAttack_13
+  - first:
+      213: -6278541140843816636
+    second: VillainCritAttack_14
+  - first:
+      213: 5551222392776644656
+    second: VillainCritAttack_15
+  - first:
+      213: -5485692130218712425
+    second: VillainCritAttack_16
+  - first:
+      213: -2730210159480688779
+    second: VillainCritAttack_17
+  - first:
+      213: -7778634193994107220
+    second: VillainCritAttack_18
+  - first:
+      213: -6817053040276614328
+    second: VillainCritAttack_19
+  - first:
+      213: -656194361869331486
+    second: VillainCritAttack_20
+  - first:
+      213: -6651426339986912960
+    second: VillainCritAttack_21
+  - first:
+      213: -6909560777394065266
+    second: VillainCritAttack_22
+  - first:
+      213: 6288677563783630421
+    second: VillainCritAttack_23
+  - first:
+      213: -8075612708667307809
+    second: VillainCritAttack_24
+  - first:
+      213: 2675539332931197485
+    second: VillainCritAttack_25
+  - first:
+      213: 3366959877621856271
+    second: VillainCritAttack_26
+  - first:
+      213: 3819283188677444637
+    second: VillainCritAttack_27
+  - first:
+      213: -6932676550979247454
+    second: VillainCritAttack_28
+  - first:
+      213: -3640114406151375834
+    second: VillainCritAttack_29
+  - first:
+      213: 2767755403597951037
+    second: VillainCritAttack_30
+  - first:
+      213: -8631721807874575008
+    second: VillainCritAttack_31
+  - first:
+      213: 4653895545189444926
+    second: VillainCritAttack_32
+  - first:
+      213: 1601146745694328119
+    second: VillainCritAttack_33
+  - first:
+      213: 5832128102220414694
+    second: VillainCritAttack_34
+  - first:
+      213: -8697644976024033600
+    second: VillainCritAttack_35
+  - first:
+      213: -3979934103228976503
+    second: VillainCritAttack_36
+  - first:
+      213: 4626128501166280280
+    second: VillainCritAttack_37
+  - first:
+      213: -5745372812786112972
+    second: VillainCritAttack_38
+  - first:
+      213: 4174326732047931546
+    second: VillainCritAttack_39
+  - first:
+      213: 1465092405398741341
+    second: VillainCritAttack_40
+  - first:
+      213: 5894660053776786395
+    second: VillainCritAttack_41
+  - first:
+      213: -2618295574331364426
+    second: VillainCritAttack_42
+  - first:
+      213: 7672026402810323700
+    second: VillainCritAttack_43
+  - first:
+      213: 6044959806348240347
+    second: VillainCritAttack_44
+  - first:
+      213: -1202955373978004062
+    second: VillainCritAttack_45
+  - first:
+      213: -8819547748073979143
+    second: VillainCritAttack_46
+  - first:
+      213: -7048715701225653787
+    second: VillainCritAttack_47
+  - first:
+      213: -2834834080802223900
+    second: VillainCritAttack_48
+  - first:
+      213: -9009644207644170050
+    second: VillainCritAttack_49
+  - first:
+      213: 2877159837774372497
+    second: VillainCritAttack_50
+  - first:
+      213: -2012902301663606685
+    second: VillainCritAttack_51
+  - first:
+      213: -4831026914215010189
+    second: VillainCritAttack_52
+  - first:
+      213: 363659639258145159
+    second: VillainCritAttack_53
+  - first:
+      213: -2468298248133587997
+    second: VillainCritAttack_54
+  - first:
+      213: 2165359874871859255
+    second: VillainCritAttack_55
+  - first:
+      213: -4734754938039505909
+    second: VillainCritAttack_56
+  - first:
+      213: 3282682509044451225
+    second: VillainCritAttack_57
+  - first:
+      213: 1608330076964167298
+    second: VillainCritAttack_58
+  - first:
+      213: -5261270419194819926
+    second: VillainCritAttack_59
+  - first:
+      213: 8900671076425577797
+    second: VillainCritAttack_60
+  - first:
+      213: 3699182457730274884
+    second: VillainCritAttack_61
+  - first:
+      213: -1293784481437590451
+    second: VillainCritAttack_62
+  - first:
+      213: 3487480836884154513
+    second: VillainCritAttack_63
+  - first:
+      213: -3677796147490972614
+    second: VillainCritAttack_64
+  - first:
+      213: -4351802099482544892
+    second: VillainCritAttack_65
+  - first:
+      213: 5495703483458276746
+    second: VillainCritAttack_66
+  - first:
+      213: -1634346165728749793
+    second: VillainCritAttack_67
+  - first:
+      213: 7518617856621304845
+    second: VillainCritAttack_68
+  - first:
+      213: 7747235545393877275
+    second: VillainCritAttack_69
+  - first:
+      213: 4712751952263728759
+    second: VillainCritAttack_70
+  - first:
+      213: -4639657633886339616
+    second: VillainCritAttack_71
+  - first:
+      213: 933403892369197895
+    second: VillainCritAttack_72
+  - first:
+      213: 1086323874987157567
+    second: VillainCritAttack_73
+  - first:
+      213: 7697663879098582895
+    second: VillainCritAttack_74
+  - first:
+      213: -6912671384530061997
+    second: VillainCritAttack_75
+  - first:
+      213: 7911096392539088044
+    second: VillainCritAttack_76
+  - first:
+      213: 7365525448175995166
+    second: VillainCritAttack_77
+  - first:
+      213: -5335831890461847439
+    second: VillainCritAttack_78
+  - first:
+      213: -8796837082490052487
+    second: VillainCritAttack_79
+  - first:
+      213: 5603766762266259266
+    second: VillainCritAttack_80
+  - first:
+      213: 7772599715555768783
+    second: VillainCritAttack_81
+  - first:
+      213: -1303126830680782012
+    second: VillainCritAttack_82
+  - first:
+      213: 5895843318725264129
+    second: VillainCritAttack_83
+  - first:
+      213: -2771321411119314754
+    second: VillainCritAttack_84
+  - first:
+      213: 1189864801933357589
+    second: VillainCritAttack_85
+  - first:
+      213: -2108935569567632289
+    second: VillainCritAttack_86
+  - first:
+      213: 4584888308990601492
+    second: VillainCritAttack_87
+  - first:
+      213: 4122935866609286994
+    second: VillainCritAttack_88
+  - first:
+      213: -1866525834077901339
+    second: VillainCritAttack_89
+  - first:
+      213: -883921461227908472
+    second: VillainCritAttack_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillainCritAttack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4690
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbde70f86e120dbd0800000000000000
+      internalID: -2607546910121660993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 4690
+        width: 234
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216021cc7335d96e0800000000000000
+      internalID: -1829214374530513390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4690
+        width: 241
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c6facc7d7c1ad0800000000000000
+      internalID: -2730169299158777209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 4690
+        width: 249
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dca099ff2f4ca10800000000000000
+      internalID: 1928933720019619150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 4691
+        width: 256
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a554dd7c4998990800000000000000
+      internalID: -7383206527965504967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 4691
+        width: 260
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ca4375b198ec960800000000000000
+      internalID: 7624181969705020452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 4691
+        width: 264
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb5c342b240f0ed0800000000000000
+      internalID: -2445731489300849735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4332
+        width: 267
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28e1cb47d32f4d60800000000000000
+      internalID: 7876553680890226734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4332
+        width: 268
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9658d74e1249d0800000000000000
+      internalID: -2791635525095219401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 4332
+        width: 270
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e19588fbc2328e0800000000000000
+      internalID: -1719481431587479935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4332
+        width: 270
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ebb45710684afd0800000000000000
+      internalID: -2331591366250086839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 4332
+        width: 268
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f42838282a647a80800000000000000
+      internalID: -8470028278471056138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_12
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 4333
+        width: 265
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dfe56bf256829c0800000000000000
+      internalID: -3951797417420063448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 4333
+        width: 262
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fe4310dac80f370800000000000000
+      internalID: 8354331983449747355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3973
+        width: 258
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4491458f8142ed8a0800000000000000
+      internalID: -6278541140843816636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3973
+        width: 252
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03855a6ca57e90d40800000000000000
+      internalID: 5551222392776644656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 3973
+        width: 243
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792682f6218eed3b0800000000000000
+      internalID: -5485692130218712425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 3973
+        width: 235
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fadf143585c1ad0800000000000000
+      internalID: -2730210159480688779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3973
+        width: 219
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6364dd96dbc0490800000000000000
+      internalID: -7778634193994107220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_19
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3973
+        width: 204
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d05fc066f461a0800000000000000
+      internalID: -6817053040276614328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_20
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 3973
+        width: 186
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31a2d54bab4e6f0800000000000000
+      internalID: -656194361869331486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3613
+        width: 171
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049476b0cf261b3a0800000000000000
+      internalID: -6651426339986912960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_22
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3613
+        width: 159
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e807475d41f4c10a0800000000000000
+      internalID: -6909560777394065266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3613
+        width: 152
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eca48eceed54750800000000000000
+      internalID: 6288677563783630421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_24
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3613
+        width: 152
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd841442709adef80800000000000000
+      internalID: -8075612708667307809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_25
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3613
+        width: 151
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a13f109dc612520800000000000000
+      internalID: 2675539332931197485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_26
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3613
+        width: 151
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b4a67b28d9be20800000000000000
+      internalID: 3366959877621856271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_27
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 3613
+        width: 150
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148dbd13d1d00530800000000000000
+      internalID: 3819283188677444637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3253
+        width: 149
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2a334686f2acf90800000000000000
+      internalID: -6932676550979247454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3253
+        width: 149
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624b097db37bb7dc0800000000000000
+      internalID: -3640114406151375834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_30
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 3253
+        width: 148
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30bf9810ea096620800000000000000
+      internalID: 2767755403597951037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_31
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3253
+        width: 148
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065b4a1afb6f53880800000000000000
+      internalID: -8631721807874575008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_32
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3252
+        width: 147
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d2ac84755f59040800000000000000
+      internalID: 4653895545189444926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_33
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 3252
+        width: 146
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73512626b7a683610800000000000000
+      internalID: 1601146745694328119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_34
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 3252
+        width: 145
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eebb69eb91efe050800000000000000
+      internalID: 5832128102220414694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2892
+        width: 144
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c660a5f9f1cb4780800000000000000
+      internalID: -8697644976024033600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_36
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2892
+        width: 144
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f29b050f64c8c0800000000000000
+      internalID: -3979934103228976503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_37
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 2892
+        width: 143
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e835d8c5f433040800000000000000
+      internalID: 4626128501166280280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_38
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2891
+        width: 142
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43662b7fdd55440b0800000000000000
+      internalID: -5745372812786112972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_39
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2891
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985228db003ee930800000000000000
+      internalID: 4174326732047931546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_40
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2891
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d512ae2c7cd055410800000000000000
+      internalID: 1465092405398741341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_41
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2891
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3ec01761a0ec150800000000000000
+      internalID: 5894660053776786395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb60072c02f9abd0800000000000000
+      internalID: -2618295574331364426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_43
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26dee7d53887a60800000000000000
+      internalID: 7672026402810323700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_44
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a6e29ae204e350800000000000000
+      internalID: 6044959806348240347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_45
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5d46df57e3e4fe0800000000000000
+      internalID: -1202955373978004062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_46
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f244741d0caa9580800000000000000
+      internalID: -8819547748073979143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_47
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9f9b95a6eed2e90800000000000000
+      internalID: -7048715701225653787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_48
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2531
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8cc905c65a8a8d0800000000000000
+      internalID: -2834834080802223900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2171
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a6ba045057f280800000000000000
+      internalID: -9009644207644170050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_50
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2171
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19edf8ce0a9bde720800000000000000
+      internalID: 2877159837774372497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_51
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2171
+        width: 141
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36846cd750cb014e0800000000000000
+      internalID: -2012902301663606685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_52
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1450
+        width: 213
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370ecdd0e9eb4fcb0800000000000000
+      internalID: -4831026914215010189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_53
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1450
+        width: 261
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781e021e38afb0500800000000000000
+      internalID: 363659639258145159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_54
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1451
+        width: 288
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb474822d7debdd0800000000000000
+      internalID: -2468298248133587997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_55
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1454
+        width: 304
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7381f986557ec0e10800000000000000
+      internalID: 2165359874871859255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_56
+      rect:
+        serializedVersion: 2
+        x: 4091
+        y: 1456
+        width: 311
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ce0ab3875ca4eb0800000000000000
+      internalID: -4734754938039505909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1097
+        width: 314
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978bfd795e6e8d20800000000000000
+      internalID: 3282682509044451225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_58
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1098
+        width: 316
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e96070fafe15610800000000000000
+      internalID: 1608330076964167298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_59
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1098
+        width: 316
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4f9cdd663cf6b0800000000000000
+      internalID: -5261270419194819926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_60
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1098
+        width: 310
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b0fcaf29858b70800000000000000
+      internalID: 8900671076425577797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_61
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1099
+        width: 289
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4469e50a8d2265330800000000000000
+      internalID: 3699182457730274884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_62
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1099
+        width: 249
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cdfff6edd8b0ee0800000000000000
+      internalID: -1293784481437590451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_63
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 1100
+        width: 223
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198467bf755066030800000000000000
+      internalID: 3487480836884154513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_64
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 862
+        width: 144
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1080c3e7d5fcc0800000000000000
+      internalID: -3677796147490972614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 740
+        width: 188
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053b8f1c0b4b93c0800000000000000
+      internalID: -4351802099482544892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_66
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 904
+        width: 156
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d48626339a44c40800000000000000
+      internalID: 5495703483458276746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_67
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 740
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1757b742d2a159e0800000000000000
+      internalID: -1634346165728749793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_68
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 739
+        width: 186
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c52d1fa1f775860800000000000000
+      internalID: 7518617856621304845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_69
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 739
+        width: 207
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b115b729ea5b38b60800000000000000
+      internalID: 7747235545393877275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_70
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 739
+        width: 228
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e453d6eee076140800000000000000
+      internalID: 4712751952263728759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_71
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 739
+        width: 308
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed76c4c6ff9c9fb0800000000000000
+      internalID: -4639657633886339616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_72
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 739
+        width: 352
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b02ac05ed14fc00800000000000000
+      internalID: 933403892369197895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 379
+        width: 374
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a2a70fc5631f00800000000000000
+      internalID: 1086323874987157567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_74
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 375
+        width: 249
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67c60a938893da60800000000000000
+      internalID: 7697663879098582895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_75
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 492
+        width: 136
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f31c20024110a0800000000000000
+      internalID: -6912671384530061997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_76
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 456
+        width: 138
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4aa25114cd9cd60800000000000000
+      internalID: 7911096392539088044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_77
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 372
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1941a2fe5a973660800000000000000
+      internalID: 7365525448175995166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_78
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 489
+        width: 140
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17012d38a2153f5b0800000000000000
+      internalID: -5335831890461847439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_79
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 454
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9706237f74b5be580800000000000000
+      internalID: -8796837082490052487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_80
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 373
+        width: 101
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f65052e2494cd40800000000000000
+      internalID: 5603766762266259266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_81
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 486
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f003a242dddb60800000000000000
+      internalID: 7772599715555768783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_82
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 452
+        width: 67
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bcdff3d0d5aede0800000000000000
+      internalID: -1303126830680782012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_83
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 376
+        width: 244
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103caf7c24e32d150800000000000000
+      internalID: 5895843318725264129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_84
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 451
+        width: 36
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88cc31cd94a89d0800000000000000
+      internalID: -2771321411119314754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_85
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 380
+        width: 240
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5127af1bbbf338010800000000000000
+      internalID: 1189864801933357589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_86
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 381
+        width: 248
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f543cb9e54e8bb2e0800000000000000
+      internalID: -2108935569567632289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 238
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419e93010abc0af30800000000000000
+      internalID: 4584888308990601492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_88
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 17
+        width: 249
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fb6f0935c973930800000000000000
+      internalID: 4122935866609286994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_89
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 13
+        width: 245
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed62b7a4a4c816e0800000000000000
+      internalID: -1866525834077901339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillainCritAttack_90
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 10
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829a2e3d1eabb3f0800000000000000
+      internalID: -883921461227908472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VillainCritAttack_0: -2607546910121660993
+      VillainCritAttack_1: -1829214374530513390
+      VillainCritAttack_10: -2331591366250086839
+      VillainCritAttack_11: -8470028278471056138
+      VillainCritAttack_12: -3951797417420063448
+      VillainCritAttack_13: 8354331983449747355
+      VillainCritAttack_14: -6278541140843816636
+      VillainCritAttack_15: 5551222392776644656
+      VillainCritAttack_16: -5485692130218712425
+      VillainCritAttack_17: -2730210159480688779
+      VillainCritAttack_18: -7778634193994107220
+      VillainCritAttack_19: -6817053040276614328
+      VillainCritAttack_2: -2730169299158777209
+      VillainCritAttack_20: -656194361869331486
+      VillainCritAttack_21: -6651426339986912960
+      VillainCritAttack_22: -6909560777394065266
+      VillainCritAttack_23: 6288677563783630421
+      VillainCritAttack_24: -8075612708667307809
+      VillainCritAttack_25: 2675539332931197485
+      VillainCritAttack_26: 3366959877621856271
+      VillainCritAttack_27: 3819283188677444637
+      VillainCritAttack_28: -6932676550979247454
+      VillainCritAttack_29: -3640114406151375834
+      VillainCritAttack_3: 1928933720019619150
+      VillainCritAttack_30: 2767755403597951037
+      VillainCritAttack_31: -8631721807874575008
+      VillainCritAttack_32: 4653895545189444926
+      VillainCritAttack_33: 1601146745694328119
+      VillainCritAttack_34: 5832128102220414694
+      VillainCritAttack_35: -8697644976024033600
+      VillainCritAttack_36: -3979934103228976503
+      VillainCritAttack_37: 4626128501166280280
+      VillainCritAttack_38: -5745372812786112972
+      VillainCritAttack_39: 4174326732047931546
+      VillainCritAttack_4: -7383206527965504967
+      VillainCritAttack_40: 1465092405398741341
+      VillainCritAttack_41: 5894660053776786395
+      VillainCritAttack_42: -2618295574331364426
+      VillainCritAttack_43: 7672026402810323700
+      VillainCritAttack_44: 6044959806348240347
+      VillainCritAttack_45: -1202955373978004062
+      VillainCritAttack_46: -8819547748073979143
+      VillainCritAttack_47: -7048715701225653787
+      VillainCritAttack_48: -2834834080802223900
+      VillainCritAttack_49: -9009644207644170050
+      VillainCritAttack_5: 7624181969705020452
+      VillainCritAttack_50: 2877159837774372497
+      VillainCritAttack_51: -2012902301663606685
+      VillainCritAttack_52: -4831026914215010189
+      VillainCritAttack_53: 363659639258145159
+      VillainCritAttack_54: -2468298248133587997
+      VillainCritAttack_55: 2165359874871859255
+      VillainCritAttack_56: -4734754938039505909
+      VillainCritAttack_57: 3282682509044451225
+      VillainCritAttack_58: 1608330076964167298
+      VillainCritAttack_59: -5261270419194819926
+      VillainCritAttack_6: -2445731489300849735
+      VillainCritAttack_60: 8900671076425577797
+      VillainCritAttack_61: 3699182457730274884
+      VillainCritAttack_62: -1293784481437590451
+      VillainCritAttack_63: 3487480836884154513
+      VillainCritAttack_64: -3677796147490972614
+      VillainCritAttack_65: -4351802099482544892
+      VillainCritAttack_66: 5495703483458276746
+      VillainCritAttack_67: -1634346165728749793
+      VillainCritAttack_68: 7518617856621304845
+      VillainCritAttack_69: 7747235545393877275
+      VillainCritAttack_7: 7876553680890226734
+      VillainCritAttack_70: 4712751952263728759
+      VillainCritAttack_71: -4639657633886339616
+      VillainCritAttack_72: 933403892369197895
+      VillainCritAttack_73: 1086323874987157567
+      VillainCritAttack_74: 7697663879098582895
+      VillainCritAttack_75: -6912671384530061997
+      VillainCritAttack_76: 7911096392539088044
+      VillainCritAttack_77: 7365525448175995166
+      VillainCritAttack_78: -5335831890461847439
+      VillainCritAttack_79: -8796837082490052487
+      VillainCritAttack_8: -2791635525095219401
+      VillainCritAttack_80: 5603766762266259266
+      VillainCritAttack_81: 7772599715555768783
+      VillainCritAttack_82: -1303126830680782012
+      VillainCritAttack_83: 5895843318725264129
+      VillainCritAttack_84: -2771321411119314754
+      VillainCritAttack_85: 1189864801933357589
+      VillainCritAttack_86: -2108935569567632289
+      VillainCritAttack_87: 4584888308990601492
+      VillainCritAttack_88: 4122935866609286994
+      VillainCritAttack_89: -1866525834077901339
+      VillainCritAttack_9: -1719481431587479935
+      VillainCritAttack_90: -883921461227908472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

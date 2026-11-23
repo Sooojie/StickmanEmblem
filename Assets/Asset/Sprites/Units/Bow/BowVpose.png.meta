@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: 6a3eec0d5ab10b04f8e1cf103b6869dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4431386224647099281
+    second: BowVpose_0
+  - first:
+      213: -6874837969280857950
+    second: BowVpose_1
+  - first:
+      213: -8632045928097461262
+    second: BowVpose_2
+  - first:
+      213: 229139501486404820
+    second: BowVpose_3
+  - first:
+      213: 8483506422276569244
+    second: BowVpose_4
+  - first:
+      213: 3859552792803164070
+    second: BowVpose_5
+  - first:
+      213: 549887737462120396
+    second: BowVpose_6
+  - first:
+      213: -5825854728062712802
+    second: BowVpose_7
+  - first:
+      213: -8761812866197501167
+    second: BowVpose_8
+  - first:
+      213: -3096986395287702422
+    second: BowVpose_9
+  - first:
+      213: -7390822258479474112
+    second: BowVpose_10
+  - first:
+      213: 8671604223218316382
+    second: BowVpose_11
+  - first:
+      213: -8208920839946835115
+    second: BowVpose_12
+  - first:
+      213: 2021383618395058507
+    second: BowVpose_13
+  - first:
+      213: -448389053554851490
+    second: BowVpose_14
+  - first:
+      213: -8268093521618445247
+    second: BowVpose_15
+  - first:
+      213: -3686966423124282827
+    second: BowVpose_16
+  - first:
+      213: -4399753069806480843
+    second: BowVpose_17
+  - first:
+      213: -5219835561172546835
+    second: BowVpose_18
+  - first:
+      213: 1339491238114175593
+    second: BowVpose_19
+  - first:
+      213: -8242874100038569633
+    second: BowVpose_20
+  - first:
+      213: 3721506072741220749
+    second: BowVpose_21
+  - first:
+      213: -3387944474058571131
+    second: BowVpose_22
+  - first:
+      213: -4487962600205504595
+    second: BowVpose_23
+  - first:
+      213: -1207669232853648877
+    second: BowVpose_24
+  - first:
+      213: 6541246066359196800
+    second: BowVpose_25
+  - first:
+      213: -5457693784367940549
+    second: BowVpose_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowVpose_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2158
+        width: 112
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca95905bd8082c0800000000000000
+      internalID: -4431386224647099281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2158
+        width: 104
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a885a89a4ba790a0800000000000000
+      internalID: -6874837969280857950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_2
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 2158
+        width: 95
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc4e286ffc43880800000000000000
+      internalID: -8632045928097461262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_3
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2158
+        width: 85
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d47b1e99211e2300800000000000000
+      internalID: 229139501486404820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1798
+        width: 79
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c983a8db4287bb570800000000000000
+      internalID: 8483506422276569244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1798
+        width: 79
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af36e6f0d2ef8530800000000000000
+      internalID: 3859552792803164070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_6
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1798
+        width: 82
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd5c9dbf791a700800000000000000
+      internalID: 549887737462120396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_7
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1798
+        width: 85
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14cac4ddf7662fa0800000000000000
+      internalID: -5825854728062712802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1438
+        width: 88
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bc9d9ce99c76680800000000000000
+      internalID: -8761812866197501167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1438
+        width: 90
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b8a2384b4505d0800000000000000
+      internalID: -3096986395287702422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_10
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1438
+        width: 90
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad74d60568e6990800000000000000
+      internalID: -7390822258479474112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_11
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1438
+        width: 92
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5474bdc81ab75870800000000000000
+      internalID: 8671604223218316382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1078
+        width: 94
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55beaa12dfd041e80800000000000000
+      internalID: -8208920839946835115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_13
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1079
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413b31f0b56d0c10800000000000000
+      internalID: 2021383618395058507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1079
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5180bd088007c9f0800000000000000
+      internalID: -448389053554851490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_15
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1079
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c59329fb4d14d80800000000000000
+      internalID: -8268093521618445247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 719
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53272e2929345dcc0800000000000000
+      internalID: -3686966423124282827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_17
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 719
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53210c6d4efe0f2c0800000000000000
+      internalID: -4399753069806480843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_18
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 719
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deacb56863b6f87b0800000000000000
+      internalID: -5219835561172546835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_19
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 719
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a2b832f24d69210800000000000000
+      internalID: 1339491238114175593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 359
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51feeabdad6b9d80800000000000000
+      internalID: -8242874100038569633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_21
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 359
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8113374e0275a330800000000000000
+      internalID: 3721506072741220749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_22
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 359
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582cdf0737a9bf0d0800000000000000
+      internalID: -3387944474058571131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_23
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 359
+        width: 94
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf23891bcd87b1c0800000000000000
+      internalID: -4487962600205504595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 94
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31af6913b3f7d3fe0800000000000000
+      internalID: -1207669232853648877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 94
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cd2cde3ac27ca50800000000000000
+      internalID: 6541246066359196800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowVpose_26
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 94
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c34e15b606244b0800000000000000
+      internalID: -5457693784367940549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e02374dda5e7e04bb4513b5038ab30e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BowVpose_0: -4431386224647099281
+      BowVpose_1: -6874837969280857950
+      BowVpose_10: -7390822258479474112
+      BowVpose_11: 8671604223218316382
+      BowVpose_12: -8208920839946835115
+      BowVpose_13: 2021383618395058507
+      BowVpose_14: -448389053554851490
+      BowVpose_15: -8268093521618445247
+      BowVpose_16: -3686966423124282827
+      BowVpose_17: -4399753069806480843
+      BowVpose_18: -5219835561172546835
+      BowVpose_19: 1339491238114175593
+      BowVpose_2: -8632045928097461262
+      BowVpose_20: -8242874100038569633
+      BowVpose_21: 3721506072741220749
+      BowVpose_22: -3387944474058571131
+      BowVpose_23: -4487962600205504595
+      BowVpose_24: -1207669232853648877
+      BowVpose_25: 6541246066359196800
+      BowVpose_26: -5457693784367940549
+      BowVpose_3: 229139501486404820
+      BowVpose_4: 8483506422276569244
+      BowVpose_5: 3859552792803164070
+      BowVpose_6: 549887737462120396
+      BowVpose_7: -5825854728062712802
+      BowVpose_8: -8761812866197501167
+      BowVpose_9: -3096986395287702422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
