@@ -3,6 +3,7 @@ using UnityEngine;
 public class Weapon : Item
 {
     [Header("Weapon Attributes")]
+    public string type;
     public int might;
     public int hit;
     public int crit;

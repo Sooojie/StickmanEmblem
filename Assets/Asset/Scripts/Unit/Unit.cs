@@ -10,6 +10,7 @@ public class Unit : MonoBehaviour
 
     [Header("Inventory")]
     public Inventory inventory;
+    public Weapon equippedWeapon;
 
     private void Awake()
     {
