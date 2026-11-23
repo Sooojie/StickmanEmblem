@@ -26,14 +26,24 @@ public class UnitSelectionManager : MonoBehaviour
         new Vector3Int(1, 0, 0)
     };
 
-    private void Update()
-    {
-        if (Mouse.current == null || !Mouse.current.leftButton.wasPressedThisFrame) return;
+   private void Update()
+{
+    BattleManager battleManager =
+        FindAnyObjectByType<BattleManager>();
 
-        if (selectedUnit != null && selectedUnit.IsMoving) return;
+   //only allow us to click if its our turn
+    if (battleManager != null && !battleManager.IsPlayerTurn())
+        return;
 
-        HandleMouseClick();
-    }
+    if (Mouse.current == null ||
+        !Mouse.current.leftButton.wasPressedThisFrame)
+        return;
+
+    if (selectedUnit != null && selectedUnit.IsMoving)
+        return;
+
+    HandleMouseClick();
+}
 
     // Method: HandleMouseClick()
     // Read mouse position, click, and unit selection
@@ -73,11 +83,16 @@ public class UnitSelectionManager : MonoBehaviour
 
     // Method: SelectUnit
     // Sets unit if object at mouse position has a unitController
-    private void SelectUnit(UnitController unit)
-    {
-        selectedUnit = unit;
-        ShowMovementRange();
-    }
+   private void SelectUnit(UnitController unit)
+{
+
+//i added these two lines to make sure players cannot control the enemy
+    if (unit.isEnemy)
+        return;
+
+    selectedUnit = unit;
+    ShowMovementRange();
+}
 
     // Method: ShowMovementRange
     // Displays possible tiles to move unit
