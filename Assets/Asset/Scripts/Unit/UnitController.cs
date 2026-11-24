@@ -7,6 +7,10 @@ public class UnitController : MonoBehaviour
     [Header("Movement Settings")]
     public int movementRange = 1;
     public float moveSpeed = 4f;
+
+    [Header("Actions")]
+    public bool hasMoved;
+    public bool hasActed;
     
     private Grid grid;
     private Vector3Int currentCell;
@@ -14,6 +18,8 @@ public class UnitController : MonoBehaviour
 
     public Vector3Int CurrentCell => currentCell;
     public bool IsMoving => isMoving;
+
+    public bool enemy = false;
 
     private void Start()
     {
@@ -52,6 +58,7 @@ public class UnitController : MonoBehaviour
             return;
         }
 
+        isMoving = true;
         StartCoroutine(MoveRoutine(path));
     }
 
@@ -86,6 +93,28 @@ public class UnitController : MonoBehaviour
         }
 
         isMoving = false;
+        hasMoved = true;
+    }
+
+    public bool IsEnemy()
+    {
+        return enemy;
+    }
+
+    public bool CanMove()
+    {
+        return !hasMoved && !hasActed && !isMoving;
+    }
+
+    public bool CanAct()
+    {
+        return !hasActed && !isMoving;
+    }
+
+    public void ResetTurnActions()
+    {
+        hasMoved = false;
+        hasActed = false;
     }
 
     private void OnDestroy()

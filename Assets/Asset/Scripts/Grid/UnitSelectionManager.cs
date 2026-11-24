@@ -3,6 +3,13 @@ using UnityEngine.Tilemaps;
 using UnityEngine.InputSystem;
 using System.Collections.Generic;
 
+public enum UnitActionMode
+{
+    None,
+    Move,
+    Attack
+}
+
 public class UnitSelectionManager : MonoBehaviour
 {
     [Header("References")]
@@ -10,40 +17,54 @@ public class UnitSelectionManager : MonoBehaviour
     public Tilemap groundTilemap;
     public Tilemap highlightTilemap;
     public TileBase movementHighlight;
+    public TileBase attackHighlight;
+
     public GridPathfinder pathfinder;
     public UnitStatsDisplay unitStatsDisplay;
-
-    [Header("Obstacles")]
-    public Tilemap obstacleTilemap;
+    public BattleManager battleManager;
 
     private UnitController selectedUnit;
-
-    private readonly Vector3Int[] directions =
-    {
-        new Vector3Int(0, 1, 0),
-        new Vector3Int(0, -1, 0),
-        new Vector3Int(-1, 0, 0),
-        new Vector3Int(1, 0, 0)
-    };
+    private UnitActionMode currentMode = UnitActionMode.None;
 
    private void Update()
-{
-    BattleManager battleManager =
-        FindAnyObjectByType<BattleManager>();
+    {
+    //only allow us to click if its our turn
+        if (battleManager != null && !battleManager.IsPlayerTurn())
+            return;
 
-   //only allow us to click if its our turn
-    if (battleManager != null && !battleManager.IsPlayerTurn())
-        return;
+        if (Mouse.current == null ||
+            !Mouse.current.leftButton.wasPressedThisFrame)
+            return;
 
-    if (Mouse.current == null ||
-        !Mouse.current.leftButton.wasPressedThisFrame)
-        return;
+        if (selectedUnit != null && selectedUnit.IsMoving)
+            return;
 
-    if (selectedUnit != null && selectedUnit.IsMoving)
-        return;
+        HandleMouseClick();
+    }
 
-    HandleMouseClick();
-}
+    public void BeginMoveMode()
+    {
+        ClearHighlights();
+        currentMode = UnitActionMode.Move;
+
+        if (selectedUnit != null) ShowMovementRange();
+    }
+
+    public void BeginAttackMode()
+    {
+        ClearHighlights();
+        currentMode = UnitActionMode.Attack;
+
+        if (selectedUnit != null) ShowAttackTargets();
+    }
+
+    public void BeginItemMode()
+    {
+        currentMode = UnitActionMode.None;
+        ClearHighlights();
+
+        Debug.Log("Item usage will be implemented later.");
+    }
 
     // Method: HandleMouseClick()
     // Read mouse position, click, and unit selection
@@ -60,39 +81,53 @@ public class UnitSelectionManager : MonoBehaviour
         // Detect if object was hit
         if (hit != null)
         {
-            UnitController unitController = hit.GetComponent<UnitController>();
-            Unit unit = hit.GetComponent<Unit>();
+            UnitController unit = hit.GetComponent<UnitController>();
             
             // Detect if object had UnitController
-            if (unitController!= null)
+            if (unit != null)
             {
-                SelectUnit(unitController);
-                unitStatsDisplay.ShowUnit(unit);
+                HandleUnitClick(unit);
                 return;
             }
         }
 
         // Get position of unit
-        if (selectedUnit != null)
-        {
-            Vector3Int clickedCell = grid.WorldToCell(worldPosition);
+        if (selectedUnit == null) return;
 
+        Vector3Int clickedCell = grid.WorldToCell(worldPosition);
+
+        if (currentMode == UnitActionMode.Move)
+        {
             TryMoveSelectedUnit(clickedCell);
         }
     }
 
-    // Method: SelectUnit
-    // Sets unit if object at mouse position has a unitController
-   private void SelectUnit(UnitController unit)
-{
+    private void HandleUnitClick(UnitController clickedUnit)
+    {
+        // Attack mode: clicking an enemy attempts an attack.
+        if (currentMode == UnitActionMode.Attack)
+        {
+            if (clickedUnit.IsEnemy())
+            {
+                TryAttackTarget(clickedUnit);
+                return;
+            }
+        }
 
-//i added these two lines to make sure players cannot control the enemy
-    if (unit.isEnemy)
-        return;
+        if (clickedUnit.IsEnemy()) return;
 
-    selectedUnit = unit;
-    ShowMovementRange();
-}
+        selectedUnit = clickedUnit;
+
+        Unit unit = selectedUnit.GetComponent<Unit>();
+
+        if (unit != null && unitStatsDisplay != null) unitStatsDisplay.ShowUnit(unit);
+
+        ClearHighlights();
+
+        if (currentMode == UnitActionMode.Move) ShowMovementRange();
+
+        if (currentMode == UnitActionMode.Attack) ShowAttackTargets();
+    }
 
     // Method: ShowMovementRange
     // Displays possible tiles to move unit
@@ -131,5 +166,61 @@ public class UnitSelectionManager : MonoBehaviour
         highlightTilemap.ClearAllTiles();
         selectedUnit = null;
         unitStatsDisplay.ClearDisplay();
+    }
+
+    private void ShowAttackTargets()
+    {
+        if (selectedUnit == null || !selectedUnit.CanAct()) return;
+
+        UnitController[] units = FindObjectsByType<UnitController>();
+
+        foreach (UnitController target in units)
+        {
+            if (target == null || !target.IsEnemy()) continue;
+
+            int distance = GetDistance(selectedUnit.CurrentCell, target.CurrentCell);
+
+            if (distance == 1)
+            {
+                highlightTilemap.SetTile(target.CurrentCell,attackHighlight);
+            }
+        }
+    }
+
+    private void TryAttackTarget(UnitController target)
+    {
+        if (selectedUnit == null || target == null || !selectedUnit.CanAct()) return;
+
+        int distance = GetDistance(selectedUnit.CurrentCell, target.CurrentCell);
+
+        if (distance != 1)
+        {
+            Debug.Log("Enemy is not in attack range.");
+            return;
+        }
+
+        battleManager.Attack(selectedUnit, target);
+
+        ClearSelection();
+    }
+
+    public void ClearSelection()
+    {
+        ClearHighlights();
+
+        selectedUnit = null;
+        currentMode = UnitActionMode.None;
+
+        if (unitStatsDisplay != null) unitStatsDisplay.ClearDisplay();
+    }
+
+    private void ClearHighlights()
+    {
+        highlightTilemap.ClearAllTiles();
+    }
+
+    private int GetDistance(Vector3Int a, Vector3Int b)
+    {
+        return Mathf.Abs(a.x - b.x) + Mathf.Abs(a.y - b.y);
     }
 }

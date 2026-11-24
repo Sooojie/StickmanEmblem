@@ -30,4 +30,6 @@ public class Unit : MonoBehaviour
     {
         gold += amount;
     }
+
+
 }

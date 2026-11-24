@@ -1,5 +1,7 @@
 using UnityEngine;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 
 public enum TurnState
 {
@@ -10,9 +12,16 @@ public enum TurnState
 
 public class BattleManager : MonoBehaviour
 {
+    [Header("References")]
+    [SerializeField] private GridPathfinder pathfinder;
+    
     [Header("State")]
     [SerializeField] private int currentRound = 1;
     [SerializeField] private TurnState currentTurn = TurnState.PlayerTurn;
+
+    [Header("Combat")]
+    [SerializeField] private UnitSelectionManager selectionManager;
+    [SerializeField] private CombatFormula combatFormula;
 
     public int CurrentRound => currentRound;
     public TurnState CurrentTurn => currentTurn;
@@ -32,6 +41,8 @@ public class BattleManager : MonoBehaviour
     public void EndPlayerTurn()
     {
         currentTurn = TurnState.EnemyTurn;
+        selectionManager.ClearSelection();
+        ResetUnitActions(true);
 
         AddLog("Enemy turn started.");
         NotifyTurnChanged();
@@ -39,21 +50,20 @@ public class BattleManager : MonoBehaviour
         StartEnemyTurn();
     }
 
-   private void StartEnemyTurn()
+    private void StartEnemyTurn()
     {
         StartCoroutine(EnemyTurnRoutine());
     }
-
 
     private IEnumerator EnemyTurnRoutine()
     {
         //this is to find the units in the scene
         UnitController[] units =
-            FindObjectsByType<UnitController>(FindObjectsSortMode.None);
+            FindObjectsByType<UnitController>();
 
         foreach (UnitController enemy in units)
         {
-            if (enemy == null || !enemy.isEnemy)
+            if (enemy == null || !enemy.IsEnemy())
                 continue;
 
             //this is going to try to find the closest player (unit)
@@ -91,7 +101,7 @@ public class BattleManager : MonoBehaviour
             }
 
             //small little pause before next enemy makes a move
-            yield return new WaitForSeconds(enemyDelay);
+            yield return new WaitForSeconds(0.3f);
         }
 
         EndEnemyTurn();
@@ -102,20 +112,21 @@ public class BattleManager : MonoBehaviour
         currentRound++;
         currentTurn = TurnState.PlayerTurn;
         
+        ResetUnitActions(false);
         AddLog("Player turn started.");
         NotifyTurnChanged();
     }
 
     private UnitController FindClosestPlayer(UnitController enemy)
     {
-        UnitController[] units = FindObjectsByType<UnitController>(FindObjectsSortMode.None);
+        UnitController[] units = FindObjectsByType<UnitController>();
 
         UnitController closest = null;
         int shortestDistance = int.MaxValue;
 
         foreach (UnitController unit in units)
         {
-            if (unit == null || unit.isEnemy)
+            if (unit == null || unit.IsEnemy())
                 continue;
 
             int distance = GetDistance(
@@ -174,7 +185,7 @@ private void MoveEnemy(UnitController enemy, UnitController target)
             enemy.MoveTo(path);
     }
 
-    private void Attack(UnitController attacker, UnitController defender)
+    public void Attack(UnitController attacker, UnitController defender)
     {
         Unit attackerUnit = attacker.GetComponent<Unit>();
         Unit defenderUnit = defender.GetComponent<Unit>();
@@ -188,25 +199,23 @@ private void MoveEnemy(UnitController enemy, UnitController target)
         if (attackStats == null || defenseStats == null)
             return;
 
-        int damage = Mathf.Max(
-            0,
-            attackStats.attack - defenseStats.defense
-        );
+        combatFormula.InitiateCombat(attackerUnit, defenderUnit, attacker.CurrentCell, defender.CurrentCell);
 
-        defenseStats.health -= damage;
-        defenseStats.health = Mathf.Max(0, defenseStats.health);
+        attacker.hasActed = true;
 
-        string message = attackerUnit.unitName +
-            " attacked " + defenderUnit.unitName +
-            " for " + damage + " damage!";
+        AddLog(attackerUnit.unitName + " attacked " + defenderUnit.unitName);
 
-        Debug.Log(message);
-        AddLog(message);
-
-        if (defenseStats.health <= 0)
-        {
+        // Testing
+        //if (defenseStats.health <= 0)
+        //{
             AddLog(defenderUnit.unitName + " was defeated!");
             Destroy(defender.gameObject);
+        //}
+
+        if (attackStats.health <= 0)
+        {
+            AddLog(attackerUnit.unitName + " was defeated!");
+            Destroy(attacker.gameObject);
         }
     }
 
@@ -215,7 +224,6 @@ private void MoveEnemy(UnitController enemy, UnitController target)
         return Mathf.Abs(a.x - b.x) +
                Mathf.Abs(a.y - b.y);
     }
-
 
     public void EndBattle()
     {
@@ -237,5 +245,47 @@ private void MoveEnemy(UnitController enemy, UnitController target)
     public bool IsPlayerTurn()
     {
         return currentTurn == TurnState.PlayerTurn;
+    }
+
+    public void MoveAction()
+    {
+        if (!IsPlayerTurn()) return;
+
+        selectionManager.BeginMoveMode();
+    }
+
+    public void AttackAction()
+    {
+        if (!IsPlayerTurn()) return;
+
+        selectionManager.BeginAttackMode();
+    }
+
+    public void UseItemAction()
+    {
+        if (!IsPlayerTurn()) return;
+
+        selectionManager.BeginItemMode();
+    }
+
+    public void WaitAction()
+    {
+        if (!IsPlayerTurn()) return;
+
+        selectionManager.ClearSelection();
+        EndPlayerTurn();
+    }
+
+    private void ResetUnitActions(bool enemies)
+    {
+        UnitController[] units = FindObjectsByType<UnitController>();
+
+        foreach (UnitController unit in units)
+        {
+            if (unit.IsEnemy() == enemies)
+            {
+                unit.ResetTurnActions();
+            }
+        }
     }
 }
