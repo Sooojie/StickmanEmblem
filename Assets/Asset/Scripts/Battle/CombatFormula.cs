@@ -99,7 +99,7 @@ public class CombatFormula : MonoBehaviour
 
 		//Now to fill in the actual combat part here eventually tm
 		Fight(attacker, defender, AAtk, AHit, DDef, DRes, DAvo);
-		if (defender.unitStats.health > 0 /*&& (attacker.equippedWeapon.type != "Bow" || attacker.equippedWeapon.type != "Staff")*/)
+		if (defender.unitStats.health > 0 && (attacker.equippedWeapon.type != "Bow" || attacker.equippedWeapon.type != "Staff"))
 		{
 			Fight(defender, attacker, DAtk, DHit, ADef, ARes, AAvo);
 			if (AattackSpeed + 3 < DattackSpeed)
@@ -121,7 +121,7 @@ public class CombatFormula : MonoBehaviour
 		float CritAttempt = Random.Range(0.0F, 100.0F);
 		int Crit = 1;
 
-		if ((/*A.equippedWeapon.type.crit +*/ A.unitStats.skill/2) - (B.unitStats.luck) > CritAttempt)
+		if ((A.equippedWeapon.type.crit + A.unitStats.skill/2) - (B.unitStats.luck) > CritAttempt)
 		{
 			Crit = 3;
 		}
@@ -142,19 +142,19 @@ public class CombatFormula : MonoBehaviour
 	//Weapon Effectiveness by Attacker
 		int EA = 0;
 	//Currently setting away weapon methods until I figure out how it's equipped
-	/*if ((attacker.equippedWeapon.type == "Sword" && defender.equippedWeapon.type == "Mace") || 
+	if ((attacker.equippedWeapon.type == "Sword" && defender.equippedWeapon.type == "Mace") || 
 	(attacker.equippedWeapon.type == "Mace" && defender.equippedWeapon.type == "Spear") || 
 	(attacker.equippedWeapon.type == "Spear" && defender.equippedWeapon.type == "Sword"))
 		{
 	EA = 1;
 	}
 	//Weapon Effectiveness by Defender
-	if (defender.equippedWeapon.type == "Sword" && attacker.equippedWeapon.type == "Mace") || 
+	if ((defender.equippedWeapon.type == "Sword" && attacker.equippedWeapon.type == "Mace") || 
 	(defender.equippedWeapon.type == "Mace" && attacker.equippedWeapon.type == "Spear") || 
 	(defender.equippedWeapon.type == "Spear" && attacker.equippedWeapon.type == "Sword"))
 		{
 	EA = -1;
-	}*/
+	}
 	//Calculate attack combat stats
 		int AHit = CalcHit(attacker, EA);
 		int DattackSpeed = CalcAttackSpeed(defender);
@@ -188,20 +188,18 @@ public class CombatFormula : MonoBehaviour
 		{
 		Mult = 3;
 		}
-		//Currently setting away weapon methods until I figure out how it's equipped
-		return unit.unitStats.attack + (Mult)/**(unit.equippedWeapon.type.might+E)*/;
+
+		return unit.unitStats.attack + (Mult)*(unit.equippedWeapon.type.might+E);
 	}
 
 	private int CalcHit(Unit unit, int E)
 	{
-		//Currently setting away weapon methods until I figure out how it's equipped
-		return /*unit.equippedWeapon.type.hit + 2 * */unit.unitStats.skill + (unit.unitStats.luck / 2) + (E * 10);
+		return unit.equippedWeapon.type.hit + 2 * unit.unitStats.skill + (unit.unitStats.luck / 2) + (E * 10);
 	}
 
 	private int CalcAttackSpeed(Unit unit)
 	{
-		//Currently setting away weapon methods until I figure out how it's equipped
-		if (unit.unitStats.constitution > /*unit.equippedWeapon.type.weight*/ 0)
+		if (unit.unitStats.constitution > unit.equippedWeapon.type.weight)
 		{
 			if (unit.unitStats.speed > 0)
 			{
@@ -212,8 +210,7 @@ public class CombatFormula : MonoBehaviour
 		{
 			if (unit.unitStats.speed > 0)
 			{
-			//Currently setting away weapon methods until I figure out how it's equipped
-				return unit.unitStats.speed + unit.unitStats.constitution /*- unit.equippedWeapon.type.weight*/;
+				return unit.unitStats.speed + unit.unitStats.constitution - unit.equippedWeapon.type.weight;
 			}
 		}
 	return 0;
